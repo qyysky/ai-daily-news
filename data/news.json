@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T01:35:01.278Z",
+  "updatedAt": "2026-07-22T01:46:58.668Z",
   "count": 120,
   "items": [
     {
@@ -9,14 +9,6 @@
       "source": "量子位",
       "publishedAt": "2026-07-22T00:34:33.000Z",
       "summary": "中国大模型首次获得IMO官方金牌水平认证"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual",
-      "url": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-22T00:01:32.000Z",
-      "summary": "Poolside has released Laguna S 2.1, a 118B open-weight Mixture-of-Experts coding model with 8B active parameters per token and a 1M-token context. It matches or beats models several times its size on agentic coding benchmarks, ships under OpenMDW-1.1, and runs on a single NVIDIA "
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -40,7 +32,7 @@
       "url": "https://runtimewire.com/article/openai-announces-models-hacked-hugging-face-during-an-eval",
       "source": "Hacker News",
       "publishedAt": "2026-07-21T20:30:04.000Z",
-      "summary": "10 points · 1 comments"
+      "summary": "11 points · 1 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIw",
@@ -48,7 +40,7 @@
       "url": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
       "source": "Hacker News",
       "publishedAt": "2026-07-21T20:06:14.000Z",
-      "summary": "26 points · 6 comments"
+      "summary": "27 points · 6 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -67,14 +59,6 @@
       "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according t"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google Releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber: A Cheaper, More Token-Efficient Flash Tier Built for Agentic Workloads",
-      "url": "https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-21T17:45:08.000Z",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber on July 21, 2026. The Flash tier gets cheaper and more token-efficient, with 3.6 Flash cutting output tokens 17% and dropping its output price to $7.50 per 1M. Flash-Lite runs at 350 tokens/sec, while gated Fla"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Introducing the ChatGPT for small business program",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -89,14 +73,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-07-21T16:53:37.000Z",
       "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes that the settlement "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis",
-      "url": "https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-21T16:29:36.000Z",
-      "summary": "In this tutorial, we explore NVIDIA’s srt-slurm framework and learn how we use srtctl to convert declarative YAML configurations into reproducible SLURM benchmark workflows for distributed LLM serving. We set up the project in Google Colab, inspect its internal architecture, defi"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -169,22 +145,6 @@
       "source": "量子位",
       "publishedAt": "2026-07-21T09:15:50.000Z",
       "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI",
-      "url": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-21T08:49:55.000Z",
-      "summary": "Meta has open-sourced Astryx, the React and StyleX design system it ran internally for eight years across 13,000+ apps. It ships 150+ accessible components, seven themes, dark mode, templates, and an agent-ready CLI under MIT — with React 19+ required. The post Meta Open-Sources "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device",
-      "url": "https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-21T07:48:28.000Z",
-      "summary": "NVIDIA has released Cosmos 3 Edge, a 4-billion-parameter open world model built to run on-device. It helps robots and vision AI agents understand surroundings, reason in real time, and generate robot actions locally. The Cosmos 3 family included Cosmos 3 Nano (16B) and Cosmos 3 S"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -315,14 +275,6 @@
       "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages",
-      "url": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-20T21:14:19.000Z",
-      "summary": "Alibaba’s Tongyi Lab has released Qwen-Audio-3.0-TTS, a production-oriented text-to-speech (TTS) system. The model ships in two variants from the same lineage. Flash targets real-time interaction. Plus targets high-quality generation. Both are delivered as hosted models through A"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "SpaceX in your index fund, explained",
       "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
@@ -409,38 +361,6 @@
       "source": "MIT Tech Review",
       "publishedAt": "2026-07-20T08:39:01.000Z",
       "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
-      "url": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-20T01:56:50.000Z",
-      "summary": "A community developer fine-tuned OpenBMB's MiniCPM5-1B on Claude Fable 5 traces into a 1B model that runs fully local — a 657MB smallest build, 128K context, and visible reasoning. We verify every spec against the Hugging Face cards, separate what a fine-tune actually inherits fr"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Best Local LLMs You Can Run on a Single 24GB GPU in 2026: Qwen, Gemma, Mistral, DeepSeek Compared",
-      "url": "https://www.marktechpost.com/2026/07/19/best-local-llms-you-can-run-on-a-single-24gb-gpu-in-2026-qwen-gemma-mistral-deepseek-compared/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-20T01:18:46.000Z",
-      "summary": "A single 24GB GPU is the practical floor for serious local inference. This guide compares six open-weight models that fit one card at Q4_K_M. It covers Qwen3.6, Gemma 4, Mistral Small, gpt-oss-20b, and DeepSeek-R1-Distill. Each entry lists VRAM fit, licensing, and the job it does"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Feyn AI Releases SQRL, a Text-to-SQL Model Family That Inspects the Database Before Writing a Query",
-      "url": "https://www.marktechpost.com/2026/07/19/feyn-ai-releases-sqrl-a-text-to-sql-model-family-that-inspects-the-database-before-writing-a-query/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-19T22:20:23.000Z",
-      "summary": "Feyn Labs has released SQRL, a family of text-to-SQL models that inspect a database with read-only probes before committing to a query. The flagship SQRL-35B-A3B reports 70.6% execution accuracy on BIRD Dev, edging Claude Opus 4.6, and distills into self-hostable 4B and 9B checkp"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Alibaba Previews Qwen3.8-Max, a 2.4 Trillion-Parameter Multimodal Model, Days After Moonshot’s Kimi K3 Open-Weight Launch",
-      "url": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-19T21:42:50.000Z",
-      "summary": "Alibaba's Qwen team previewed Qwen3.8-Max-Preview, a 2.4 trillion-parameter multimodal MoE model it calls \"second only to Fable 5.\" The preview is live on Token Plan, Qoder, and QoderWork at 10% of standard pricing. What is not live: any benchmark table, model card, license, per-"
     },
     {
       "id": "aHR0cHM6Ly90aGVuZXh0d2ViLmNvbS9u",
@@ -961,6 +881,86 @@
       "source": "MIT Tech Review",
       "publishedAt": "2026-07-06T18:00:00.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday,"
+    },
+    {
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "source": "Hugging Face",
+      "publishedAt": "2026-07-06T15:30:55.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "source": "MIT Tech Review",
+      "publishedAt": "2026-07-02T15:37:08.000Z",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-t"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-01T18:15:00.000Z",
+      "summary": "Here are Google’s latest AI updates from June 2026."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-01T16:00:00.000Z",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9jb21w",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-30T06:00:00.000Z",
+      "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-29T16:00:00.000Z",
+      "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "Our latest Google Finance upgrades, including a new app",
+      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "summary": "The new Google Finance is coming out of beta and launching a new Android app."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-17T15:00:00.000Z",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-15T15:00:00.000Z",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-11T20:00:00.000Z",
+      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
     }
   ]
 }
