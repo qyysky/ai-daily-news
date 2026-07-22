@@ -1,0 +1,12 @@
+{
+  "name": "ai-daily-news",
+  "version": "1.0.0",
+  "description": "每日 AI 热点资讯聚合站",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

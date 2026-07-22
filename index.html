@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="每日 AI 热点资讯聚合 — 自动抓取全球 AI 新闻、论文与社区讨论" />
+  <meta name="github-repo" content="https://github.com/qyysky/ai-daily-news" />
+  <title>AI 每日热点</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>" />
+</head>
+<body>
+  <div class="bg-grid"></div>
+  <header class="header">
+    <div class="container header-inner">
+      <div class="brand">
+        <span class="brand-icon">🤖</span>
+        <div>
+          <h1>AI 每日热点</h1>
+          <p class="tagline">全球 AI 资讯 · 自动更新</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <span id="update-time" class="update-badge">加载中...</span>
+        <a href="https://github.com" id="github-link" class="btn-ghost" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <div class="search-box">
+        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="search" id="search" placeholder="搜索标题或摘要..." autocomplete="off" />
+      </div>
+      <div id="source-filters" class="source-filters"></div>
+    </section>
+
+    <section id="stats" class="stats"></section>
+    <section id="news-grid" class="news-grid"></section>
+    <div id="empty-state" class="empty-state hidden">
+      <p>没有找到匹配的新闻</p>
+    </div>
+    <div id="loading" class="loading">
+      <div class="spinner"></div>
+      <p>正在加载最新 AI 资讯...</p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>数据来源：RSS 订阅 · Hacker News · arXiv · 每日自动更新</p>
+      <p class="footer-sub">免费部署于 GitHub Pages</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
