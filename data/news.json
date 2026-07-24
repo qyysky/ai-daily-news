@@ -1,86 +1,278 @@
 {
-  "updatedAt": "2026-07-23T04:16:30.875Z",
+  "updatedAt": "2026-07-24T04:16:17.922Z",
   "count": 120,
   "items": [
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-      "url": "https://arxiv.org/abs/2607.18239",
+      "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "url": "https://arxiv.org/abs/2607.20452",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18239v1 Announce Type: new Abstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin,"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20452v1 Announce Type: new Abstract: Modern software quality assurance demands intelligent, autonomous systems capable of adaptive decision-making across distributed cloud environments. This paper presents AINTMA (Agentic Intelligent Test Management Architecture), a mu"
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-      "url": "https://arxiv.org/abs/2607.18240",
+      "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "url": "https://arxiv.org/abs/2607.20462",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18240v1 Announce Type: new Abstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or inter"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20462v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchm"
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-      "url": "https://arxiv.org/abs/2607.18241",
+      "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "url": "https://arxiv.org/abs/2607.20463",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18241v1 Announce Type: new Abstract: Large language models (LLMs) excel at analyzing individual documents but break down on exhaustive, cross-entity analytical questions over enterprise-scale datasets due to context overflow, loss of per-entity attribution, and linear "
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20463v1 Announce Type: new Abstract: This paper presents an AI-driven browser extension that identifies clickbait to help users avoid misleading Internet articles. Moving beyond traditional detection, the application employs a hybrid machine learning architecture that "
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "AI Tool Discovery at Scale: All You Need is DNS",
-      "url": "https://arxiv.org/abs/2607.18242",
+      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "url": "https://arxiv.org/abs/2607.20464",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18242v1 Announce Type: new Abstract: The coming era of autonomous AI agents demands a discovery mechanism capable of navigating millions of tools, yet existing solutions buckle under O(N) complexity and centralized governance. Instead of building another fragile overla"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20464v1 Announce Type: new Abstract: When a language model gives different answers on repeated runs, does that variation reveal what it does not know? Self-consistency turns the variation into a per-question uncertainty estimate via majority voting. But does the same v"
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-      "url": "https://arxiv.org/abs/2607.18243",
+      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "url": "https://arxiv.org/abs/2607.20466",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18243v1 Announce Type: new Abstract: Agentic AI is crossing trust boundaries faster than current risk models can represent. Existing approaches provide one of two partial views. They either describe failure mechanisms without producing a transferable residual-risk esti"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20466v1 Announce Type: new Abstract: Rigorous benchmarks have driven progress in autonomous GPU kernel performance optimization by establishing a shared target to hillclimb on, but no equivalent exists for TPUs. We present JAXBench, a TPU-native benchmark suite for AI-"
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "SAAG: Structured Agent Assessment and Grounding",
-      "url": "https://arxiv.org/abs/2607.18245",
+      "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+      "url": "https://arxiv.org/abs/2607.20467",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18245v1 Announce Type: new Abstract: Exact-match evaluation of agent-calling obscures qualitatively different failure modes: a model may select the right function yet hallucinate argument values, or satisfy a schema while choosing a agent for the wrong reason. Existing"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20467v1 Announce Type: new Abstract: While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hindered by overly conservative confidence thresholds. These thresholds, necessitated by the Joint Probabi"
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Phionyx: A Deterministic AI Runtime Architecture with Structured State Management and Pre-Response Governance",
-      "url": "https://arxiv.org/abs/2607.18246",
+      "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+      "url": "https://arxiv.org/abs/2607.20468",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18246v1 Announce Type: new Abstract: We present Phionyx, a deterministic AI runtime architecture derived from the broader Echoism interaction framework that introduces a governance-first approach to AI engineering: treating large language model (LLM) outputs as noisy s"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20468v1 Announce Type: new Abstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended tasks can often be solved by retr"
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Integro-differential equations in angular stabilization of drone motion by distributed feedback control",
-      "url": "https://arxiv.org/abs/2607.18251",
+      "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+      "url": "https://arxiv.org/abs/2607.20469",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18251v1 Announce Type: new Abstract: In this paper, we propose angular stabilization of drone motion using distributed feedback control in the form of an integral operator. It should be stressed that the memory of this integral operator could be unbounded. It is intuit"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20469v1 Announce Type: new Abstract: Large language models (LLMs) handle many tasks with one set of parameters, but under KV-cached inference it is unclear what task-general structure, if any, is used at decode time rather than during prefill. We propose DecodeShare, a"
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "MILP-Evo: Closed-Loop Fully Automatic Design of MILP Solvers",
-      "url": "https://arxiv.org/abs/2607.18252",
+      "title": "PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs",
+      "url": "https://arxiv.org/abs/2607.20470",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18252v1 Announce Type: new Abstract: Machine learning methods have shown that data-driven policies can accelerate mixed-integer linear programming (MILP) solvers, but many such approaches remain difficult to inspect, adapt, and deploy because the learned policy is repr"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20470v1 Announce Type: new Abstract: Enhancing the task-specific capabilities of Large Language Models (LLMs) primarily requires substantial instruction-tuning datasets. However, the sheer volume of such data imposes a considerable annotation cost, and a lack of optimi"
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Beyond Accuracy and Cost: Latency-Aware LLM Query Routing for Dynamic Workloads",
-      "url": "https://arxiv.org/abs/2607.18253",
+      "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+      "url": "https://arxiv.org/abs/2607.20471",
       "source": "arXiv AI",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "summary": "arXiv:2607.18253v1 Announce Type: new Abstract: Modern language query routers improve inference efficiency by assigning each query to a model that balances response quality and monetary cost. However, current query routers are largely latency-agnostic and do not consider the gene"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "summary": "arXiv:2607.20471v1 Announce Type: new Abstract: Personalization, the act of varying a message to induce action from a specific receiver while keeping sender, channel, and time fixed, has a long tradition in psychology and marketing as a two-party problem in which sender and recei"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "新晋菲尔兹奖得主，当天宣布加入OpenAI",
+      "url": "https://www.qbitai.com/2026/07/457792.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-24T01:48:11.000Z",
+      "summary": "他的学生刚用Fable 5推翻87年悬案"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-23T21:15:06.000Z",
+      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and ot"
+    },
+    {
+      "id": "aHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9i",
+      "title": "Evaluating AI Agents: A Production Blueprint with Strands and AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-23T20:59:57.000Z",
+      "summary": "1 points · 0 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+      "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-23T19:31:59.000Z",
+      "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell c"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-23T19:00:00.000Z",
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice m"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Patreon is laying off 20 percent of workers",
+      "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-23T18:20:30.000Z",
+      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally tra"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "You Didn’t Get the AI Model You Paid For",
+      "url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-23T18:07:55.000Z",
+      "summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensiti"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-23T17:00:00.000Z",
+      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models "
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucG9saXRpY28uY29t",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-23T15:18:40.000Z",
+      "summary": "790 points · 693 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-23T14:13:35.000Z",
+      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expect"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-23T14:00:00.000Z",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case."
+    },
+    {
+      "id": "aHR0cHM6Ly9mdXR1cmlzbS5jb20vYXJ0",
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-23T13:09:10.000Z",
+      "summary": "626 points · 316 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIw",
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-23T13:00:03.000Z",
+      "summary": "281 points · 313 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-23T12:00:00.000Z",
+      "summary": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Lib"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Tech Review",
+      "publishedAt": "2026-07-23T12:00:00.000Z",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "智能体政策新闻相关背景和简要解读",
+      "url": "https://www.qbitai.com/2026/07/457787.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-23T11:08:31.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
+      "title": "Ask HN: If OpenAI hacked HuggingFace, why aren't OpenAI prosecuted?",
+      "url": "https://news.ycombinator.com/item?id=49019663",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-23T11:06:57.000Z",
+      "summary": "25 points · 32 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared",
+      "url": "https://www.marktechpost.com/2026/07/23/best-open-speech-recognition-asr-models-in-2026-wer-languages-latency-and-license-compared/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-23T09:26:40.000Z",
+      "summary": "Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR and MOSS-Transcribe are now separated by less than one WER point on the Hugging Face Open ASR Leaderboard — which means rank no longer decides anything. This ro"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」",
+      "url": "https://www.qbitai.com/2026/07/457698.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-23T08:23:49.000Z",
+      "summary": "VLA不是终局"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+      "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-23T08:01:22.000Z",
+      "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The ga"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+      "url": "https://www.qbitai.com/2026/07/457694.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-23T06:58:23.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
+      "url": "https://www.qbitai.com/2026/07/457537.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-23T06:36:08.000Z",
+      "summary": "具身智能正在从「参数竞赛」进入「架构竞赛」。"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
+      "url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-23T06:12:05.000Z",
+      "summary": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthrop"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "趋境科技华东区域总部落地钱江世纪城，五年内建成万卡级高品质 AI Token 工厂",
+      "url": "https://www.qbitai.com/2026/07/457534.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-23T04:42:52.000Z",
+      "summary": "推进华东区域业务布局的重要一步"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -115,20 +307,12 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
-      "url": "https://www.qbitai.com/2026/07/457356.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-23T01:43:44.000Z",
-      "summary": ""
-    },
-    {
       "id": "aHR0cHM6Ly9wZXRhbHMuZGV2Lw",
       "title": "Petals: Run LLMs at home, BitTorrent-style",
       "url": "https://petals.dev/",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T01:33:12.000Z",
-      "summary": "73 points · 25 comments"
+      "summary": "133 points · 37 comments"
     },
     {
       "id": "aHR0cHM6Ly9zaW1vbndpbGxpc29uLm5l",
@@ -136,15 +320,39 @@
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T01:16:14.000Z",
-      "summary": "64 points · 55 comments"
+      "summary": "428 points · 348 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
-      "url": "https://www.qbitai.com/2026/07/457249.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-23T00:35:43.000Z",
-      "summary": "为科研OPC创业者铺就“最后一公里”"
+      "id": "aHR0cHM6Ly9ibG9nLmNvZGViZXJnLm9y",
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-23T01:14:53.000Z",
+      "summary": "190 points · 142 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+    },
+    {
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-22T22:49:58.000Z",
+      "summary": "33 points · 40 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -155,6 +363,14 @@
       "summary": "Cursor has made Cursor Router generally available for Teams and Enterprise plans. The system classifies each request on query, context, task complexity and domain, then routes it to the most suitable model. Cursor reports frontier-quality output at 60% savings in online A/B tests"
     },
     {
+      "id": "aHR0cHM6Ly92YWx1ZXBhaXIuYXBw",
+      "title": "Show HN: ValuePair – a friendship app that cares about values first",
+      "url": "https://valuepair.app",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-22T22:20:00.000Z",
+      "summary": "8 points · 11 comments"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
       "url": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
@@ -163,20 +379,12 @@
       "summary": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downloading the dataset snapshot from Hugging Face, parsing the released task specific"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
-      "url": "https://www.qbitai.com/2026/07/457223.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-22T17:35:44.000Z",
-      "summary": "美图产品挑战赛（Meitu Hatch Catch）火热报名中"
-    },
-    {
       "id": "aHR0cHM6Ly9keWxhbmNhc3RpbGxvLmNv",
       "title": "Are AI labs pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T17:17:54.000Z",
-      "summary": "426 points · 163 comments"
+      "summary": "662 points · 240 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -192,7 +400,7 @@
       "url": "https://cruciblebench.ai/",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T15:39:01.000Z",
-      "summary": "100 points · 70 comments"
+      "summary": "106 points · 77 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -208,7 +416,15 @@
       "url": "https://www.wsj.com/tech/ai/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-ee388506",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T14:35:05.000Z",
-      "summary": "28 points · 3 comments"
+      "summary": "29 points · 4 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9yZXNvYnNjdXJhLnN1YnN0",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-22T14:18:05.000Z",
+      "summary": "479 points · 234 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
@@ -240,7 +456,7 @@
       "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T12:03:32.000Z",
-      "summary": "75 points · 99 comments"
+      "summary": "76 points · 102 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -259,14 +475,6 @@
       "summary": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI conten"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Utility companies promise to spare us from AI’s energy bill",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-22T10:12:13.000Z",
-      "summary": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "Unsloth vs Axolotl vs TRL vs LLaMA-Factory: A Fine-Tuning Framework Comparison on Speed, VRAM, and Multi-GPU",
       "url": "https://www.marktechpost.com/2026/07/22/unsloth-vs-axolotl-vs-trl-vs-llama-factory-a-fine-tuning-framework-comparison-on-speed-vram-and-multi-gpu/",
@@ -280,15 +488,7 @@
       "url": "https://codeberg.org/Codeberg/org/pulls/1253",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T08:27:12.000Z",
-      "summary": "47 points · 64 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
-      "url": "https://www.qbitai.com/2026/07/457117.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-22T07:31:19.000Z",
-      "summary": ""
+      "summary": "49 points · 77 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -299,28 +499,12 @@
       "summary": "Cisco Foundation AI has released Antares, a family of small language models trained to pinpoint where known vulnerabilities live inside a codebase. Antares-1B reaches 0.209 File F1 on the new Vulnerability Localization Benchmark, above GLM-5.2 at 753B parameters and Gemini 3 Pro."
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
-      "url": "https://www.qbitai.com/2026/07/457054.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-22T05:47:42.000Z",
-      "summary": "一颗“不走寻常路”的芯"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Introducing OpenAI Presence",
       "url": "https://openai.com/index/introducing-openai-presence",
       "source": "OpenAI",
       "publishedAt": "2026-07-22T05:30:00.000Z",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
-      "url": "https://www.qbitai.com/2026/07/457049.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-22T04:10:16.000Z",
-      "summary": "通过Meeting Flow让实时智能融入会议与商务沟通场景"
     },
     {
       "id": "aHR0cHM6Ly9zdG9jaGFzdGljLmJsb2cv",
@@ -347,30 +531,6 @@
       "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-21T22:06:43.000Z",
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-21T21:48:54.000Z",
-      "summary": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulner"
-    },
-    {
-      "id": "aHR0cHM6Ly9ydW50aW1ld2lyZS5jb20v",
-      "title": "OpenAI announces models hacked Hugging Face during an eval",
-      "url": "https://runtimewire.com/article/openai-announces-models-hacked-hugging-face-during-an-eval",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-21T20:30:04.000Z",
-      "summary": "15 points · 1 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIw",
       "title": "It was OpenAI that accidentally breached Hugging Face",
       "url": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
@@ -387,60 +547,12 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-21T19:22:28.000Z",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according t"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google Releases Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber: A Cheaper, More Token-Efficient Flash Tier Built for Agentic Workloads",
-      "url": "https://www.marktechpost.com/2026/07/21/google-releases-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber-a-cheaper-more-token-efficient-flash-tier-built-for-agentic-workloads/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-21T17:45:08.000Z",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber on July 21, 2026. The Flash tier gets cheaper and more token-efficient, with 3.6 Flash cutting output tokens 17% and dropping its output price to $7.50 per 1M. Flash-Lite runs at 350 tokens/sec, while gated Fla"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Introducing the ChatGPT for small business program",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
       "source": "OpenAI",
       "publishedAt": "2026-07-21T17:00:00.000Z",
       "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-21T16:53:37.000Z",
-      "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes that the settlement "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis",
-      "url": "https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-21T16:29:36.000Z",
-      "summary": "In this tutorial, we explore NVIDIA’s srt-slurm framework and learn how we use srtctl to convert declarative YAML configurations into reproducible SLURM benchmark workflows for distributed LLM serving. We set up the project in Google Colab, inspect its internal architecture, defi"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-      "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-21T15:00:00.000Z",
-      "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensiv"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Halliday’s latest smart glasses feature a much-improved display",
-      "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-21T13:00:00.000Z",
-      "summary": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, "
     },
     {
       "id": "aHR0cHM6Ly9wc3lsbC5jb20vYXJ0aWNs",
@@ -451,28 +563,20 @@
       "summary": "1 points · 0 comments"
     },
     {
+      "id": "aHR0cHM6Ly9zZ250LmFpL3Avc2hvdy1o",
+      "title": "LLM spambots liked my Show HN post more than real people did",
+      "url": "https://sgnt.ai/p/show-hn-llm-spam/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-21T11:22:30.000Z",
+      "summary": "13 points · 3 comments"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "Advancing next-gen AI with materials science innovation",
       "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
       "source": "MIT Tech Review",
       "publishedAt": "2026-07-21T10:37:34.000Z",
       "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every n"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI",
-      "url": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-21T08:49:55.000Z",
-      "summary": "Meta has open-sourced Astryx, the React and StyleX design system it ran internally for eight years across 13,000+ apps. It ships 150+ accessible components, seven themes, dark mode, templates, and an agent-ready CLI under MIT — with React 19+ required. The post Meta Open-Sources "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device",
-      "url": "https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-21T07:48:28.000Z",
-      "summary": "NVIDIA has released Cosmos 3 Edge, a 4-billion-parameter open world model built to run on-device. It helps robots and vision AI agents understand surroundings, reason in real time, and generate robot actions locally. The Cosmos 3 family included Cosmos 3 Nano (16B) and Cosmos 3 S"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -499,14 +603,6 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Alibaba’s Tongyi Lab Releases Qwen-Audio-3.0-TTS, a Hosted Text-to-Speech Model in Flash and Plus Tiers Across 16 Languages",
-      "url": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-20T21:14:19.000Z",
-      "summary": "Alibaba’s Tongyi Lab has released Qwen-Audio-3.0-TTS, a production-oriented text-to-speech (TTS) system. The model ships in two variants from the same lineage. Flash targets real-time interaction. Plus targets high-quality generation. Both are delivered as hosted models through A"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "China’s AI models have Trump’s AI world at war with itself",
       "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
@@ -528,7 +624,7 @@
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "source": "Hacker News",
       "publishedAt": "2026-07-20T14:21:47.000Z",
-      "summary": "1231 points · 929 comments"
+      "summary": "1238 points · 931 comments"
     },
     {
       "id": "aHR0cHM6Ly9haXJwb3J0LmFwdW5lbi5j",
@@ -536,7 +632,7 @@
       "url": "https://airport.apunen.com/",
       "source": "Hacker News",
       "publishedAt": "2026-07-20T10:30:40.000Z",
-      "summary": "850 points · 164 comments"
+      "summary": "852 points · 164 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -560,7 +656,7 @@
       "url": "https://blainehansen.me/post/llms-not-power-tools/",
       "source": "Hacker News",
       "publishedAt": "2026-07-20T01:47:59.000Z",
-      "summary": "38 points · 50 comments"
+      "summary": "38 points · 51 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL29wZW5h",
@@ -579,14 +675,6 @@
       "summary": "42 points · 46 comments"
     },
     {
-      "id": "aHR0cHM6Ly9sdWRpYy5tYXRhcm9hLmJs",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-19T01:29:19.000Z",
-      "summary": "449 points · 289 comments"
-    },
-    {
       "id": "aHR0cHM6Ly9wZXRhcGl4ZWwuY29tLzIw",
       "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
       "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
@@ -600,15 +688,7 @@
       "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
       "source": "Hacker News",
       "publishedAt": "2026-07-18T11:12:46.000Z",
-      "summary": "479 points · 582 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly92ZWx2ZXRzaGFyay5jb20v",
-      "title": "Why do AI company logos look like buttholes? (2025)",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-18T11:06:50.000Z",
-      "summary": "452 points · 146 comments"
+      "summary": "480 points · 583 comments"
     },
     {
       "id": "aHR0cHM6Ly9sb2NhbG5ld3NtYXR0ZXJz",
@@ -640,7 +720,7 @@
       "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
       "source": "Hacker News",
       "publishedAt": "2026-07-17T12:02:39.000Z",
-      "summary": "410 points · 387 comments"
+      "summary": "410 points · 390 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -651,76 +731,20 @@
       "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
+      "title": "Ask HN: Do you say please and thank you to your LLMs?",
+      "url": "https://news.ycombinator.com/item?id=48945125",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-17T09:27:41.000Z",
+      "summary": "17 points · 50 comments"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "The risk of weather data sabotage is rising",
       "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
       "source": "MIT Tech Review",
       "publishedAt": "2026-07-17T08:57:32.000Z",
       "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudHJ5YWkuZGV2L2Js",
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-16T20:03:23.000Z",
-      "summary": "396 points · 536 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "source": "VentureBeat AI",
-      "publishedAt": "2026-07-16T19:16:48.000Z",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none "
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
-      "title": "Using AI for Good Episode 1: SpiralOS Concept",
-      "url": "https://news.ycombinator.com/item?id=48938896",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-16T19:11:36.000Z",
-      "summary": "1 points · 0 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
-      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "VentureBeat AI",
-      "publishedAt": "2026-07-16T19:02:38.000Z",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, "
-    },
-    {
-      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "source": "VentureBeat AI",
-      "publishedAt": "2026-07-16T17:06:08.000Z",
-      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector data"
-    },
-    {
-      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9z",
-      "title": "1-Bit LLM in the Browser",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-16T16:50:32.000Z",
-      "summary": "123 points · 48 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9ibG9nLmx5Yzg1MDMubmV0",
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-16T16:41:37.000Z",
-      "summary": "248 points · 175 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "source": "VentureBeat AI",
-      "publishedAt": "2026-07-16T16:40:48.000Z",
-      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
@@ -747,14 +771,6 @@
       "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhlb2NoYXJpcy5k",
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-16T11:59:01.000Z",
-      "summary": "311 points · 310 comments"
-    },
-    {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
       "title": "Newer Models, Same Advantage",
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
@@ -763,20 +779,12 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly9sb3JlLmtlcm5lbC5vcmcv",
-      "title": "Linus Torvalds on LLM usage in kernel development",
-      "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-16T10:11:31.000Z",
-      "summary": "69 points · 13 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9qb2luZWRhbnRocm9waWMu",
-      "title": "At least 105 past YC founders have worked at OpenAI and Anthropic",
-      "url": "https://joinedanthropic.com",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-16T08:03:35.000Z",
-      "summary": "303 points · 223 comments"
+      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
+      "title": "How Codex became a collaborator for OpenAI’s creative team",
+      "url": "https://openai.com/index/codex-collaborator-creative-team",
+      "source": "OpenAI",
+      "publishedAt": "2026-07-16T07:00:00.000Z",
+      "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI."
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -793,14 +801,6 @@
       "source": "Hugging Face",
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "source": "VentureBeat AI",
-      "publishedAt": "2026-07-15T22:24:17.000Z",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: mo"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -835,14 +835,6 @@
       "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
     },
     {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "source": "OpenAI",
-      "publishedAt": "2026-07-15T10:00:00.000Z",
-      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
-    },
-    {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
       "title": "Welcome Inkling by Thinking Machines",
       "url": "https://huggingface.co/blog/thinkingmachines-inkling",
@@ -865,14 +857,6 @@
       "source": "Google AI Blog",
       "publishedAt": "2026-07-14T16:00:00.000Z",
       "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content."
-    },
-    {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "OpenAI",
-      "publishedAt": "2026-07-14T10:00:00.000Z",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -961,6 +945,22 @@
       "source": "MIT Tech Review",
       "publishedAt": "2026-07-06T18:00:00.000Z",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday,"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-01T18:15:00.000Z",
+      "summary": "Here are Google’s latest AI updates from June 2026."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-01T16:00:00.000Z",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
     }
   ]
 }
