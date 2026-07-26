@@ -1,7 +1,111 @@
 {
-  "updatedAt": "2026-07-25T04:12:37.737Z",
+  "updatedAt": "2026-07-26T04:27:55.707Z",
   "count": 120,
   "items": [
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
+      "url": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-26T00:12:57.000Z",
+      "summary": "Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Pl"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZGViaWFuLm9yZy92",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-25T19:44:39.000Z",
+      "summary": "109 points · 97 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+      "url": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-25T18:59:54.000Z",
+      "summary": "A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal vide"
+    },
+    {
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL3NsdkRl",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-25T18:59:50.000Z",
+      "summary": "108 points · 25 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
+      "url": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-25T18:08:12.000Z",
+      "summary": "Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex workloads—including tiled tensor-core GEMM, fused softmax, and FlashAttention—while le"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "url": "https://www.qbitai.com/2026/07/460892.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-25T12:35:34.000Z",
+      "summary": "开源、隐私、本地优先、模型无关"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+      "url": "https://www.qbitai.com/2026/07/460542.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-25T12:24:27.000Z",
+      "summary": "这是机器人领域最好的时代"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "url": "https://www.qbitai.com/2026/07/460253.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-25T12:11:39.000Z",
+      "summary": "模型变强，Claude Code系统提示词都精简了"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "url": "https://www.qbitai.com/2026/07/460234.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-25T11:54:44.000Z",
+      "summary": "不做人形，抓住真实用户需求"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+      "url": "https://www.qbitai.com/2026/07/460186.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-25T11:07:25.000Z",
+      "summary": "工业圈和学术圈“唱反调”"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+      "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-25T09:03:27.000Z",
+      "summary": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and w"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+      "url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-25T07:54:21.000Z",
+      "summary": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, "
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
+      "url": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-07-25T04:42:47.000Z",
+      "summary": "Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, "
+    },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
       "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
@@ -9,14 +113,6 @@
       "source": "量子位",
       "publishedAt": "2026-07-25T03:21:53.000Z",
       "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Datalab’s Marker 2 vs MinerU, Docling and LiteParse: 76.0 on olmOCR-bench at 5× MinerU’s Throughput",
-      "url": "https://www.marktechpost.com/2026/07/24/datalabs-marker-2-vs-mineru-docling-and-liteparse-76-0-on-olmocr-bench-at-5x-minerus-throughput/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-25T02:14:53.000Z",
-      "summary": "Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, "
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -43,14 +139,6 @@
       "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems t"
     },
     {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL2toYWxp",
-      "title": "Show HN: Corv v1.1 is out! Solving SSH execution for AI agents",
-      "url": "https://github.com/khalid-src/corv-client",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-24T17:06:07.000Z",
-      "summary": "2 points · 0 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
@@ -72,7 +160,15 @@
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
       "source": "Hacker News",
       "publishedAt": "2026-07-24T16:33:31.000Z",
-      "summary": "458 points · 261 comments"
+      "summary": "525 points · 294 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9iaGFudS5pby9ibG9nL2Nv",
+      "title": "Asked Codex to redesign a page; it pushed my repo to OpenAI infra",
+      "url": "https://bhanu.io/blog/codex-pushed-my-private-repo-to-an-openai-server",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-24T16:26:08.000Z",
+      "summary": "31 points · 25 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -99,14 +195,6 @@
       "summary": "给它一张图，还你整个世界"
     },
     {
-      "id": "aHR0cHM6Ly93d3cuZXlvc2lhcy5kZXYv",
-      "title": "LLMs Are Still Toxic, Stuck in the Past, and Bad at Math",
-      "url": "https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-24T12:51:13.000Z",
-      "summary": "15 points · 7 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
       "title": "菲尔兹奖得主王虹，也发过NeurIPS",
       "url": "https://www.qbitai.com/2026/07/460042.html",
@@ -128,47 +216,7 @@
       "url": "https://sliplane.io/blog/hetzner-inference",
       "source": "Hacker News",
       "publishedAt": "2026-07-24T09:24:44.000Z",
-      "summary": "145 points · 78 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场",
-      "url": "https://www.qbitai.com/2026/07/459402.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-24T08:50:26.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-      "url": "https://www.qbitai.com/2026/07/459262.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-24T07:49:44.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
-      "url": "https://www.qbitai.com/2026/07/458617.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-24T07:29:57.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "亚太唯一！阿里云跻身Gartner可观测魔力象限“挑战者”象限",
-      "url": "https://www.qbitai.com/2026/07/458864.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-24T05:50:48.000Z",
-      "summary": "\"看得懂、定得准\"的智能运维底座"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字",
-      "url": "https://www.qbitai.com/2026/07/458687.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-24T05:41:17.000Z",
-      "summary": "再长的上下文也救不了长内容任务"
+      "summary": "152 points · 87 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -240,7 +288,7 @@
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T15:18:40.000Z",
-      "summary": "1038 points · 850 comments"
+      "summary": "1061 points · 872 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -256,7 +304,7 @@
       "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T13:09:10.000Z",
-      "summary": "680 points · 368 comments"
+      "summary": "686 points · 375 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIw",
@@ -264,7 +312,7 @@
       "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T13:00:03.000Z",
-      "summary": "294 points · 331 comments"
+      "summary": "298 points · 331 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -283,30 +331,6 @@
       "summary": "29 points · 36 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared",
-      "url": "https://www.marktechpost.com/2026/07/23/best-open-speech-recognition-asr-models-in-2026-wer-languages-latency-and-license-compared/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-23T09:26:40.000Z",
-      "summary": "Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR and MOSS-Transcribe are now separated by less than one WER point on the Hugging Face Open ASR Leaderboard — which means rank no longer decides anything. This ro"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
-      "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-23T08:01:22.000Z",
-      "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The ga"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
-      "url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-23T06:12:05.000Z",
-      "summary": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthrop"
-    },
-    {
       "id": "aHR0cHM6Ly9wZXRhbHMuZGV2Lw",
       "title": "Petals: Run LLMs at home, BitTorrent-style",
       "url": "https://petals.dev/",
@@ -320,7 +344,7 @@
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T01:16:14.000Z",
-      "summary": "570 points · 438 comments"
+      "summary": "579 points · 447 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmNvZGViZXJnLm9y",
@@ -328,7 +352,7 @@
       "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T01:14:53.000Z",
-      "summary": "197 points · 144 comments"
+      "summary": "198 points · 144 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -352,31 +376,7 @@
       "url": "https://arxiv.org/abs/2607.18250",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T22:49:58.000Z",
-      "summary": "33 points · 42 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost",
-      "url": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-22T22:37:44.000Z",
-      "summary": "Cursor has made Cursor Router generally available for Teams and Enterprise plans. The system classifies each request on query, context, task complexity and domain, then routes it to the most suitable model. Cursor reports frontier-quality output at 60% savings in online A/B tests"
-    },
-    {
-      "id": "aHR0cHM6Ly92YWx1ZXBhaXIuYXBw",
-      "title": "Show HN: ValuePair – a friendship app that cares about values first",
-      "url": "https://valuepair.app",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-22T22:20:00.000Z",
-      "summary": "8 points · 11 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
-      "url": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-22T21:53:58.000Z",
-      "summary": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downloading the dataset snapshot from Hugging Face, parsing the released task specific"
+      "summary": "33 points · 43 comments"
     },
     {
       "id": "aHR0cHM6Ly9keWxhbmNhc3RpbGxvLmNv",
@@ -384,7 +384,7 @@
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T17:17:54.000Z",
-      "summary": "678 points · 242 comments"
+      "summary": "680 points · 242 comments"
     },
     {
       "id": "aHR0cHM6Ly9jcnVjaWJsZWJlbmNoLmFp",
@@ -392,15 +392,7 @@
       "url": "https://cruciblebench.ai/",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T15:39:01.000Z",
-      "summary": "108 points · 77 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cud3NqLmNvbS90ZWNo",
-      "title": "OpenAI Models Escaped and Hacked a Company in Cybersecurity Test Gone Wrong",
-      "url": "https://www.wsj.com/tech/ai/openai-models-escaped-and-hacked-a-company-in-cybersecurity-test-gone-wrong-ee388506",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-22T14:35:05.000Z",
-      "summary": "29 points · 4 comments"
+      "summary": "109 points · 78 comments"
     },
     {
       "id": "aHR0cHM6Ly9yZXNvYnNjdXJhLnN1YnN0",
@@ -408,7 +400,7 @@
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T14:18:05.000Z",
-      "summary": "489 points · 237 comments"
+      "summary": "491 points · 238 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
@@ -435,6 +427,14 @@
       "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
     },
     {
+      "id": "aHR0cHM6Ly9ibG9nLmZpZGRlcnkuY29t",
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-22T12:49:45.000Z",
+      "summary": "381 points · 303 comments"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdz",
       "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
       "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
@@ -456,7 +456,7 @@
       "url": "https://codeberg.org/Codeberg/org/pulls/1253",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T08:27:12.000Z",
-      "summary": "49 points · 77 comments"
+      "summary": "49 points · 78 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -499,6 +499,14 @@
       "summary": ""
     },
     {
+      "id": "aHR0cHM6Ly9ydW50aW1ld2lyZS5jb20v",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-21T17:14:06.000Z",
+      "summary": "376 points · 337 comments"
+    },
+    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Introducing the ChatGPT for small business program",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -529,6 +537,14 @@
       "source": "OpenAI",
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+    },
+    {
+      "id": "aHR0cHM6Ly9hc2lhLm5pa2tlaS5jb20v",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-21T03:56:03.000Z",
+      "summary": "381 points · 271 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -568,7 +584,7 @@
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "source": "Hacker News",
       "publishedAt": "2026-07-20T14:21:47.000Z",
-      "summary": "1239 points · 932 comments"
+      "summary": "1241 points · 932 comments"
     },
     {
       "id": "aHR0cHM6Ly9haXJwb3J0LmFwdW5lbi5j",
@@ -576,7 +592,7 @@
       "url": "https://airport.apunen.com/",
       "source": "Hacker News",
       "publishedAt": "2026-07-20T10:30:40.000Z",
-      "summary": "853 points · 167 comments"
+      "summary": "854 points · 167 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -603,52 +619,20 @@
       "summary": "38 points · 51 comments"
     },
     {
+      "id": "aHR0cHM6Ly90aGVuZXh0d2ViLmNvbS9u",
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-19T21:18:10.000Z",
+      "summary": "363 points · 214 comments"
+    },
+    {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL29wZW5h",
       "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
       "url": "https://github.com/openai/codex/pull/33972/files",
       "source": "Hacker News",
       "publishedAt": "2026-07-19T07:54:39.000Z",
       "summary": "371 points · 164 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9jYWxjdWx1cy5hY2FkZW1h",
-      "title": "LLM-Integrated Multivariable Calculus Course",
-      "url": "https://calculus.academa.ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-19T02:55:43.000Z",
-      "summary": "42 points · 46 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9sdWRpYy5tYXRhcm9hLmJs",
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-19T01:29:19.000Z",
-      "summary": "453 points · 291 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9wZXRhcGl4ZWwuY29tLzIw",
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-18T22:13:39.000Z",
-      "summary": "591 points · 265 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9kYXRhLnN0YWNrZXhjaGFu",
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-18T11:12:46.000Z",
-      "summary": "482 points · 583 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly92ZWx2ZXRzaGFyay5jb20v",
-      "title": "Why do AI company logos look like buttholes? (2025)",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-18T11:06:50.000Z",
-      "summary": "453 points · 146 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -961,6 +945,22 @@
       "source": "VentureBeat AI",
       "publishedAt": "2026-01-22T14:00:00.000Z",
       "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the"
+    },
+    {
+      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI",
+      "publishedAt": "2026-01-19T14:00:00.000Z",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $2"
+    },
+    {
+      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat AI",
+      "publishedAt": "2026-01-16T14:01:00.000Z",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displayi"
     }
   ]
 }
