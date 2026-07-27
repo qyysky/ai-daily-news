@@ -1,14 +1,118 @@
 {
-  "updatedAt": "2026-07-26T04:27:55.707Z",
+  "updatedAt": "2026-07-27T04:38:06.902Z",
   "count": 120,
   "items": [
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
-      "url": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-26T00:12:57.000Z",
-      "summary": "Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edging past GPT-5.5-Cyber and Claude Mythos Preview. Access is gated behind manual approval, a defensive-use policy, and the Token Pl"
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+      "url": "https://arxiv.org/abs/2607.21596",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21596v1 Announce Type: new Abstract: Large language model agents increasingly solve complex tasks by constructing inference-time workflows that combine reasoning, tool use, and code execution. While such workflows enable flexible problem solving, the useful procedures "
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+      "url": "https://arxiv.org/abs/2607.21597",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21597v1 Announce Type: new Abstract: Evaluating wildfire risk systems using standard machine-learning metrics such as F1-score or IoU is fundamentally flawed: these metrics assess event prediction accuracy, not the operational coherence of a continuous risk signal. Thi"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Securing Multimodal AI through Internal Information Decomposition",
+      "url": "https://arxiv.org/abs/2607.21600",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21600v1 Announce Type: new Abstract: Multimodal large language models introduce attack surfaces absent in unimodal systems: adversaries can distribute malicious intent across modalities to evade unimodal safeguards. This motivates using cross-modal consistency as a det"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "From Frame-Level Recognition to Event-Level Confirmation: Repair Traces and Runtime Failure Analysis of Public-Space Gesture Interaction",
+      "url": "https://arxiv.org/abs/2607.21601",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21601v1 Announce Type: new Abstract: Public-space gesture interaction is often evaluated as a frame-level recognition problem, but deployed systems expose a different failure boundary. In scenic kiosks, exhibition halls, and service terminals, users experience whether "
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
+      "url": "https://arxiv.org/abs/2607.21602",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21602v1 Announce Type: new Abstract: Accurate latency prediction is critical for deploying large language models (LLMs) on heterogeneous edge devices, where inference latency is affected by model architecture, prompt behavior, runtime backend, hardware utilization, dyn"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems",
+      "url": "https://arxiv.org/abs/2607.21604",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21604v1 Announce Type: new Abstract: Memory-augmented LLM agents maintain context across hundreds of interactions through agentic memory systems that actively curate retrieved content with LLM-generated metadata such as summaries, keywords, and tags. From an inference "
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward",
+      "url": "https://arxiv.org/abs/2607.21606",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21606v1 Announce Type: new Abstract: Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce images more faithful to complex compositional prompts. We pr"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Spectral Flow Certificates for Depth-Aware Long-Range Propagation in Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2607.21607",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21607v1 Announce Type: new Abstract: Graph Neural Networks propagate information through local message passing, but the graph topologies themselves can silently prevent any amount of training from solving long-range tasks. When we deploy GNNs on new graphs, there is cu"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Coupled Hierarchical Search over Topology and Execution for Agentic Workflow Synthesis",
+      "url": "https://arxiv.org/abs/2607.21609",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21609v1 Announce Type: new Abstract: Although structured workflows empower Large Language Models (LLMs) to tackle complex problems, automating their creation is severely hindered by a vast combinatorial search space, frequently resulting in inflexible and resource-heav"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "SCOPE and SCION: A Benchmark and an Auditable Reference Pipeline for Schema Induction and Fusion from Text",
+      "url": "https://arxiv.org/abs/2607.21610",
+      "source": "arXiv AI",
+      "publishedAt": "2026-07-27T04:00:00.000Z",
+      "summary": "arXiv:2607.21610v1 Announce Type: new Abstract: Schema graphs are an upstream bottleneck of schema-grounded information extraction and knowledge graph construction, yet most extraction systems assume the schema is already available. We introduce SCOPE (Schema Construction and Ont"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+      "url": "https://www.qbitai.com/2026/07/461149.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-27T01:57:26.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaHNwb3QuY29t",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-26T22:21:41.000Z",
+      "summary": "384 points · 249 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+      "url": "https://www.qbitai.com/2026/07/460962.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-26T05:30:21.000Z",
+      "summary": "项目数据模型均开源"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWF4bXludGVyLmNv",
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-25T21:19:42.000Z",
+      "summary": "48 points · 18 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cuZGViaWFuLm9yZy92",
@@ -16,15 +120,7 @@
       "url": "https://www.debian.org/vote/2026/vote_002",
       "source": "Hacker News",
       "publishedAt": "2026-07-25T19:44:39.000Z",
-      "summary": "109 points · 97 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
-      "url": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-25T18:59:54.000Z",
-      "summary": "A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and Flax NNX. What actually shipped Two repositories were released. next-state/open-dreamer holds the training pipeline: a causal vide"
+      "summary": "208 points · 206 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL3NsdkRl",
@@ -32,15 +128,15 @@
       "url": "https://github.com/slvDev/esp32-ai",
       "source": "Hacker News",
       "publishedAt": "2026-07-25T18:59:50.000Z",
-      "summary": "108 points · 25 comments"
+      "summary": "272 points · 69 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
-      "url": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-25T18:08:12.000Z",
-      "summary": "Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a step-by-step approach to implementing complex workloads—including tiled tensor-core GEMM, fused softmax, and FlashAttention—while le"
+      "id": "aHR0cHM6Ly90b2JpLmtuYXVwLm1lLzIw",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-25T14:49:49.000Z",
+      "summary": "400 points · 314 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -83,30 +179,6 @@
       "summary": "工业圈和学术圈“唱反调”"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
-      "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-25T09:03:27.000Z",
-      "summary": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and w"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
-      "url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-25T07:54:21.000Z",
-      "summary": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
-      "url": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-25T04:42:47.000Z",
-      "summary": "Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's pipeline backend, while beating Docling on both accuracy and speed. Here's how it compares against MinerU, Docling and LiteParse, "
-    },
-    {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
       "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
       "url": "https://www.qbitai.com/2026/07/460174.html",
@@ -115,12 +187,12 @@
       "summary": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
-      "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-24T21:50:46.000Z",
-      "summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the"
+      "id": "aHR0cHM6Ly93d3cucmV1dGVycy5jb20v",
+      "title": "OpenAI did not notice Hugging Face hack for a week",
+      "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-25T00:14:44.000Z",
+      "summary": "29 points · 6 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -160,7 +232,7 @@
       "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
       "source": "Hacker News",
       "publishedAt": "2026-07-24T16:33:31.000Z",
-      "summary": "525 points · 294 comments"
+      "summary": "537 points · 295 comments"
     },
     {
       "id": "aHR0cHM6Ly9iaGFudS5pby9ibG9nL2Nv",
@@ -195,36 +267,12 @@
       "summary": "给它一张图，还你整个世界"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "菲尔兹奖得主王虹，也发过NeurIPS",
-      "url": "https://www.qbitai.com/2026/07/460042.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-24T11:10:26.000Z",
-      "summary": "王虹主页唯一没挂链接的论文"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
-      "url": "https://www.qbitai.com/2026/07/459432.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-24T09:57:35.000Z",
-      "summary": "AI抢跑期，我们看见了全球化新品牌的下一程"
-    },
-    {
       "id": "aHR0cHM6Ly9zbGlwbGFuZS5pby9ibG9n",
       "title": "Hetzner is working on LLM Inference",
       "url": "https://sliplane.io/blog/hetzner-inference",
       "source": "Hacker News",
       "publishedAt": "2026-07-24T09:24:44.000Z",
-      "summary": "152 points · 87 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "How to Build an End-to-End OCR Pipeline with Baidu’s Unlimited-OCR for High-Resolution Images and Multi-Page PDF Parsing",
-      "url": "https://www.marktechpost.com/2026/07/23/how-to-build-an-end-to-end-ocr-pipeline-with-baidus-unlimited-ocr-for-high-resolution-images-and-multi-page-pdf-parsing/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-24T05:16:28.000Z",
-      "summary": "In this tutorial, we build a complete workflow for running Baidu’s Unlimited-OCR model on document images and multi-page PDFs. From configuring the GPU environment to comparing high-detail tiled Gundam inference and faster Base modes, you'll learn how to process dense layouts, ta"
+      "summary": "154 points · 87 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -243,14 +291,6 @@
       "summary": "2 points · 0 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-      "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-23T19:31:59.000Z",
-      "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell c"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Claude’s voice mode is now available for Opus and Sonnet",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
@@ -267,14 +307,6 @@
       "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally tra"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "You Didn’t Get the AI Model You Paid For",
-      "url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-07-23T18:07:55.000Z",
-      "summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensiti"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
@@ -288,7 +320,7 @@
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T15:18:40.000Z",
-      "summary": "1061 points · 872 comments"
+      "summary": "1065 points · 886 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -304,7 +336,7 @@
       "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T13:09:10.000Z",
-      "summary": "686 points · 375 comments"
+      "summary": "691 points · 377 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIw",
@@ -312,7 +344,7 @@
       "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T13:00:03.000Z",
-      "summary": "298 points · 331 comments"
+      "summary": "299 points · 331 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -344,7 +376,7 @@
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T01:16:14.000Z",
-      "summary": "579 points · 447 comments"
+      "summary": "581 points · 447 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmNvZGViZXJnLm9y",
@@ -352,7 +384,7 @@
       "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
       "source": "Hacker News",
       "publishedAt": "2026-07-23T01:14:53.000Z",
-      "summary": "198 points · 144 comments"
+      "summary": "199 points · 144 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -376,7 +408,7 @@
       "url": "https://arxiv.org/abs/2607.18250",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T22:49:58.000Z",
-      "summary": "33 points · 43 comments"
+      "summary": "33 points · 44 comments"
     },
     {
       "id": "aHR0cHM6Ly9keWxhbmNhc3RpbGxvLmNv",
@@ -384,7 +416,7 @@
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "source": "Hacker News",
       "publishedAt": "2026-07-22T17:17:54.000Z",
-      "summary": "680 points · 242 comments"
+      "summary": "681 points · 242 comments"
     },
     {
       "id": "aHR0cHM6Ly9jcnVjaWJsZWJlbmNoLmFp",
@@ -499,14 +531,6 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly9ydW50aW1ld2lyZS5jb20v",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-21T17:14:06.000Z",
-      "summary": "376 points · 337 comments"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Introducing the ChatGPT for small business program",
       "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -592,7 +616,7 @@
       "url": "https://airport.apunen.com/",
       "source": "Hacker News",
       "publishedAt": "2026-07-20T10:30:40.000Z",
-      "summary": "854 points · 167 comments"
+      "summary": "855 points · 167 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -609,30 +633,6 @@
       "source": "MIT Tech Review",
       "publishedAt": "2026-07-20T08:39:01.000Z",
       "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also "
-    },
-    {
-      "id": "aHR0cHM6Ly9ibGFpbmVoYW5zZW4ubWUv",
-      "title": "LLMs aren't remotely like compilers or power tools",
-      "url": "https://blainehansen.me/post/llms-not-power-tools/",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-20T01:47:59.000Z",
-      "summary": "38 points · 51 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly90aGVuZXh0d2ViLmNvbS9u",
-      "title": "AI advice made people less accurate but more confident – sudy",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-19T21:18:10.000Z",
-      "summary": "363 points · 214 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL29wZW5h",
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "source": "Hacker News",
-      "publishedAt": "2026-07-19T07:54:39.000Z",
-      "summary": "371 points · 164 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
