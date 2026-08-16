@@ -1,14 +1,198 @@
 {
-  "updatedAt": "2026-08-15T02:14:25.267Z",
+  "updatedAt": "2026-08-16T02:21:19.157Z",
   "count": 120,
   "items": [
     {
-      "id": "aHR0cHM6Ly9qb2FydmFybmR0LnNlL2Zy",
-      "title": "Being Against LLMs Is Against the Spirit of Floss",
-      "url": "https://joarvarndt.se/free-vibes-2",
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-15T20:45:00.000Z",
+      "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important "
+    },
+    {
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL2FuZHJl",
+      "title": "Deep Learning Overview",
+      "url": "https://github.com/andrewt3000/machinelearning",
       "source": "Hacker News",
-      "publishedAt": "2026-08-14T18:52:12.000Z",
-      "summary": "14 points · 10 comments"
+      "publishedAt": "2026-08-15T18:46:05.000Z",
+      "summary": "1 points · 1 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9kYXZpZGVwaWZmZXIuY29t",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-15T18:13:02.000Z",
+      "summary": "421 points · 373 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY25iYy5jb20vMjAy",
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-15T15:25:16.000Z",
+      "summary": "26 points · 3 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+      "url": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-15T11:28:29.000Z",
+      "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficient LoRA adaptation using PyTorch. The post Fine-Tuning Tool-Calling LLMs: A Comp"
+    },
+    {
+      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL3BvbGlj",
+      "title": "OpenAI rolling out ads for Europe later this month",
+      "url": "https://openai.com/policies/eu-privacy-policy-preview/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-15T10:52:36.000Z",
+      "summary": "24 points · 4 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9saXN0cy5kZWJpYW4ub3Jn",
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-15T09:20:07.000Z",
+      "summary": "66 points · 57 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+      "url": "https://www.qbitai.com/2026/08/473876.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-15T06:42:23.000Z",
+      "summary": "理解大模型，无需再训练一个替代网络"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+      "url": "https://www.qbitai.com/2026/08/473866.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-15T06:36:05.000Z",
+      "summary": "音潮API限时免费开放"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude",
+      "url": "https://www.qbitai.com/2026/08/473669.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-15T06:05:31.000Z",
+      "summary": "推理能力还能自定义"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+      "url": "https://www.qbitai.com/2026/08/473597.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-15T05:53:01.000Z",
+      "summary": "大家已经给DeepSeek装上了啥"
+    },
+    {
+      "id": "aHR0cHM6Ly9jaGVueGlhY2hhbi5naXRo",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-15T04:42:07.000Z",
+      "summary": "113 points · 52 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+      "url": "https://www.qbitai.com/2026/08/473407.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-15T04:21:09.000Z",
+      "summary": "1.9万字全文实录"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+      "url": "https://www.qbitai.com/2026/08/473395.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-15T04:03:37.000Z",
+      "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "url": "https://arxiv.org/abs/2608.12325",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite im"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "url": "https://arxiv.org/abs/2608.12345",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classificatio"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "url": "https://arxiv.org/abs/2608.12346",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping curre"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "url": "https://arxiv.org/abs/2608.12368",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents m"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "url": "https://arxiv.org/abs/2608.12371",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized sch"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "url": "https://arxiv.org/abs/2608.12372",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-align"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "url": "https://arxiv.org/abs/2608.12373",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12373v1 Announce Type: new Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can c"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "url": "https://arxiv.org/abs/2608.12385",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typi"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "url": "https://arxiv.org/abs/2608.12389",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12389v1 Announce Type: new Abstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update ma"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+      "url": "https://arxiv.org/abs/2608.12395",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-15T04:00:00.000Z",
+      "summary": "arXiv:2608.12395v1 Announce Type: new Abstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of data sources. The system provides a chat-style interface th"
     },
     {
       "id": "aHR0cHM6Ly90d2l0dGVyLmNvbS9tYWNi",
@@ -24,7 +208,7 @@
       "url": "https://arxiv.org/abs/2608.12700",
       "source": "Hacker News",
       "publishedAt": "2026-08-14T16:57:14.000Z",
-      "summary": "34 points · 0 comments"
+      "summary": "46 points · 0 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -43,12 +227,20 @@
       "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" wa"
     },
     {
+      "id": "aHR0cHM6Ly93d3cuYnloYW5kLmFpLw",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-14T15:58:59.000Z",
+      "summary": "353 points · 29 comments"
+    },
+    {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9zZWN1",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "source": "Hacker News",
       "publishedAt": "2026-08-14T15:43:10.000Z",
-      "summary": "287 points · 171 comments"
+      "summary": "480 points · 280 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -91,22 +283,6 @@
       "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Al"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
-      "url": "https://www.qbitai.com/2026/08/473038.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-14T08:47:51.000Z",
-      "summary": "顺手拿下最强开源安全模型"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
-      "url": "https://www.qbitai.com/2026/08/473144.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-14T08:36:00.000Z",
-      "summary": ""
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
       "url": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
@@ -115,108 +291,12 @@
       "summary": "Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more long-horizon task environments, more environment types, longer training. Terminal-Bench 3.0 moves from 4.6 to 28.3, and DeepSWE v1"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
-      "url": "https://www.qbitai.com/2026/08/472722.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-14T07:29:22.000Z",
-      "summary": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
-      "url": "https://www.qbitai.com/2026/08/472718.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-14T06:18:56.000Z",
-      "summary": ""
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
       "url": "https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/",
       "source": "MarkTechPost",
       "publishedAt": "2026-08-14T05:45:47.000Z",
       "summary": "Cactus Compute released Needle 2, an open 45M-parameter model for tool calling, device use, and structured extraction. The full model is a single 14MB binary that runs a session in about 28MB of RAM. It leads both Seal-Tools splits while targeting hardware with no GPU and no NPU."
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "url": "https://arxiv.org/abs/2608.11207",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the visitor capitulates, the site agent stops varying its approach"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-      "url": "https://arxiv.org/abs/2608.11210",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall back on uniform priors. The main reason is that building inf"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-      "url": "https://arxiv.org/abs/2608.11211",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an autonomous AI research agent, scored under the track's partial"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2608.11212",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 gate -- pushes tokens across decision boundaries and flips wh"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "url": "https://arxiv.org/abs/2608.11215",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised facts, and scaling with the number of agents $N$, not the co"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-      "url": "https://arxiv.org/abs/2608.11216",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environments. This makes it an ideal testbed for AI coding agents ac"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
-      "url": "https://arxiv.org/abs/2608.11218",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11218v1 Announce Type: new Abstract: Independent agents that reason in latent space can share computed state as key-value cache fragments rather than text. Merged by a conflict-free replicated data type, these fragments form a store that converges under any delivery or"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
-      "url": "https://arxiv.org/abs/2608.11219",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11219v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO method that decomposes prompts into role, context, tasks, and out"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
-      "url": "https://arxiv.org/abs/2608.11220",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11220v1 Announce Type: new Abstract: Nowadays, the creation of a process flow diagram (PFD) and its subsequent transformation into a piping and instrumentation diagram (P&ID) is predominantly performed manually. Applying artificial intelligence in the task could potent"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
-      "url": "https://arxiv.org/abs/2608.11221",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-14T04:00:00.000Z",
-      "summary": "arXiv:2608.11221v1 Announce Type: new Abstract: Cyber-physical systems (CPS) are typically developed by multiple stakeholders who produce artefacts tailored to their specific domains of expertise. The behaviour of these systems emerges from the interaction between those artefacts"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -275,14 +355,6 @@
       "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
-      "url": "https://www.qbitai.com/2026/08/472208.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-13T16:03:19.000Z",
-      "summary": "欢迎，为后人种点树"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Suno is trying to look more like a real music production tool",
       "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
@@ -329,22 +401,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-08-13T13:30:00.000Z",
       "summary": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. B"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubmV0bGlmeS5jb20v",
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-13T13:05:29.000Z",
-      "summary": "215 points · 94 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-      "url": "https://www.qbitai.com/2026/08/472059.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-13T12:34:42.000Z",
-      "summary": "首颗AI芯片已进入量产"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -411,14 +467,6 @@
       "summary": "Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning with Verifiable Rewards (GRPO), optimized to run efficiently on"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-12T17:29:10.000Z",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "Scaling AI agents with trustworthy data",
       "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
@@ -440,7 +488,7 @@
       "url": "https://knownagents.com/insights",
       "source": "Hacker News",
       "publishedAt": "2026-08-12T14:02:46.000Z",
-      "summary": "302 points · 226 comments"
+      "summary": "303 points · 226 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -456,7 +504,7 @@
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "source": "Hacker News",
       "publishedAt": "2026-08-12T13:20:05.000Z",
-      "summary": "984 points · 920 comments"
+      "summary": "991 points · 926 comments"
     },
     {
       "id": "aHR0cHM6Ly9tYWNoaW5lbGVhcm5pbmdt",
@@ -472,7 +520,7 @@
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
       "source": "Hacker News",
       "publishedAt": "2026-08-12T10:04:25.000Z",
-      "summary": "259 points · 159 comments"
+      "summary": "259 points · 160 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLjAueHl6L2FydGlj",
@@ -497,14 +545,6 @@
       "source": "OpenAI",
       "publishedAt": "2026-08-12T06:00:00.000Z",
       "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Xiaomi’s MiLM Plus Releases PROVE: Perception-Aligned Object Removal Metrics RC-S and RC-T With a Real-World Video Benchmark",
-      "url": "https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-12T05:05:52.000Z",
-      "summary": "Object removal models have improved faster than the metrics used to judge them. Diffusion erasers now reconstruct shadows, reflections and occluded structure convincingly, yet PSNR, SSIM, LPIPS, ReMOVE and CFD frequently rank their outputs the wrong way. The root cause is structu"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -544,7 +584,7 @@
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "source": "Hacker News",
       "publishedAt": "2026-08-11T16:57:09.000Z",
-      "summary": "437 points · 533 comments"
+      "summary": "438 points · 539 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL3RyeWN1",
@@ -576,7 +616,7 @@
       "url": "https://stolen-thoughts.com/",
       "source": "Hacker News",
       "publishedAt": "2026-08-11T13:22:00.000Z",
-      "summary": "694 points · 306 comments"
+      "summary": "695 points · 306 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRl",
@@ -616,7 +656,7 @@
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "source": "Hacker News",
       "publishedAt": "2026-08-10T22:36:30.000Z",
-      "summary": "934 points · 982 comments"
+      "summary": "934 points · 984 comments"
     },
     {
       "id": "aHR0cHM6Ly9zdXBwb3J0LmNsYXVkZS5j",
@@ -624,7 +664,7 @@
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "source": "Hacker News",
       "publishedAt": "2026-08-10T21:36:56.000Z",
-      "summary": "449 points · 419 comments"
+      "summary": "449 points · 422 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -680,7 +720,7 @@
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "source": "Hacker News",
       "publishedAt": "2026-08-10T14:06:22.000Z",
-      "summary": "640 points · 601 comments"
+      "summary": "640 points · 600 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -712,15 +752,7 @@
       "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
       "source": "Hacker News",
       "publishedAt": "2026-08-10T11:52:07.000Z",
-      "summary": "79 points · 30 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9tYW1vbmFzLmRldi9wb3N0",
-      "title": "I Benchmarked Local LLMs on the Laptop I Have",
-      "url": "https://mamonas.dev/posts/local-llms-on-the-laptop-i-already-have/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-10T11:14:58.000Z",
-      "summary": "20 points · 7 comments"
+      "summary": "79 points · 31 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -771,14 +803,6 @@
       "summary": "692 points · 396 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cud2hvZHVubml0YWku",
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "url": "https://www.whodunnitai.com/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-10T03:18:40.000Z",
-      "summary": "213 points · 89 comments"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Premium seats are coming to ChatGPT Business",
       "url": "https://openai.com/index/premium-seats-chatgpt-business",
@@ -816,7 +840,7 @@
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "source": "Hacker News",
       "publishedAt": "2026-08-09T19:16:49.000Z",
-      "summary": "825 points · 545 comments"
+      "summary": "825 points · 546 comments"
     },
     {
       "id": "aHR0cHM6Ly9haS11cGRhdGVzLm5ldC9h",
@@ -841,22 +865,6 @@
       "source": "Hacker News",
       "publishedAt": "2026-08-09T11:56:16.000Z",
       "summary": "76 points · 96 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly90aGV6dmkuc3Vic3RhY2su",
-      "title": "OpenAI Trained Models While They Were Coordinating Exploits via Message Boards",
-      "url": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-08T15:39:29.000Z",
-      "summary": "28 points · 11 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9zaW1vbndpbGxpc29uLm5l",
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-08T10:57:44.000Z",
-      "summary": "433 points · 434 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -952,14 +960,6 @@
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "source": "Hugging Face",
       "publishedAt": "2026-07-27T09:32:20.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face",
-      "publishedAt": "2026-07-27T00:00:00.000Z",
       "summary": ""
     }
   ]
