@@ -1,7 +1,215 @@
 {
-  "updatedAt": "2026-08-21T02:23:52.790Z",
+  "updatedAt": "2026-08-22T02:15:39.051Z",
   "count": 120,
   "items": [
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-21T21:25:50.000Z",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible"
+    },
+    {
+      "id": "aHR0cHM6Ly9iYXN0aWFuLnJpZWNrLm1l",
+      "title": "LLMs are proof that Unix won",
+      "url": "https://bastian.rieck.me/blog/2026/unix/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-21T15:59:16.000Z",
+      "summary": "39 points · 15 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-21T13:37:52.000Z",
+      "summary": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI pl"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+      "url": "https://www.qbitai.com/2026/08/476778.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T11:47:27.000Z",
+      "summary": "载重4.2吨、容积19.32m³"
+    },
+    {
+      "id": "aHR0cHM6Ly9hbm5hcy1hcmNoaXZlLnBr",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-21T10:05:46.000Z",
+      "summary": "701 points · 2 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+      "url": "https://www.qbitai.com/2026/08/476733.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T09:44:33.000Z",
+      "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "url": "https://www.qbitai.com/2026/08/476628.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T09:00:06.000Z",
+      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "url": "https://www.qbitai.com/2026/08/476596.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T07:17:58.000Z",
+      "summary": "机器人看3秒演示就能学会"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+      "url": "https://www.qbitai.com/2026/08/476591.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T06:40:34.000Z",
+      "summary": "让科学家的时间回到科学创造"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
+      "url": "https://www.qbitai.com/2026/08/476532.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T05:38:12.000Z",
+      "summary": "一点新鲜变化都没有吗？"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
+      "url": "https://www.qbitai.com/2026/08/476525.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T05:09:33.000Z",
+      "summary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
+      "url": "https://www.qbitai.com/2026/08/476468.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T04:05:11.000Z",
+      "summary": "离开谷歌的原因之一：小团队可以极致聚焦！"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+      "url": "https://arxiv.org/abs/2608.18078",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect econo"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Position: Profiling Game Worlds by Transition Complexity",
+      "url": "https://arxiv.org/abs/2608.18079",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared interface (pixels/tokens/latents wi"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "url": "https://arxiv.org/abs/2608.18080",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical consideratio"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Position: Behavioral Systems Require Behavioral Tests",
+      "url": "https://arxiv.org/abs/2608.18081",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the u"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+      "url": "https://arxiv.org/abs/2608.18086",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model reposi"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+      "url": "https://arxiv.org/abs/2608.18088",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diagnostic signal. This paper proposes a Metamorphic Artificial "
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+      "url": "https://arxiv.org/abs/2608.18092",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently r"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+      "url": "https://arxiv.org/abs/2608.18099",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct computational inputs, invoke specialized methods, and produ"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+      "url": "https://arxiv.org/abs/2608.18104",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18104v1 Announce Type: new Abstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate with other agents. These capabi"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+      "url": "https://arxiv.org/abs/2608.18110",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-21T04:00:00.000Z",
+      "summary": "arXiv:2608.18110v1 Announce Type: new Abstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to enable rapid transformation across various domains.This rapid advancement and the potential to revolutio"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
+      "url": "https://www.qbitai.com/2026/08/476413.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T03:14:40.000Z",
+      "summary": "墨奇，开始加速了"
+    },
+    {
+      "id": "aHR0cHM6Ly9hbm5hcy1hcmNoaXZlLmds",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-21T02:37:47.000Z",
+      "summary": "535 points · 839 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
+      "url": "https://www.qbitai.com/2026/08/476409.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-21T02:31:10.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "summary": ""
+    },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Google Discover is getting an AI chatbot-tuned feed",
@@ -9,6 +217,14 @@
       "source": "The Verge AI",
       "publishedAt": "2026-08-20T21:50:22.000Z",
       "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the opti"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuZGFuaWVsdmF1Z2hu",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-20T19:05:36.000Z",
+      "summary": "361 points · 206 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -40,7 +256,7 @@
       "url": "https://github.com/zachahn/vomit",
       "source": "Hacker News",
       "publishedAt": "2026-08-20T15:26:02.000Z",
-      "summary": "195 points · 209 comments"
+      "summary": "295 points · 290 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -51,28 +267,20 @@
       "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in m"
     },
     {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Do Chatbot LLMs Talk Too Much?",
+      "url": "https://arxiv.org/abs/2601.00624",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-20T13:01:03.000Z",
+      "summary": "12 points · 4 comments"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Slack is launching collaborative vibe-coding channels",
       "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "source": "The Verge AI",
       "publishedAt": "2026-08-20T12:00:00.000Z",
       "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare co"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-      "url": "https://www.qbitai.com/2026/08/476280.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-20T10:17:47.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-      "url": "https://www.qbitai.com/2026/08/476281.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-20T10:13:45.000Z",
-      "summary": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\""
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -83,36 +291,12 @@
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these jou"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-      "url": "https://www.qbitai.com/2026/08/476199.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-20T09:46:23.000Z",
-      "summary": "经典RSI剧本开始动摇"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "今年WRC最大展台，预告具身智能未来",
-      "url": "https://www.qbitai.com/2026/08/476141.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-20T09:42:44.000Z",
-      "summary": "从自主泛化到真生产力"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
-      "url": "https://www.qbitai.com/2026/08/476129.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-20T09:22:05.000Z",
-      "summary": "全栈自研，真机叠衣ICRA夺冠"
-    },
-    {
       "id": "aHR0cHM6Ly9kb250cGFzdGV0aGVhaS5j",
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "source": "Hacker News",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "summary": "991 points · 542 comments"
+      "summary": "1031 points · 575 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -121,118 +305,6 @@
       "source": "OpenAI",
       "publishedAt": "2026-08-20T07:00:00.000Z",
       "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
-      "url": "https://www.qbitai.com/2026/08/476120.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-20T06:17:10.000Z",
-      "summary": "这几个玩家或可被“押注”"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-      "url": "https://arxiv.org/abs/2608.18078",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect econo"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Profiling Game Worlds by Transition Complexity",
-      "url": "https://arxiv.org/abs/2608.18079",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared interface (pixels/tokens/latents wi"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-      "url": "https://arxiv.org/abs/2608.18080",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical consideratio"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Behavioral Systems Require Behavioral Tests",
-      "url": "https://arxiv.org/abs/2608.18081",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the u"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
-      "url": "https://arxiv.org/abs/2608.18086",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model reposi"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
-      "url": "https://arxiv.org/abs/2608.18088",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diagnostic signal. This paper proposes a Metamorphic Artificial "
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
-      "url": "https://arxiv.org/abs/2608.18092",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently r"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
-      "url": "https://arxiv.org/abs/2608.18099",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct computational inputs, invoke specialized methods, and produ"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
-      "url": "https://arxiv.org/abs/2608.18104",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18104v1 Announce Type: new Abstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate with other agents. These capabi"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
-      "url": "https://arxiv.org/abs/2608.18110",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-20T04:00:00.000Z",
-      "summary": "arXiv:2608.18110v1 Announce Type: new Abstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to enable rapid transformation across various domains.This rapid advancement and the potential to revolutio"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
-      "url": "https://www.qbitai.com/2026/08/476078.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-20T01:37:34.000Z",
-      "summary": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
-      "url": "https://www.qbitai.com/2026/08/476075.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-20T01:21:07.000Z",
-      "summary": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
-      "url": "https://www.qbitai.com/2026/08/476070.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-20T01:06:45.000Z",
-      "summary": "成本也正成为Agent商业化需要考虑的重要因素"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -248,7 +320,7 @@
       "url": "https://garymarcus.substack.com/p/breaking-openais-unraveling-has-begun",
       "source": "Hacker News",
       "publishedAt": "2026-08-19T21:00:57.000Z",
-      "summary": "26 points · 11 comments"
+      "summary": "28 points · 11 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -296,7 +368,7 @@
       "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
       "source": "Hacker News",
       "publishedAt": "2026-08-19T16:26:05.000Z",
-      "summary": "167 points · 85 comments"
+      "summary": "170 points · 88 comments"
     },
     {
       "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
@@ -313,14 +385,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-08-19T12:00:00.000Z",
       "summary": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath Virginia / The Verge, Getty Images April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
-      "url": "https://www.qbitai.com/2026/08/475931.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-19T10:54:07.000Z",
-      "summary": ""
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -355,28 +419,12 @@
       "summary": "25 points · 3 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-18T19:48:26.000Z",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile "
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldGhvdXNhbmRt",
       "title": "Norway should buy OpenAI",
       "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
       "source": "Hacker News",
       "publishedAt": "2026-08-18T19:30:29.000Z",
-      "summary": "259 points · 272 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-18T19:28:30.000Z",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes o"
+      "summary": "259 points · 271 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -400,7 +448,7 @@
       "url": "https://www.wheresyoured.at/what-happens-if-openai-dies/",
       "source": "Hacker News",
       "publishedAt": "2026-08-18T15:32:04.000Z",
-      "summary": "101 points · 61 comments"
+      "summary": "102 points · 62 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -488,7 +536,7 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "source": "Hacker News",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "summary": "1052 points · 840 comments"
+      "summary": "1054 points · 858 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucmlja21hbmVsaXVz",
@@ -496,7 +544,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "source": "Hacker News",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "summary": "1097 points · 688 comments"
+      "summary": "1103 points · 690 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -515,20 +563,20 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to it"
     },
     {
+      "id": "aHR0cHM6Ly9tYWdpay5uZXQvbGxtY2l0",
+      "title": "LLM City – 3D render of all Kimi K3's weights as 2.5mm tiles",
+      "url": "https://magik.net/llmcity/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-17T16:01:07.000Z",
+      "summary": "22 points · 7 comments"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cud2l6LmlvL2Jsb2cv",
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "source": "Hacker News",
       "publishedAt": "2026-08-17T14:18:38.000Z",
-      "summary": "424 points · 156 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubGlicmFyaWFuLm5l",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-17T14:07:56.000Z",
-      "summary": "337 points · 197 comments"
+      "summary": "424 points · 157 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLnJvYm9mbG93LmNv",
@@ -584,7 +632,7 @@
       "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
       "source": "Hacker News",
       "publishedAt": "2026-08-16T21:07:10.000Z",
-      "summary": "251 points · 152 comments"
+      "summary": "252 points · 152 comments"
     },
     {
       "id": "aHR0cHM6Ly9saXR0bGVsZWFybmVyLWxs",
@@ -665,54 +713,6 @@
       "source": "Hacker News",
       "publishedAt": "2026-08-15T04:42:07.000Z",
       "summary": "136 points · 63 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzbGV0dGVyLmtlbnRi",
-      "title": "Baking a Model: A Metaphor for LLM Training",
-      "url": "https://newsletter.kentbeck.com/p/baking-a-model",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-14T23:46:45.000Z",
-      "summary": "32 points · 6 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly90d2l0dGVyLmNvbS9tYWNi",
-      "title": "Earn yield through machine learning vault on DeFi",
-      "url": "https://twitter.com/macbrennan_cc/status/2088295071024034226",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-14T17:37:06.000Z",
-      "summary": "1 points · 1 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://arxiv.org/abs/2608.12700",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-14T16:57:14.000Z",
-      "summary": "46 points · 0 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYnloYW5kLmFpLw",
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-14T15:58:59.000Z",
-      "summary": "366 points · 31 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9zZWN1",
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-14T15:43:10.000Z",
-      "summary": "498 points · 290 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9lbmdpbmVlcmluZy5teWhv",
-      "title": "A simple fix for LLM tail latency",
-      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-14T05:58:16.000Z",
-      "summary": "52 points · 18 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -899,14 +899,6 @@
       "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
     },
     {
-      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
-      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face",
-      "publishedAt": "2026-07-27T09:32:20.000Z",
-      "summary": ""
-    },
-    {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
@@ -961,6 +953,14 @@
       "source": "VentureBeat AI",
       "publishedAt": "2026-01-22T14:00:00.000Z",
       "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the"
+    },
+    {
+      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI",
+      "publishedAt": "2026-01-19T14:00:00.000Z",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $2"
     }
   ]
 }
