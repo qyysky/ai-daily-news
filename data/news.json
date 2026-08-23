@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-08-22T02:15:39.051Z",
+  "updatedAt": "2026-08-23T02:24:11.121Z",
   "count": 120,
   "items": [
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+      "url": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-22T23:49:38.000Z",
+      "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered architecture, featuring deterministic PII redaction, retrieval filtering, output maskin"
+    },
+    {
+      "id": "aHR0cHM6Ly9mb3J1bS5sZXZlbDF0ZWNo",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-22T18:14:16.000Z",
+      "summary": "193 points · 66 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "url": "https://www.qbitai.com/2026/08/477253.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-22T14:46:43.000Z",
+      "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+      "url": "https://www.qbitai.com/2026/08/477246.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-22T14:19:39.000Z",
+      "summary": "直击WRC"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+      "url": "https://www.qbitai.com/2026/08/477155.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-22T14:11:20.000Z",
+      "summary": "一脑驱动多形落地"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+      "url": "https://www.qbitai.com/2026/08/477094.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-22T13:56:00.000Z",
+      "summary": "采集，从一条腕带开始"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+      "url": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-22T13:43:13.000Z",
+      "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That "
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
+      "url": "https://www.qbitai.com/2026/08/477090.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-22T12:21:07.000Z",
+      "summary": "将真实场景重建为持续更新、可计算的4D数字世界。"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+      "url": "https://www.qbitai.com/2026/08/477016.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-22T12:11:23.000Z",
+      "summary": "具身智能赛道壁垒不在出货量"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+      "url": "https://www.qbitai.com/2026/08/476965.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-22T08:53:13.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+      "url": "https://www.qbitai.com/2026/08/476930.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-22T08:41:41.000Z",
+      "summary": "让具身智能技术真正落地千行万业。"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucmV1dGVycy5jb20v",
+      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+      "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-22T01:09:21.000Z",
+      "summary": "36 points · 3 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+      "url": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-21T23:20:12.000Z",
+      "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference cloud after licensing its LPU technology to NVIDIA. This comparison checks each prov"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+      "url": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-21T22:00:25.000Z",
+      "summary": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research papers. We walk through setting up the environment, configuring an API-backed generation workflow, and converting complex document in"
+    },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
@@ -11,12 +123,20 @@
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible"
     },
     {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+      "url": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-21T21:15:53.000Z",
+      "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mythos 5, in public beta for Claude Enterprise customers with no separate model add-on. The scan connects to a GitHub repository, trace"
+    },
+    {
       "id": "aHR0cHM6Ly9iYXN0aWFuLnJpZWNrLm1l",
       "title": "LLMs are proof that Unix won",
       "url": "https://bastian.rieck.me/blog/2026/unix/",
       "source": "Hacker News",
       "publishedAt": "2026-08-21T15:59:16.000Z",
-      "summary": "39 points · 15 comments"
+      "summary": "41 points · 17 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -27,20 +147,20 @@
       "summary": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI pl"
     },
     {
+      "id": "aHR0cHM6Ly9jeW1lcnlzLmNvbS93L2lt",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-21T11:48:05.000Z",
+      "summary": "475 points · 479 comments"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
       "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
       "url": "https://www.qbitai.com/2026/08/476778.html",
       "source": "量子位",
       "publishedAt": "2026-08-21T11:47:27.000Z",
       "summary": "载重4.2吨、容积19.32m³"
-    },
-    {
-      "id": "aHR0cHM6Ly9hbm5hcy1hcmNoaXZlLnBr",
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-21T10:05:46.000Z",
-      "summary": "701 points · 2 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -51,156 +171,12 @@
       "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
-      "url": "https://www.qbitai.com/2026/08/476628.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T09:00:06.000Z",
-      "summary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
-      "url": "https://www.qbitai.com/2026/08/476596.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T07:17:58.000Z",
-      "summary": "机器人看3秒演示就能学会"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
-      "url": "https://www.qbitai.com/2026/08/476591.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T06:40:34.000Z",
-      "summary": "让科学家的时间回到科学创造"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
-      "url": "https://www.qbitai.com/2026/08/476532.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T05:38:12.000Z",
-      "summary": "一点新鲜变化都没有吗？"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
-      "url": "https://www.qbitai.com/2026/08/476525.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T05:09:33.000Z",
-      "summary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
-      "url": "https://www.qbitai.com/2026/08/476468.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T04:05:11.000Z",
-      "summary": "离开谷歌的原因之一：小团队可以极致聚焦！"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-      "url": "https://arxiv.org/abs/2608.18078",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect econo"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Profiling Game Worlds by Transition Complexity",
-      "url": "https://arxiv.org/abs/2608.18079",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared interface (pixels/tokens/latents wi"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-      "url": "https://arxiv.org/abs/2608.18080",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical consideratio"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Behavioral Systems Require Behavioral Tests",
-      "url": "https://arxiv.org/abs/2608.18081",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the u"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
-      "url": "https://arxiv.org/abs/2608.18086",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model reposi"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
-      "url": "https://arxiv.org/abs/2608.18088",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diagnostic signal. This paper proposes a Metamorphic Artificial "
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
-      "url": "https://arxiv.org/abs/2608.18092",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently r"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
-      "url": "https://arxiv.org/abs/2608.18099",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct computational inputs, invoke specialized methods, and produ"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
-      "url": "https://arxiv.org/abs/2608.18104",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18104v1 Announce Type: new Abstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate with other agents. These capabi"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
-      "url": "https://arxiv.org/abs/2608.18110",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-21T04:00:00.000Z",
-      "summary": "arXiv:2608.18110v1 Announce Type: new Abstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to enable rapid transformation across various domains.This rapid advancement and the potential to revolutio"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
-      "url": "https://www.qbitai.com/2026/08/476413.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T03:14:40.000Z",
-      "summary": "墨奇，开始加速了"
-    },
-    {
       "id": "aHR0cHM6Ly9hbm5hcy1hcmNoaXZlLmds",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "source": "Hacker News",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "summary": "535 points · 839 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
-      "url": "https://www.qbitai.com/2026/08/476409.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T02:31:10.000Z",
-      "summary": ""
+      "summary": "608 points · 892 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -211,6 +187,14 @@
       "summary": ""
     },
     {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
+      "url": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-20T22:23:17.000Z",
+      "summary": "S1-mini is a 462 MB open-weights normalizer that sits after ASR, removing fillers and resolving self-corrections locally. The post Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text appeared first on MarkTechPos"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Google Discover is getting an AI chatbot-tuned feed",
       "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
@@ -219,12 +203,28 @@
       "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the opti"
     },
     {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
+      "url": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-20T19:34:10.000Z",
+      "summary": "PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF is built for that second half: direct editing, 14-format conversion, 38-language OCR, and ten AI agents shipped in version 2.5. T"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuZGFuaWVsdmF1Z2hu",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "source": "Hacker News",
       "publishedAt": "2026-08-20T19:05:36.000Z",
-      "summary": "361 points · 206 comments"
+      "summary": "378 points · 209 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
+      "url": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-20T18:53:09.000Z",
+      "summary": "Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output. The post Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs appeared first on MarkTec"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -256,7 +256,15 @@
       "url": "https://github.com/zachahn/vomit",
       "source": "Hacker News",
       "publishedAt": "2026-08-20T15:26:02.000Z",
-      "summary": "295 points · 290 comments"
+      "summary": "302 points · 294 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9zZ29lZGVja2UuZ2l0aHVi",
+      "title": "Guess which of these LLM outputs is watermarked",
+      "url": "https://sgoedecke.github.io/watermark-quiz/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-20T14:03:58.000Z",
+      "summary": "64 points · 73 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -291,12 +299,20 @@
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these jou"
     },
     {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
+      "url": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-20T08:51:38.000Z",
+      "summary": "This tutorial provides an end-to-end workflow for fine-tuning language models using Direct Preference Optimization (DPO). We demonstrate how to audit the Anthropic HH-RLHF dataset for structural and length-based biases, implement a robust training pipeline using TRL and LoRA, and"
+    },
+    {
       "id": "aHR0cHM6Ly9kb250cGFzdGV0aGVhaS5j",
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "source": "Hacker News",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "summary": "1031 points · 575 comments"
+      "summary": "1041 points · 579 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -320,7 +336,23 @@
       "url": "https://garymarcus.substack.com/p/breaking-openais-unraveling-has-begun",
       "source": "Hacker News",
       "publishedAt": "2026-08-19T21:00:57.000Z",
-      "summary": "28 points · 11 comments"
+      "summary": "28 points · 12 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY25iYy5jb20vMjAy",
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+      "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-19T19:42:35.000Z",
+      "summary": "20 points · 2 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
+      "title": "Ask HN: Has anyone shipped a self-modifying application with LLMs?",
+      "url": "https://news.ycombinator.com/item?id=49366144",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-19T19:33:27.000Z",
+      "summary": "10 points · 13 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -368,7 +400,7 @@
       "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
       "source": "Hacker News",
       "publishedAt": "2026-08-19T16:26:05.000Z",
-      "summary": "170 points · 88 comments"
+      "summary": "173 points · 88 comments"
     },
     {
       "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
@@ -395,6 +427,14 @@
       "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
     },
     {
+      "id": "aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNv",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-19T06:13:31.000Z",
+      "summary": "370 points · 371 comments"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cud3NqLmNvbS90ZWNo",
       "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
       "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
@@ -409,6 +449,14 @@
       "source": "OpenAI",
       "publishedAt": "2026-08-18T22:00:00.000Z",
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+      "url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-18T21:49:04.000Z",
+      "summary": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT inference in two commands, with no intermediate ONNX export. The build emits a versioned .bundle artifact tha"
     },
     {
       "id": "aHR0cHM6Ly90d2l0dGVyLmNvbS9zYW1h",
@@ -480,7 +528,7 @@
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
       "source": "Hacker News",
       "publishedAt": "2026-08-18T10:13:28.000Z",
-      "summary": "614 points · 419 comments"
+      "summary": "616 points · 420 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -536,7 +584,7 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "source": "Hacker News",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "summary": "1054 points · 858 comments"
+      "summary": "1054 points · 863 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucmlja21hbmVsaXVz",
@@ -544,7 +592,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "source": "Hacker News",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "summary": "1103 points · 690 comments"
+      "summary": "1109 points · 690 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -579,12 +627,28 @@
       "summary": "424 points · 157 comments"
     },
     {
+      "id": "aHR0cHM6Ly93d3cubGlicmFyaWFuLm5l",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-17T14:07:56.000Z",
+      "summary": "339 points · 197 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9haXRyYWRpbmdjb21wZXRp",
+      "title": "Show HN: LLMs each trading $100K vs. a frozen rulebook – the rulebook leads",
+      "url": "https://aitradingcompetition.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-17T13:20:01.000Z",
+      "summary": "12 points · 3 comments"
+    },
+    {
       "id": "aHR0cHM6Ly9ibG9nLnJvYm9mbG93LmNv",
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
       "source": "Hacker News",
       "publishedAt": "2026-08-17T12:09:42.000Z",
-      "summary": "365 points · 170 comments"
+      "summary": "366 points · 170 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -641,78 +705,6 @@
       "source": "Hacker News",
       "publishedAt": "2026-08-16T07:37:53.000Z",
       "summary": "245 points · 209 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-      "url": "https://arxiv.org/abs/2608.13328",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-16T02:07:06.000Z",
-      "summary": "22 points · 10 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL2FuZHJl",
-      "title": "Deep Learning Overview",
-      "url": "https://github.com/andrewt3000/machinelearning",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-15T18:46:05.000Z",
-      "summary": "1 points · 1 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9kYXZpZGVwaWZmZXIuY29t",
-      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-15T18:13:02.000Z",
-      "summary": "632 points · 521 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuY25iYy5jb20vMjAy",
-      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-15T15:25:16.000Z",
-      "summary": "28 points · 4 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXRmbGl4dGVjaGJsb2cu",
-      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-15T12:56:56.000Z",
-      "summary": "33 points · 54 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL3BvbGlj",
-      "title": "OpenAI rolling out ads for Europe later this month",
-      "url": "https://openai.com/policies/eu-privacy-policy-preview/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-15T10:52:36.000Z",
-      "summary": "24 points · 4 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9hbGxlbi5iYXJnaS5vcmcv",
-      "title": "Working with AI feels more like leadership than coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-15T10:39:41.000Z",
-      "summary": "338 points · 203 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9saXN0cy5kZWJpYW4ub3Jn",
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-15T09:20:07.000Z",
-      "summary": "67 points · 54 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9jaGVueGlhY2hhbi5naXRo",
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-15T04:42:07.000Z",
-      "summary": "136 points · 63 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -961,6 +953,14 @@
       "source": "VentureBeat AI",
       "publishedAt": "2026-01-19T14:00:00.000Z",
       "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $2"
+    },
+    {
+      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat AI",
+      "publishedAt": "2026-01-16T14:01:00.000Z",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displayi"
     }
   ]
 }
