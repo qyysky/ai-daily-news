@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-08-23T02:24:11.121Z",
+  "updatedAt": "2026-08-24T02:22:48.787Z",
   "count": 120,
   "items": [
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "url": "https://www.qbitai.com/2026/08/478358.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T23:19:06.000Z",
+      "summary": "Tim和胡彦斌亲自颁奖"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+      "url": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-23T17:51:56.000Z",
+      "summary": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work appeared first on Mark"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "url": "https://www.qbitai.com/2026/08/478319.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T13:20:00.000Z",
+      "summary": "玩的就是真实"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "具身创业里的香港教授们",
+      "url": "https://www.qbitai.com/2026/08/478289.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T11:20:13.000Z",
+      "summary": "香港的大学里冒出了一批很特别的人"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "url": "https://www.qbitai.com/2026/08/478234.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T11:17:22.000Z",
+      "summary": "多多支持像王兴兴这样优秀的具身机器人创业者"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+      "url": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-23T10:44:59.000Z",
+      "summary": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU appeared first on MarkTechPost."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "url": "https://www.qbitai.com/2026/08/478191.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T09:56:12.000Z",
+      "summary": "Tokenizer、视频编码、API报错全扒一遍"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+      "url": "https://www.qbitai.com/2026/08/478164.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T09:51:49.000Z",
+      "summary": "内存成本飙升逼涨硬件"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+      "url": "https://www.qbitai.com/2026/08/478093.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T09:45:27.000Z",
+      "summary": "AstraTennis时刻背后的硬核技术"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑",
+      "url": "https://www.qbitai.com/2026/08/478020.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T09:29:59.000Z",
+      "summary": "机器人开卡丁车连续过弯，一镜到底全自主"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+      "url": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-23T07:51:22.000Z",
+      "summary": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extraction, while demonstrating how to implement custom services for entity recognition and generate structured JSONL data for your RAG w"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
+      "url": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-08-23T07:37:14.000Z",
+      "summary": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks appeared first on MarkTechPost."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕",
+      "url": "https://www.qbitai.com/2026/08/478017.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T07:17:41.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动",
+      "url": "https://www.qbitai.com/2026/08/478007.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-23T07:12:22.000Z",
+      "summary": ""
+    },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
@@ -16,39 +128,7 @@
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "source": "Hacker News",
       "publishedAt": "2026-08-22T18:14:16.000Z",
-      "summary": "193 points · 66 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477253.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-22T14:46:43.000Z",
-      "summary": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-      "url": "https://www.qbitai.com/2026/08/477246.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-22T14:19:39.000Z",
-      "summary": "直击WRC"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-      "url": "https://www.qbitai.com/2026/08/477155.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-22T14:11:20.000Z",
-      "summary": "一脑驱动多形落地"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-      "url": "https://www.qbitai.com/2026/08/477094.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-22T13:56:00.000Z",
-      "summary": "采集，从一条腕带开始"
+      "summary": "417 points · 171 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -57,38 +137,6 @@
       "source": "MarkTechPost",
       "publishedAt": "2026-08-22T13:43:13.000Z",
       "summary": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Bench experiment, changing only the harness—same model throughout—moved a coding agent from roughly 30th place into the top 5. That "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-      "url": "https://www.qbitai.com/2026/08/477090.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-22T12:21:07.000Z",
-      "summary": "将真实场景重建为持续更新、可计算的4D数字世界。"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477016.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-22T12:11:23.000Z",
-      "summary": "具身智能赛道壁垒不在出货量"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-      "url": "https://www.qbitai.com/2026/08/476965.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-22T08:53:13.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
-      "url": "https://www.qbitai.com/2026/08/476930.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-22T08:41:41.000Z",
-      "summary": "让具身智能技术真正落地千行万业。"
     },
     {
       "id": "aHR0cHM6Ly93d3cucmV1dGVycy5jb20v",
@@ -152,23 +200,7 @@
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
       "source": "Hacker News",
       "publishedAt": "2026-08-21T11:48:05.000Z",
-      "summary": "475 points · 479 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
-      "url": "https://www.qbitai.com/2026/08/476778.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T11:47:27.000Z",
-      "summary": "载重4.2吨、容积19.32m³"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
-      "url": "https://www.qbitai.com/2026/08/476733.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T09:44:33.000Z",
-      "summary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。"
+      "summary": "487 points · 492 comments"
     },
     {
       "id": "aHR0cHM6Ly9hbm5hcy1hcmNoaXZlLmds",
@@ -176,7 +208,7 @@
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "source": "Hacker News",
       "publishedAt": "2026-08-21T02:37:47.000Z",
-      "summary": "608 points · 892 comments"
+      "summary": "623 points · 898 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -203,28 +235,12 @@
       "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the opti"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
-      "url": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-20T19:34:10.000Z",
-      "summary": "PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF is built for that second half: direct editing, 14-format conversion, 38-language OCR, and ten AI agents shipped in version 2.5. T"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZGFuaWVsdmF1Z2hu",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "source": "Hacker News",
       "publishedAt": "2026-08-20T19:05:36.000Z",
-      "summary": "378 points · 209 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
-      "url": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-20T18:53:09.000Z",
-      "summary": "Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output. The post Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs appeared first on MarkTec"
+      "summary": "379 points · 209 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -256,7 +272,7 @@
       "url": "https://github.com/zachahn/vomit",
       "source": "Hacker News",
       "publishedAt": "2026-08-20T15:26:02.000Z",
-      "summary": "302 points · 294 comments"
+      "summary": "303 points · 297 comments"
     },
     {
       "id": "aHR0cHM6Ly9zZ29lZGVja2UuZ2l0aHVi",
@@ -264,7 +280,7 @@
       "url": "https://sgoedecke.github.io/watermark-quiz/",
       "source": "Hacker News",
       "publishedAt": "2026-08-20T14:03:58.000Z",
-      "summary": "64 points · 73 comments"
+      "summary": "67 points · 79 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -299,20 +315,12 @@
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these jou"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
-      "url": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-20T08:51:38.000Z",
-      "summary": "This tutorial provides an end-to-end workflow for fine-tuning language models using Direct Preference Optimization (DPO). We demonstrate how to audit the Anthropic HH-RLHF dataset for structural and length-based biases, implement a robust training pipeline using TRL and LoRA, and"
-    },
-    {
       "id": "aHR0cHM6Ly9kb250cGFzdGV0aGVhaS5j",
       "title": "Don't paste the AI, please",
       "url": "https://dontpastetheai.com/",
       "source": "Hacker News",
       "publishedAt": "2026-08-20T08:20:44.000Z",
-      "summary": "1041 points · 579 comments"
+      "summary": "1044 points · 579 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -432,7 +440,7 @@
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "source": "Hacker News",
       "publishedAt": "2026-08-19T06:13:31.000Z",
-      "summary": "370 points · 371 comments"
+      "summary": "375 points · 376 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cud3NqLmNvbS90ZWNo",
@@ -443,6 +451,14 @@
       "summary": "20 points · 4 comments"
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
+      "title": "LLMs .what do you smoke beforehand?",
+      "url": "https://news.ycombinator.com/item?id=49353513",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-18T22:14:35.000Z",
+      "summary": "8 points · 10 comments"
+    },
+    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "ChatGPT Ads expands across Europe",
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -451,20 +467,20 @@
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
-      "url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-18T21:49:04.000Z",
-      "summary": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT inference in two commands, with no intermediate ONNX export. The build emits a versioned .bundle artifact tha"
-    },
-    {
       "id": "aHR0cHM6Ly90d2l0dGVyLmNvbS9zYW1h",
       "title": "OpenAI pauses frontier model training",
       "url": "https://twitter.com/sama/status/2089787807611195475",
       "source": "Hacker News",
       "publishedAt": "2026-08-18T21:24:35.000Z",
       "summary": "25 points · 3 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly90aW1lLmNvbS9hcnRpY2xl",
+      "title": "OpenAI Is Slowing Down Its AI Training",
+      "url": "https://time.com/article/2026/08/18/openai-slowing-training/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-18T19:46:28.000Z",
+      "summary": "14 points · 4 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldGhvdXNhbmRt",
@@ -496,7 +512,7 @@
       "url": "https://www.wheresyoured.at/what-happens-if-openai-dies/",
       "source": "Hacker News",
       "publishedAt": "2026-08-18T15:32:04.000Z",
-      "summary": "102 points · 62 comments"
+      "summary": "103 points · 62 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -584,7 +600,7 @@
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "source": "Hacker News",
       "publishedAt": "2026-08-17T20:46:10.000Z",
-      "summary": "1054 points · 863 comments"
+      "summary": "1054 points · 868 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucmlja21hbmVsaXVz",
@@ -592,7 +608,7 @@
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "source": "Hacker News",
       "publishedAt": "2026-08-17T19:47:15.000Z",
-      "summary": "1109 points · 690 comments"
+      "summary": "1111 points · 690 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -689,22 +705,6 @@
       "source": "OpenAI",
       "publishedAt": "2026-08-17T03:15:00.000Z",
       "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucmV1dGVycy5jb20v",
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-16T21:07:10.000Z",
-      "summary": "252 points · 152 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9saXR0bGVsZWFybmVyLWxs",
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-16T07:37:53.000Z",
-      "summary": "245 points · 209 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
