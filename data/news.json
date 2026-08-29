@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-08-28T12:33:50.548Z",
-  "count": 120,
+  "updatedAt": "2026-08-29T07:42:16.865Z",
+  "count": 113,
   "items": [
+    {
+      "id": "aHR0cHM6Ly93d3cuc2ZnYXRlLmNvbS9s",
+      "title": "OpenAI and Anthropic are ruining San Francisco",
+      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T02:57:13.000Z",
+      "summary": "10 points · 4 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuc2ZnYXRlLmNvbS9s",
+      "title": "OpenAI and Anthropic are ruining San Francisco",
+      "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T01:50:40.000Z",
+      "summary": "20 points · 14 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9wd25pbmcuc3lzdGVtcy9w",
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-28T23:27:45.000Z",
+      "summary": "111 points · 21 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL3NzZXNo",
+      "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+      "url": "https://github.com/sseshachala/conductai",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-28T19:29:20.000Z",
+      "summary": "22 points · 4 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-28T16:28:40.000Z",
+      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and "
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+      "url": "https://www.qbitai.com/2026/08/480700.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-28T15:36:12.000Z",
+      "summary": ""
+    },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
       "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
@@ -25,6 +73,14 @@
       "source": "量子位",
       "publishedAt": "2026-08-28T07:20:14.000Z",
       "summary": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕。"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmx1YW50aS5vcmcv",
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-28T06:33:57.000Z",
+      "summary": "481 points · 145 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -51,20 +107,20 @@
       "summary": "Claude觉醒超体"
     },
     {
+      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI",
+      "publishedAt": "2026-08-28T06:00:00.000Z",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+    },
+    {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
       "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
       "url": "https://www.qbitai.com/2026/08/480236.html",
       "source": "量子位",
       "publishedAt": "2026-08-28T05:49:05.000Z",
       "summary": "重新审视触视觉"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
-      "url": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-28T05:00:38.000Z",
-      "summary": "Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint delivers sub-second transcription but drops speaker diarization and word timestamps. The batch endpoint keeps both, at half the cost. Goo"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -83,94 +139,6 @@
       "summary": "国产异构助力前沿智能进入普惠时代"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-      "url": "https://arxiv.org/abs/2608.26107",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26107v1 Announce Type: new Abstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and "
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-      "url": "https://arxiv.org/abs/2608.26109",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26109v1 Announce Type: new Abstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agent"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-      "url": "https://arxiv.org/abs/2608.26111",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26111v1 Announce Type: new Abstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, "
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-      "url": "https://arxiv.org/abs/2608.26113",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26113v1 Announce Type: new Abstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS generat"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-      "url": "https://arxiv.org/abs/2608.26114",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natura"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.26116",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26116v1 Announce Type: new Abstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introd"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
-      "url": "https://arxiv.org/abs/2608.26134",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26134v1 Announce Type: new Abstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equally to on-device forecasting for mission-critical edge environments, including military systems. Howeve"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
-      "url": "https://arxiv.org/abs/2608.26145",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26145v1 Announce Type: new Abstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-generated literature reviews and the"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
-      "url": "https://arxiv.org/abs/2608.26149",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26149v1 Announce Type: new Abstract: Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems. Relational data combine several sources of complexity, including large data volume, high-dimensional variables,"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
-      "url": "https://arxiv.org/abs/2608.26150",
-      "source": "arXiv AI",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "summary": "arXiv:2608.26150v1 Announce Type: new Abstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including systematic literature reviews (SLRs). This study reports an LLM pipeline de"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
-      "url": "https://www.qbitai.com/2026/08/480208.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-28T03:45:45.000Z",
-      "summary": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
       "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
@@ -187,12 +155,12 @@
       "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
-      "url": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-27T20:05:49.000Z",
-      "summary": "Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, bounding boxes and image descriptions. It runs at $1.50 per 1,000 pages through the API, or on dedicated Model Vault instances from"
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "summary": ""
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -208,15 +176,7 @@
       "url": "https://wjamesau.substack.com/p/fewer-americans-pay-to-use-chatgpt",
       "source": "Hacker News",
       "publishedAt": "2026-08-27T19:09:55.000Z",
-      "summary": "26 points · 15 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Best Agent Sandboxes in 2026: Cold Start, Per-Second Pricing, and Network Policy Across E2B, Daytona, Modal, Cloudflare, and Vercel",
-      "url": "https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-27T17:04:49.000Z",
-      "summary": "Every agent that writes code needs somewhere to run it, and no two vendors quote the same units. This comparison measures burst cold start across E2B, Daytona, Modal, Cloudflare, and Vercel, normalizes per-second rates to cost per 1,000 executions, and maps filesystem persistence"
+      "summary": "27 points · 15 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -233,14 +193,6 @@
       "source": "Google AI Blog",
       "publishedAt": "2026-08-27T16:00:00.000Z",
       "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
-      "url": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-27T15:36:29.000Z",
-      "summary": "In this tutorial, we analyze Anthropic’s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target identity, expression titers, and consensus scoring impact experimental success and learn best practices for rigorous cross-validatio"
     },
     {
       "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
@@ -304,15 +256,7 @@
       "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
       "source": "Hacker News",
       "publishedAt": "2026-08-27T08:44:22.000Z",
-      "summary": "88 points · 32 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google Research Introduces GlucoFM: A 0.72M-Parameter Dual-Stream Foundation Model for Continuous Glucose Monitoring",
-      "url": "https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-27T04:13:44.000Z",
-      "summary": "Google Research and UNSW Sydney released GlucoFM, a self-supervised foundation model that splits a CGM trace into a slow physiological stream and a transient event stream instead of encoding it as one sequence. At 0.72M parameters it reached 58.8 task-averaged PR-AUC across 14 co"
+      "summary": "99 points · 34 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -328,7 +272,7 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "source": "Hacker News",
       "publishedAt": "2026-08-27T01:46:22.000Z",
-      "summary": "981 points · 679 comments"
+      "summary": "1010 points · 704 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -347,14 +291,6 @@
       "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"mes"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
-      "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-26T21:33:23.000Z",
-      "summary": "Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series — a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face, and API pricing at $0.15/M input and $0.50/M output. It scores 84.3 on Terminal-Be"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL3dlYm1j",
       "title": "WebMCP Challenge – OpenAI",
       "url": "https://openai.com/webmcp-challenge/",
@@ -371,44 +307,12 @@
       "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity"
     },
     {
-      "id": "aHR0cHM6Ly90aW1iZXJyZWFkZXIuY29t",
-      "title": "Show HN: Timber (iOS) and Timber Tabs (Mac) – best offline read-aloud LLMs",
-      "url": "https://timberreader.com/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-26T17:28:46.000Z",
-      "summary": "12 points · 1 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-26T17:00:00.000Z",
-      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waitin"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuZ2F0ZXNub3Rlcy5j",
       "title": "The turbulent AI era is here",
       "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "source": "Hacker News",
       "publishedAt": "2026-08-26T15:55:15.000Z",
-      "summary": "359 points · 6 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuc3NwLnNoL2JyYWlu",
-      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-26T15:30:05.000Z",
-      "summary": "253 points · 181 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture",
-      "url": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-26T15:20:00.000Z",
-      "summary": "We look at Qwen3.8-Flash-Next, Alibaba's open-weight multimodal Mixture-of-Experts model and an early preview of the Qwen4 architecture. We break down where the 180B parameters actually sit: a 125B backbone, a 51B N-gram embedding table, and a 4B multi-token prediction module, wi"
+      "summary": "360 points · 6 comments"
     },
     {
       "id": "aHR0cHM6Ly90aW1lLmNvbS9hcnRpY2xl",
@@ -416,7 +320,7 @@
       "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview/",
       "source": "Hacker News",
       "publishedAt": "2026-08-26T15:07:23.000Z",
-      "summary": "15 points · 25 comments"
+      "summary": "15 points · 26 comments"
     },
     {
       "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
@@ -425,14 +329,6 @@
       "source": "VentureBeat AI",
       "publishedAt": "2026-08-26T14:30:00.000Z",
       "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
-      "url": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-26T14:20:35.000Z",
-      "summary": "Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence The post What Would Have to Be True for Agentic Coding to Replace Junior Engineers appeared first on MarkTechPost."
     },
     {
       "id": "aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNv",
@@ -444,19 +340,19 @@
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI",
-      "publishedAt": "2026-08-26T10:00:00.000Z",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-    },
-    {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Learning never stops: How AI makes learning continuous",
       "url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI",
       "publishedAt": "2026-08-26T10:00:00.000Z",
       "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+    },
+    {
+      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "OpenAI",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -483,20 +379,12 @@
       "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marin"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models",
-      "url": "https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-26T05:48:10.000Z",
-      "summary": "IBM has released Granite 4.2, a family of open reasoning language models in 3B, 8B, and 30B sizes, all under Apache 2.0. Every model exposes a thinking / low-effort / non-thinking switch and native tool calling. The 8B and 30B additionally go through an agentic RL block that trai"
-    },
-    {
       "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
       "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
       "url": "https://news.ycombinator.com/item?id=49443820",
       "source": "Hacker News",
       "publishedAt": "2026-08-26T03:17:51.000Z",
-      "summary": "33 points · 86 comments"
+      "summary": "34 points · 89 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -521,14 +409,6 @@
       "source": "Hugging Face",
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
-      "url": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-25T23:48:08.000Z",
-      "summary": "Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-source platform for benchmarking foundation models on edge devices, built in partners"
     },
     {
       "id": "aHR0cHM6Ly93d3cud3NqLmNvbS90ZWNo",
@@ -568,7 +448,7 @@
       "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
       "source": "Hacker News",
       "publishedAt": "2026-08-25T15:23:41.000Z",
-      "summary": "274 points · 354 comments"
+      "summary": "274 points · 355 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -584,7 +464,7 @@
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
       "source": "Hacker News",
       "publishedAt": "2026-08-25T14:06:02.000Z",
-      "summary": "583 points · 377 comments"
+      "summary": "584 points · 379 comments"
     },
     {
       "id": "aHR0cHM6Ly85dG81bWFjLmNvbS8yMDI2",
@@ -592,7 +472,7 @@
       "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
       "source": "Hacker News",
       "publishedAt": "2026-08-25T12:33:00.000Z",
-      "summary": "119 points · 122 comments"
+      "summary": "119 points · 124 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -656,7 +536,7 @@
       "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
       "source": "Hacker News",
       "publishedAt": "2026-08-24T19:03:06.000Z",
-      "summary": "192 points · 107 comments"
+      "summary": "192 points · 108 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubHB1bGl0ZS5jb20",
@@ -680,7 +560,7 @@
       "url": "https://developers.openai.com/api/docs/pricing",
       "source": "Hacker News",
       "publishedAt": "2026-08-24T15:22:43.000Z",
-      "summary": "338 points · 342 comments"
+      "summary": "338 points · 343 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -736,7 +616,7 @@
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
       "source": "Hacker News",
       "publishedAt": "2026-08-23T18:16:37.000Z",
-      "summary": "816 points · 701 comments"
+      "summary": "818 points · 701 comments"
     },
     {
       "id": "aHR0cHM6Ly9mYWJpZW5zYW5nbGFyZC5u",
@@ -760,7 +640,7 @@
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
       "source": "Hacker News",
       "publishedAt": "2026-08-23T14:23:09.000Z",
-      "summary": "698 points · 291 comments"
+      "summary": "701 points · 291 comments"
     },
     {
       "id": "aHR0cHM6Ly9mb3J1bS5sZXZlbDF0ZWNo",
@@ -768,31 +648,7 @@
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "source": "Hacker News",
       "publishedAt": "2026-08-22T18:14:16.000Z",
-      "summary": "507 points · 205 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuaW5zdGFudGRiLmNv",
-      "title": "The Instant team joins OpenAI",
-      "url": "https://www.instantdb.com/essays/instant_team_joins_openai",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-22T05:41:43.000Z",
-      "summary": "13 points · 8 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucmV1dGVycy5jb20v",
-      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-      "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-22T01:09:21.000Z",
-      "summary": "36 points · 3 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9iYXN0aWFuLnJpZWNrLm1l",
-      "title": "LLMs are proof that Unix won",
-      "url": "https://bastian.rieck.me/blog/2026/unix/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-21T15:59:16.000Z",
-      "summary": "41 points · 17 comments"
+      "summary": "507 points · 206 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -837,14 +693,6 @@
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-    },
-    {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "Introducing Intelligence Age",
       "url": "https://openai.com/index/introducing-intelligence-age",
       "source": "OpenAI",
       "publishedAt": "2026-08-20T07:00:00.000Z",
@@ -852,11 +700,11 @@
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
+      "title": "Introducing Intelligence Age",
+      "url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
@@ -961,6 +809,102 @@
       "source": "Google AI Blog",
       "publishedAt": "2026-08-11T17:00:00.000Z",
       "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "summary": "Here are Google’s latest AI updates from July 2026"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-03T15:00:00.000Z",
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-28T16:00:00.000Z",
+      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever."
+    },
+    {
+      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "source": "VentureBeat AI",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm. At its annual I/O developer c"
+    },
+    {
+      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat AI",
+      "publishedAt": "2026-01-22T14:00:00.000Z",
+      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the"
+    },
+    {
+      "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI",
+      "publishedAt": "2026-01-19T14:00:00.000Z",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $2"
     }
   ]
 }
