@@ -1,30 +1,150 @@
 {
-  "updatedAt": "2026-08-30T06:19:00.429Z",
+  "updatedAt": "2026-08-31T06:46:30.695Z",
   "count": 120,
   "items": [
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
-      "url": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-30T06:12:21.000Z",
-      "summary": "Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration that normally takes weeks or months drops to hours: Carnegie Mellon went from raw e"
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+      "url": "https://www.qbitai.com/2026/08/481893.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-31T04:47:26.000Z",
+      "summary": "核弹爆炸"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
-      "url": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-30T01:35:02.000Z",
-      "summary": "Code-as-World recovers editable MuJoCo scene code from real video, then uses those verified worlds to train physical reasoning. The post Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs appeared first on MarkTechPost."
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+      "url": "https://arxiv.org/abs/2608.27459",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27459v1 Announce Type: new Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! champions, but the knowledge that let it do so lived in a curated billion-document "
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
-      "url": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-29T18:57:26.000Z",
-      "summary": "In this tutorial, we build an ensemble weather forecasting workflow with NVIDIA Earth2Studio. We install the required Earth2Studio components while preserving Colab’s existing CUDA-enabled PyTorch environment, load the FCN prognostic model, and retrieve atmospheric initial condit"
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+      "url": "https://arxiv.org/abs/2608.27463",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27463v1 Announce Type: new Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Each paradigm can be viewed as a measurement problem, where a latent property of an"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+      "url": "https://arxiv.org/abs/2608.27464",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27464v1 Announce Type: new Abstract: This position paper argues that human-centered explainable AI (HCXAI) should incorporate insights from the psychology of information seeking. Drawing on Sharot and Sunstein's framework of information-seeking motives, we propose that"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
+      "url": "https://arxiv.org/abs/2608.27471",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27471v1 Announce Type: new Abstract: Fallacies are arguments that employ invalid reasoning, making their automatic detection critical in sensitive contexts such as high-stakes political debates, where public opinion is shaped. Spotting a fallacious argument requires co"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+      "url": "https://arxiv.org/abs/2608.27472",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27472v1 Announce Type: new Abstract: Bayesian network structure learning (BNSL) from observational data struggles with orientation identifiability, while large language models (LLMs) offer broad but often unreliable causal knowledge. We propose combining these compleme"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
+      "url": "https://arxiv.org/abs/2608.27475",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27475v1 Announce Type: new Abstract: Discovering PDEs in heterogeneous media requires jointly identifying the governing operator and the unknown spatial fields that parameterize it. These tasks are coupled: changing field placement changes the differential law, while a"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
+      "url": "https://arxiv.org/abs/2608.27476",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27476v1 Announce Type: new Abstract: Heuristic search underlies planning in autonomous systems ranging from warehouse logistics to robotic navigation, yet generic heuristics fail to exploit the structural constraints that govern constrained spatial domains, causing sea"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
+      "url": "https://arxiv.org/abs/2608.27477",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27477v1 Announce Type: new Abstract: Graphical user interfaces have emerged as an important environment for evaluating autonomous AI agents on multimodal interactive tasks. Existing benchmarks such as AndroidWorld and MobileWorld provide strong foundations for mobile a"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Effectiveness of IoT and Deep Learning for Detection and Severity Assessment of Postelectrotermes militaris in Tea Plantations",
+      "url": "https://arxiv.org/abs/2608.27480",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27480v1 Announce Type: new Abstract: Tea plantations are vulnerable to Postelectrotermes militaris, commonly known as the Upcountry Live Wood Termite (ULWT), which can cause substantial damage when infestations remain undetected. This study proposes an IoT-enabled acou"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Context Localization for Generalized Level-Based Evaluation in Knowledge-Based Systems",
+      "url": "https://arxiv.org/abs/2608.27482",
+      "source": "arXiv AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "summary": "arXiv:2608.27482v1 Announce Type: new Abstract: We study context localization for generalized level-based evaluation in knowledge-based systems. The framework models situations where a structured nonnegative score, defined on facts, rules, cases, criteria or evidence units, is ev"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+      "url": "https://www.qbitai.com/2026/08/481759.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-31T03:24:34.000Z",
+      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+      "url": "https://www.qbitai.com/2026/08/481750.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-31T03:11:46.000Z",
+      "summary": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+      "url": "https://www.qbitai.com/2026/08/481475.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-31T03:01:29.000Z",
+      "summary": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
+    },
+    {
+      "id": "aHR0cHM6Ly9hY2FkZW1hLmFpLw",
+      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+      "url": "https://academa.ai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-30T22:22:23.000Z",
+      "summary": "29 points · 25 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-30T15:35:10.000Z",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was prima"
+    },
+    {
+      "id": "aHR0cHM6Ly9ub2FpZnJpZGF5cy5jb20v",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-30T12:31:05.000Z",
+      "summary": "269 points · 191 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9h",
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-30T12:12:56.000Z",
+      "summary": "19 points · 3 comments"
     },
     {
       "id": "aHR0cHM6Ly9wZ2FsZW9uZS5ldS9haS8y",
@@ -32,23 +152,23 @@
       "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
       "source": "Hacker News",
       "publishedAt": "2026-08-29T18:38:52.000Z",
-      "summary": "55 points · 74 comments"
+      "summary": "60 points · 77 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "source": "The Verge AI",
       "publishedAt": "2026-08-29T18:19:53.000Z",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance "
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for eac"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-      "url": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-29T14:30:44.000Z",
-      "summary": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed: scene extension now reads up to 10 seconds of prior context instead of a single final frame, first and last frames can be pinned t"
+      "id": "aHR0cHM6Ly9uZXdzbGV0dGVyLmVuZy1s",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T17:19:47.000Z",
+      "summary": "457 points · 114 comments"
     },
     {
       "id": "aHR0cHM6Ly9sd24ubmV0L0FydGljbGVz",
@@ -56,7 +176,7 @@
       "url": "https://lwn.net/Articles/1091231/",
       "source": "Hacker News",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "summary": "477 points · 445 comments"
+      "summary": "500 points · 468 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -115,22 +235,6 @@
       "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-      "url": "https://www.qbitai.com/2026/08/480787.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-29T11:35:57.000Z",
-      "summary": "从剧本到成片"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning",
-      "url": "https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-29T05:25:16.000Z",
-      "summary": "Pollen Robotics, the Bordeaux robotics team at Hugging Face, opened pre-orders for Microduck — a 25 cm bipedal robot where every movement is a neural policy trained in MuJoCo and exported to ONNX. At $399, it puts the full sim-to-real loop on a desk: 15 motors, camera, LiDAR, two"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuc2ZnYXRlLmNvbS9s",
       "title": "OpenAI and Anthropic are ruining San Francisco",
       "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
@@ -144,7 +248,7 @@
       "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
       "source": "Hacker News",
       "publishedAt": "2026-08-29T01:50:40.000Z",
-      "summary": "30 points · 33 comments"
+      "summary": "32 points · 34 comments"
     },
     {
       "id": "aHR0cHM6Ly9wd25pbmcuc3lzdGVtcy9w",
@@ -152,23 +256,15 @@
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "source": "Hacker News",
       "publishedAt": "2026-08-28T23:27:45.000Z",
-      "summary": "284 points · 76 comments"
+      "summary": "300 points · 83 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
-      "url": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-28T19:12:21.000Z",
-      "summary": "Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training. The post GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture appeared first on"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
-      "url": "https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-28T17:28:47.000Z",
-      "summary": "Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, runs the same shader in the browser, in headless Node.js via Dawn, and in a deterministic CI mock, and ships a fullscreen effect in"
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL3NzZXNo",
+      "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+      "url": "https://github.com/sseshachala/conductai",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-28T19:29:20.000Z",
+      "summary": "22 points · 4 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -179,20 +275,12 @@
       "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and "
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-      "url": "https://www.qbitai.com/2026/08/480700.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-28T15:36:12.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-      "url": "https://www.qbitai.com/2026/08/480666.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-28T11:13:35.000Z",
-      "summary": "久久不愿来到台前的智元掌舵人"
+      "id": "aHR0cHM6Ly9tZXRyLm9yZy9ibG9nLzIw",
+      "title": "Investigation of agents' behavior in the OpenAI/HuggingFace hacking incident",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-28T15:55:56.000Z",
+      "summary": "9 points · 1 comments"
     },
     {
       "id": "aHR0cHM6Ly90b29scy5zaW1vbndpbGxp",
@@ -200,15 +288,7 @@
       "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
       "source": "Hacker News",
       "publishedAt": "2026-08-28T10:44:42.000Z",
-      "summary": "25 points · 3 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "url": "https://www.qbitai.com/2026/08/480600.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-28T09:45:19.000Z",
-      "summary": "企业智能化服务撑起基本盘，第二增长曲线冒头"
+      "summary": "26 points · 3 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmx1YW50aS5vcmcv",
@@ -216,7 +296,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "source": "Hacker News",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "summary": "517 points · 151 comments"
+      "summary": "521 points · 151 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -225,14 +305,6 @@
       "source": "OpenAI",
       "publishedAt": "2026-08-28T06:00:00.000Z",
       "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
-      "url": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-28T05:00:38.000Z",
-      "summary": "Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint delivers sub-second transcription but drops speaker diarization and word timestamps. The batch endpoint keeps both, at half the cost. Goo"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -259,14 +331,6 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
-      "url": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-27T20:05:49.000Z",
-      "summary": "Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, bounding boxes and image descriptions. It runs at $1.50 per 1,000 pages through the API, or on dedicated Model Vault instances from"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Google’s AI note-taking app now allows you to interact with books",
       "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
@@ -281,14 +345,6 @@
       "source": "Hacker News",
       "publishedAt": "2026-08-27T19:09:55.000Z",
       "summary": "27 points · 17 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Best Agent Sandboxes in 2026: Cold Start, Per-Second Pricing, and Network Policy Across E2B, Daytona, Modal, Cloudflare, and Vercel",
-      "url": "https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-27T17:04:49.000Z",
-      "summary": "Every agent that writes code needs somewhere to run it, and no two vendors quote the same units. This comparison measures burst cold start across E2B, Daytona, Modal, Cloudflare, and Vercel, normalizes per-second rates to cost per 1,000 executions, and maps filesystem persistence"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -339,14 +395,6 @@
       "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case,"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Adobe is adding more AI to Photoshop",
-      "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
-      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, backgr"
-    },
-    {
       "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
       "title": "When agents act on their own, governance has to live in the data layer",
       "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
@@ -368,7 +416,7 @@
       "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
       "source": "Hacker News",
       "publishedAt": "2026-08-27T08:44:22.000Z",
-      "summary": "110 points · 39 comments"
+      "summary": "122 points · 40 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -384,7 +432,7 @@
       "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "source": "Hacker News",
       "publishedAt": "2026-08-27T01:46:22.000Z",
-      "summary": "1023 points · 713 comments"
+      "summary": "1027 points · 714 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL3dlYm1j",
@@ -408,7 +456,7 @@
       "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
       "source": "Hacker News",
       "publishedAt": "2026-08-26T15:55:15.000Z",
-      "summary": "363 points · 6 comments"
+      "summary": "364 points · 6 comments"
     },
     {
       "id": "aHR0cHM6Ly90aW1lLmNvbS9hcnRpY2xl",
@@ -416,7 +464,7 @@
       "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview/",
       "source": "Hacker News",
       "publishedAt": "2026-08-26T15:07:23.000Z",
-      "summary": "15 points · 27 comments"
+      "summary": "16 points · 30 comments"
     },
     {
       "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
@@ -432,7 +480,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
       "source": "Hacker News",
       "publishedAt": "2026-08-26T10:04:55.000Z",
-      "summary": "433 points · 146 comments"
+      "summary": "434 points · 146 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -480,7 +528,7 @@
       "url": "https://news.ycombinator.com/item?id=49443820",
       "source": "Hacker News",
       "publishedAt": "2026-08-26T03:17:51.000Z",
-      "summary": "35 points · 89 comments"
+      "summary": "35 points · 90 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -537,6 +585,14 @@
       "source": "Google AI Blog",
       "publishedAt": "2026-08-25T16:00:00.000Z",
       "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmNvcmVkdW1wLmN4",
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-25T15:23:41.000Z",
+      "summary": "275 points · 355 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -640,7 +696,7 @@
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "source": "Hacker News",
       "publishedAt": "2026-08-24T15:52:33.000Z",
-      "summary": "558 points · 545 comments"
+      "summary": "559 points · 545 comments"
     },
     {
       "id": "aHR0cHM6Ly9kZXZlbG9wZXJzLm9wZW5h",
@@ -673,62 +729,6 @@
       "source": "MIT Tech Review",
       "publishedAt": "2026-08-24T09:00:00.000Z",
       "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of C"
-    },
-    {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL3RoaWFn",
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-24T06:25:31.000Z",
-      "summary": "139 points · 35 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9wYW50ZWwuaXMvcHJvamVj",
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-23T23:18:17.000Z",
-      "summary": "399 points · 76 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly90d2l0dGVyLmNvbS9wYXVs",
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-23T20:38:09.000Z",
-      "summary": "605 points · 681 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZnQuY29tL2NvbnRl",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-23T18:16:37.000Z",
-      "summary": "819 points · 701 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9mYWJpZW5zYW5nbGFyZC5u",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-23T17:59:52.000Z",
-      "summary": "415 points · 176 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9yZWludmVudGx5LmNvLnVr",
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-23T16:24:21.000Z",
-      "summary": "239 points · 111 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9lcmljcGFyZGVlLmdpdGh1",
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-23T14:23:09.000Z",
-      "summary": "703 points · 291 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
