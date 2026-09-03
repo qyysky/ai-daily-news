@@ -1,7 +1,351 @@
 {
-  "updatedAt": "2026-09-02T05:31:23.922Z",
+  "updatedAt": "2026-09-03T05:32:20.912Z",
   "count": 120,
   "items": [
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "url": "https://arxiv.org/abs/2609.01611",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations than in deployment, this undermines the validity of evaluation"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "url": "https://arxiv.org/abs/2609.01685",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01685v1 Announce Type: new Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibi"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "url": "https://arxiv.org/abs/2609.01741",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01741v1 Announce Type: new Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on numeric-threshold presence at a false-negative rate of 0.43. We "
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+      "url": "https://arxiv.org/abs/2609.01814",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01814v1 Announce Type: new Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centralized action-budget profile shows that equal one-person acc"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+      "url": "https://arxiv.org/abs/2609.01815",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01815v1 Announce Type: new Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational account must satisfy at least three desiderata: It must be (1) d"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+      "url": "https://arxiv.org/abs/2609.01834",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01834v1 Announce Type: new Abstract: As enterprise platforms transition to conversational reasoning interfaces, the stateless nature of LLM APIs creates an architectural gap. While statelessness enables horizontal scalability for AI providers, it forces client applicat"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+      "url": "https://arxiv.org/abs/2609.01849",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01849v1 Announce Type: new Abstract: This article presents SSAKG 2.0, an open-source software package for constructing and operating Structural Sequential Associative Knowledge Graphs (SSAKGs). An SSAKG represents objects as graph vertices and ordered sequences as stru"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+      "url": "https://arxiv.org/abs/2609.01852",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01852v1 Announce Type: new Abstract: Persistent memory supports personalized agents, but a stale stored fact can override current authoritative evidence without warning. We study when this harm begins as model capability changes. We evaluate a frozen, closed-set, actio"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Belief-Calibrated Optimization: An Explicit World Model for Agentic Optimization",
+      "url": "https://arxiv.org/abs/2609.01861",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01861v1 Announce Type: new Abstract: The performance of an LLM agent depends on the scaffold around a frozen model. A common way to improve that scaffold is to use a coding agent as an optimizer: it reads current scores and traces and iteratively edits the source, prod"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence",
+      "url": "https://arxiv.org/abs/2609.01873",
+      "source": "arXiv AI",
+      "publishedAt": "2026-09-03T04:00:00.000Z",
+      "summary": "arXiv:2609.01873v1 Announce Type: new Abstract: Multi-agent AI systems improve inference by spawning agents and synthesizing reports. But another agent is not another observation: apparently independent reports may descend from the same evidence, and genuinely independent evidenc"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
+      "url": "https://www.qbitai.com/2026/09/483565.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-03T03:16:43.000Z",
+      "summary": "从工厂一路干到家庭"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-03T01:31:45.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "url": "https://www.qbitai.com/2026/09/483462.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-03T01:27:05.000Z",
+      "summary": "4激光雷达+双M100上车"
+    },
+    {
+      "id": "aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8y",
+      "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-03T00:54:01.000Z",
+      "summary": "28 points · 7 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-03T00:51:16.000Z",
+      "summary": "遥操，可能真的危险了"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search",
+      "url": "https://www.marktechpost.com/2026/09/02/qwen-developers-open-sources-zg-zvec-grep-a-local-first-search-layer-unifying-ripgrep-bm25-and-vector-search/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-09-02T23:48:47.000Z",
+      "summary": "We look at zg (zvec-grep), the local-first search layer that Qwen Developers just open-sourced under Apache 2.0. We explain how it puts ripgrep, BM25, and vector search behind a single interface, so an agent can move from a plain-language description to an exact line span without"
+    },
+    {
+      "id": "aHR0cHM6Ly9tZXRyLm9yZy9ibG9nLzIw",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-02T23:08:47.000Z",
+      "summary": "101 points · 85 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubnl0aW1lcy5jb20v",
+      "title": "Justice Dept. Sides with OpenAI in New York Times Copyright Suit",
+      "url": "https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-02T23:07:07.000Z",
+      "summary": "14 points · 1 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-02T20:11:40.000Z",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Meet Switchyard: A Rust Proxy and Library That Routes and Translates LLM Traffic Across OpenAI and Anthropic APIs",
+      "url": "https://www.marktechpost.com/2026/09/02/nvidia-releases-switchyard-rust-proxy-llm-traffic-openai-anthropic-api-translation/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-09-02T18:05:52.000Z",
+      "summary": "NVIDIA has released Switchyard, an Apache-2.0 Rust proxy and library for LLM traffic. It decodes requests into provider-neutral types, routes them with passthrough, random, LLM-classifier, or stage-router algorithms, and translates responses back into the client's format, so Clau"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-02T17:52:56.000Z",
+      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and i"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Google DeepMind Releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber: One Core Model, Two Access Envelopes",
+      "url": "https://www.marktechpost.com/2026/09/02/google-deepmind-releases-gemini-3-8-flash-and-gemini-3-8-flash-cyber-one-core-model-two-access-envelopes/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-09-02T17:20:24.000Z",
+      "summary": "Google released Gemini 3.8 Flash and Gemini 3.8 Flash Cyber on September 2, 2026. Both variants run on the same foundational intelligence, split by safety mitigations rather than model size. Gemini 3.8 Flash is generally available at $0.75 and $3.75 per 1M tokens, introductory th"
+    },
+    {
+      "id": "aHR0cHM6Ly9xdWVzbWEuY29tL2Jsb2cv",
+      "title": "Mushroom hunting with LLMs: what can go wrong?",
+      "url": "https://quesma.com/blog/mushroom-llm-vision/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-02T16:58:34.000Z",
+      "summary": "50 points · 71 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-02T16:40:50.000Z",
+      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst deve"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-02T16:12:25.000Z",
+      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-02T15:47:03.000Z",
+      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advice: First up on September 5 is "
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-02T15:40:00.000Z",
+      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-02T14:35:03.000Z",
+      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federa"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "NYC bans AI use for students until they reach high school",
+      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-02T14:30:00.000Z",
+      "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and "
+    },
+    {
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL21sYy1h",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-02T14:02:35.000Z",
+      "summary": "100 points · 17 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Tech Review",
+      "publishedAt": "2026-09-02T14:00:00.000Z",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate res"
+    },
+    {
+      "id": "aHR0cHM6Ly90cmVsbG5lci5jb20vcmVw",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-02T13:59:59.000Z",
+      "summary": "354 points · 163 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "source": "Hugging Face",
+      "publishedAt": "2026-09-02T13:49:14.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly9haXNsZS5jb20vYmxvZy9h",
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-02T13:43:14.000Z",
+      "summary": "163 points · 54 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9vcGVudGVhbXMuY29tL2lu",
+      "title": "LLMs: Intelligence vs. Cost",
+      "url": "https://openteams.com/intelligence-vs-cost/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-02T13:03:50.000Z",
+      "summary": "75 points · 39 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9tYWNoaW5lbGVhcm5pbmdt",
+      "title": "AI Agent Memory Design: What Works and What Doesn't",
+      "url": "https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-02T12:13:20.000Z",
+      "summary": "2 points · 0 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+      "url": "https://www.qbitai.com/2026/09/483274.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-02T09:22:16.000Z",
+      "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Anthropic Introduces Enterprise Frontier Safeguards (EFS): Zero-Data-Retention Privacy Plus Cross-Session Misuse Detection",
+      "url": "https://www.marktechpost.com/2026/09/02/anthropic-enterprise-frontier-safeguards-efs/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-09-02T07:38:18.000Z",
+      "summary": "Anthropic announced Enterprise Frontier Safeguards on September 1, 2026, an architecture that stores monitoring data in the customer's own cloud account rather than Anthropic's. Detection stays automated and Anthropic-run; custody, encryption keys, and flag review stay with the c"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "url": "https://www.qbitai.com/2026/09/483104.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-02T06:20:17.000Z",
+      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+      "url": "https://www.qbitai.com/2026/09/483101.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-02T06:10:26.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+      "url": "https://www.qbitai.com/2026/09/483097.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-02T06:06:50.000Z",
+      "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Meta Superintelligence Labs Releases Muse Voice Transcribe: One Real-Time Model for Streaming ASR, Diarization, and Endpointing",
+      "url": "https://www.marktechpost.com/2026/09/01/meta-superintelligence-labs-releases-muse-voice-transcribe-one-real-time-model-for-streaming-asr-diarization-and-endpointing/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-09-02T05:37:12.000Z",
+      "summary": "Most production voice stacks are three systems stitched together. One model transcribes, a second separates speakers, and a detector decides when the user stopped talking. Each hand-off adds latency and a new failure mode. Muse Voice Transcribe, announced by Meta Superintelligenc"
+    },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "Perplexity Releases Hybrid Compute on Mac: Cloud Agents Orchestrate Down to a Local Model, Gated On Device",
@@ -9,86 +353,6 @@
       "source": "MarkTechPost",
       "publishedAt": "2026-09-02T05:12:00.000Z",
       "summary": "Agentic assistants have a structural problem: the context that makes them useful — deal documents, privileged files, client records — is exactly the context users cannot send to a cloud endpoint. This week, Perplexity shipped its answer for Mac. Hybrid compute splits a single Per"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-      "url": "https://arxiv.org/abs/2609.00002",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serialization s"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-      "url": "https://arxiv.org/abs/2609.00003",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00003v1 Announce Type: new Abstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine unlearning, the unintended degradation of semantically rela"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
-      "url": "https://arxiv.org/abs/2609.00004",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00004v1 Announce Type: new Abstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must be "
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
-      "url": "https://arxiv.org/abs/2609.00005",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00005v1 Announce Type: new Abstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversational turns that begin with impersonation or casual contact, escalate th"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-      "url": "https://arxiv.org/abs/2609.00012",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and th"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
-      "url": "https://arxiv.org/abs/2609.00015",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution backends operate over the same user or enterprise environment"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
-      "url": "https://arxiv.org/abs/2609.00018",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00018v1 Announce Type: new Abstract: Computer science papers rely heavily on diagrams: architecture drawings, system flowcharts, and pipeline schematics that often carry more information than the text around them. There is currently no public dataset that pairs this sp"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "UI-Venus-2 Technical Report",
-      "url": "https://arxiv.org/abs/2609.00028",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00028v1 Announce Type: new Abstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applications remains challenging due to limited environment coverage, "
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "EULER: Exploring Underused Links with Evidence-Checked Return for Multi-Agent Mathematical Discovery",
-      "url": "https://arxiv.org/abs/2609.00032",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00032v1 Announce Type: new Abstract: Mathematical communities work with different objects, invariants, and tools, so transferring a problem across them is expensive and often skipped. We present EULER, a multi-agent system that takes such a transfer--a bridge--as its u"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation",
-      "url": "https://arxiv.org/abs/2609.00071",
-      "source": "arXiv AI",
-      "publishedAt": "2026-09-02T04:00:00.000Z",
-      "summary": "arXiv:2609.00071v1 Announce Type: new Abstract: Prediction error is widely used to evaluate nuisance-function estimators in causal inference, but its relationship with causal estimator performance may differ across performance measures. We studied this question in a partially lin"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -107,36 +371,12 @@
       "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-      "url": "https://www.qbitai.com/2026/09/482855.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-02T02:06:08.000Z",
-      "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-      "url": "https://www.qbitai.com/2026/09/482699.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-02T01:44:24.000Z",
-      "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "李飞飞发布：全球首个多模态世界模型",
-      "url": "https://www.qbitai.com/2026/09/482586.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-02T01:07:13.000Z",
-      "summary": "一张图补全3D世界，还能给机器人造训练场"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuYmFzZXRlbi5jby9i",
       "title": "The efficient frontier of LLM inference",
       "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
       "source": "Hacker News",
       "publishedAt": "2026-09-01T23:48:05.000Z",
-      "summary": "78 points · 19 comments"
+      "summary": "149 points · 42 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -192,15 +432,7 @@
       "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
       "source": "Hacker News",
       "publishedAt": "2026-09-01T20:19:11.000Z",
-      "summary": "197 points · 138 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-01T19:02:54.000Z",
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a "
+      "summary": "242 points · 186 comments"
     },
     {
       "id": "aHR0cHM6Ly9kYW5sdXUuY29tL3ppdHJv",
@@ -208,15 +440,7 @@
       "url": "https://danluu.com/zitron/",
       "source": "Hacker News",
       "publishedAt": "2026-09-01T18:35:15.000Z",
-      "summary": "562 points · 643 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-01T18:19:26.000Z",
-      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the "
+      "summary": "843 points · 1009 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -225,22 +449,6 @@
       "source": "OpenAI",
       "publishedAt": "2026-09-01T17:00:00.000Z",
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "John Deere launched an AI chatbot for farmers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-01T16:00:52.000Z",
-      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Google Pics is like Canva, but with even more AI",
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-01T16:00:00.000Z",
-      "summary": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
@@ -259,28 +467,12 @@
       "summary": "Quantitative research agents that write their own experiments can corrupt the evidence they later learn from. A leaky feature that scores well gets stored as a successful precedent and propagated through later iterations. Prompt-level instructions and reviewer agents do not close"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-01T13:00:00.000Z",
-      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 5"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "url": "https://openai.com/index/path-to-astra",
       "source": "OpenAI",
       "publishedAt": "2026-09-01T13:00:00.000Z",
       "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "url": "https://www.qbitai.com/2026/09/482512.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-01T12:02:39.000Z",
-      "summary": ""
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -296,47 +488,7 @@
       "url": "https://mvakde.github.io/blog/44-on-arc-1/",
       "source": "Hacker News",
       "publishedAt": "2026-09-01T09:52:45.000Z",
-      "summary": "600 points · 155 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9uaWJibGVzdGV3LmJsb2dz",
-      "title": "Stanisław Lem foretold the current LLM mania in 1964",
-      "url": "https://nibblestew.blogspot.com/2026/08/stanisaw-lem-foretold-current-llm-mania.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-01T08:50:57.000Z",
-      "summary": "25 points · 0 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "GitHub最热架构图Agent，开发者故事看哭了",
-      "url": "https://www.qbitai.com/2026/09/482469.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-01T08:26:54.000Z",
-      "summary": "美观且支持实时更新的架构图，也能用AI一键生成了！"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "急急急用电！马斯克开造燃气轮机叶片",
-      "url": "https://www.qbitai.com/2026/09/482451.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-01T08:24:12.000Z",
-      "summary": "SpaceX正在德克萨斯州筹备燃气轮机叶片铸造工厂"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-      "url": "https://www.qbitai.com/2026/09/482406.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-01T08:15:40.000Z",
-      "summary": "主打一个明升暗降，理直气壮"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-      "url": "https://www.qbitai.com/2026/09/482337.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-01T05:12:30.000Z",
-      "summary": "参数冻结，能力暴涨"
+      "summary": "652 points · 163 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -379,14 +531,6 @@
       "summary": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in a public dataset, the agent can download them mid-evaluation and skip retrieval entirely. A similar problem arises when the answer"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
-      "url": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-31T21:20:16.000Z",
-      "summary": "Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forward pass. Unlike every TimesFM checkpoint through 2.5, it is pretrained natively for multivariate forecasting, accepting multiple ta"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -400,23 +544,7 @@
       "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
       "source": "Hacker News",
       "publishedAt": "2026-08-31T16:44:15.000Z",
-      "summary": "39 points · 24 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-31T15:34:58.000Z",
-      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generativ"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-31T14:00:00.000Z",
-      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there"
+      "summary": "40 points · 24 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFjcnVtb3JzLmNv",
@@ -424,7 +552,7 @@
       "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
       "source": "Hacker News",
       "publishedAt": "2026-08-31T12:41:22.000Z",
-      "summary": "492 points · 588 comments"
+      "summary": "495 points · 590 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -443,14 +571,6 @@
       "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control UI Startup, and One Trust Boundary Per Gateway",
-      "url": "https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-31T05:04:10.000Z",
-      "summary": "The OpenClaw Foundation has released v2026.8.1, which the project calls OpenClaw 2.0: 933 contributors, 569 first-timers, and more than 16,000 pull requests, roughly half of every PR ever merged into the repo. Setup now reuses existing subscriptions, API keys and local models. Th"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "A milestone in expanding access to AI",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
@@ -467,28 +587,28 @@
       "summary": "30 points · 25 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
-      "url": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-30T21:24:38.000Z",
-      "summary": "Voice agents fail on latency long before they fail on intelligence. Time to first token is the metric most teams use to choose an inference API, and it is the right starting point and the wrong stopping point. This benchmark works through every layer of the voice stack — LLM, spe"
+      "id": "aHR0cHM6Ly9ub2FpZnJpZGF5cy5jb20v",
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-30T12:31:05.000Z",
+      "summary": "290 points · 208 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
-      "url": "https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-30T20:23:46.000Z",
-      "summary": "Google Cloud AI Research, with Washington University in St. Louis and UNC Chapel Hill, has released EnvHarness, an Apache-2.0 layer that turns a static agent benchmark into one that adapts to the policy training on it. It wraps a frozen environment through the standard reset()/st"
+      "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9h",
+      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-30T12:12:56.000Z",
+      "summary": "92 points · 61 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
-      "url": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-08-30T06:12:21.000Z",
-      "summary": "Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely operate physical devices. Instrument integration that normally takes weeks or months drops to hours: Carnegie Mellon went from raw e"
+      "id": "aHR0cHM6Ly93d3cuY2hvc3VuLmNvbS9l",
+      "title": "Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-30T06:52:04.000Z",
+      "summary": "279 points · 84 comments"
     },
     {
       "id": "aHR0cHM6Ly9zaW1wbGVmbHlpbmcuY29t",
@@ -496,7 +616,7 @@
       "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "source": "Hacker News",
       "publishedAt": "2026-08-29T21:25:17.000Z",
-      "summary": "376 points · 150 comments"
+      "summary": "382 points · 163 comments"
     },
     {
       "id": "aHR0cHM6Ly9wZ2FsZW9uZS5ldS9haS8y",
@@ -512,7 +632,7 @@
       "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
       "source": "Hacker News",
       "publishedAt": "2026-08-29T17:19:47.000Z",
-      "summary": "477 points · 121 comments"
+      "summary": "478 points · 121 comments"
     },
     {
       "id": "aHR0cHM6Ly9sd24ubmV0L0FydGljbGVz",
@@ -520,7 +640,7 @@
       "url": "https://lwn.net/Articles/1091231/",
       "source": "Hacker News",
       "publishedAt": "2026-08-29T14:02:10.000Z",
-      "summary": "515 points · 484 comments"
+      "summary": "515 points · 486 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cuc2ZnYXRlLmNvbS9s",
@@ -539,36 +659,20 @@
       "summary": "32 points · 35 comments"
     },
     {
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL3N0ZW1k",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-29T01:24:13.000Z",
+      "summary": "246 points · 65 comments"
+    },
+    {
       "id": "aHR0cHM6Ly9wd25pbmcuc3lzdGVtcy9w",
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
       "source": "Hacker News",
       "publishedAt": "2026-08-28T23:27:45.000Z",
-      "summary": "302 points · 85 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL3NzZXNo",
-      "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-      "url": "https://github.com/sseshachala/conductai",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-28T19:29:20.000Z",
-      "summary": "22 points · 4 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9tZXRyLm9yZy9ibG9nLzIw",
-      "title": "Investigation of agents' behavior in the OpenAI/HuggingFace hacking incident",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-28T15:55:56.000Z",
-      "summary": "9 points · 1 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly90b29scy5zaW1vbndpbGxp",
-      "title": "LLM Cliché Highlighter",
-      "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-28T10:44:42.000Z",
-      "summary": "26 points · 3 comments"
+      "summary": "302 points · 86 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmx1YW50aS5vcmcv",
@@ -576,7 +680,7 @@
       "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
       "source": "Hacker News",
       "publishedAt": "2026-08-28T06:33:57.000Z",
-      "summary": "526 points · 158 comments"
+      "summary": "528 points · 159 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -601,14 +705,6 @@
       "source": "Hugging Face",
       "publishedAt": "2026-08-28T00:00:00.000Z",
       "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93amFtZXNhdS5zdWJzdGFj",
-      "title": "Fewer Americans Pay to Use LLMs Than Still Pay to Play World of Warcraft",
-      "url": "https://wjamesau.substack.com/p/fewer-americans-pay-to-use-chatgpt",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-27T19:09:55.000Z",
-      "summary": "27 points · 17 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
@@ -648,7 +744,7 @@
       "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
       "source": "Hacker News",
       "publishedAt": "2026-08-27T08:44:22.000Z",
-      "summary": "127 points · 41 comments"
+      "summary": "128 points · 41 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -659,30 +755,6 @@
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
     },
     {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL1NlbnRl",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-27T01:46:22.000Z",
-      "summary": "1031 points · 717 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL3dlYm1j",
-      "title": "WebMCP Challenge – OpenAI",
-      "url": "https://openai.com/webmcp-challenge/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-26T20:50:04.000Z",
-      "summary": "31 points · 5 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4u",
-      "title": "OpenAI staff saw warning signs before agent hacking crusade caused global alarm",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-26T19:09:30.000Z",
-      "summary": "9 points · 1 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
@@ -691,36 +763,12 @@
       "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity"
     },
     {
-      "id": "aHR0cHM6Ly93d3cuZ2F0ZXNub3Rlcy5j",
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-26T15:55:15.000Z",
-      "summary": "364 points · 6 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly90aW1lLmNvbS9hcnRpY2xl",
-      "title": "OpenAI is \"80% of the way\" to AGI",
-      "url": "https://time.com/article/2026/08/26/openai-sam-altman-interview/",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-26T15:07:23.000Z",
-      "summary": "16 points · 30 comments"
-    },
-    {
       "id": "aHR0cHM6Ly92ZW50dXJlYmVhdC5jb20v",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "source": "VentureBeat AI",
       "publishedAt": "2026-08-26T14:30:00.000Z",
       "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYmxvb21iZXJnLmNv",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "source": "Hacker News",
-      "publishedAt": "2026-08-26T10:04:55.000Z",
-      "summary": "435 points · 146 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -769,14 +817,6 @@
       "source": "OpenAI",
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
-    },
-    {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "source": "OpenAI",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -875,14 +915,6 @@
       "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these see"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
-      "title": "Unlocking hidden revenue streams with market models",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "MIT Tech Review",
-      "publishedAt": "2026-08-20T09:47:22.000Z",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these jou"
-    },
-    {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
       "title": "5 new ways to level up your learning with Search",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -929,38 +961,6 @@
       "source": "Google AI Blog",
       "publishedAt": "2026-08-17T08:00:00.000Z",
       "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
-    },
-    {
-      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face",
-      "publishedAt": "2026-08-13T17:16:04.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-08-13T16:45:00.000Z",
-      "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
-    },
-    {
-      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-08-11T17:00:00.000Z",
-      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings."
     }
   ]
 }
