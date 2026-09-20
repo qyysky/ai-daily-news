@@ -1,7 +1,167 @@
 {
-  "updatedAt": "2026-09-19T05:32:54.489Z",
+  "updatedAt": "2026-09-20T05:50:37.537Z",
   "count": 120,
   "items": [
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+      "url": "https://www.qbitai.com/2026/09/492849.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-20T02:48:18.000Z",
+      "summary": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
+      "url": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-09-19T21:44:23.000Z",
+      "summary": "OpenClaw 2026.9.5 ships 4,179 pull requests from 502 contributing accounts. The headline change is Atomic Updates, which check the next version against a private copy of your setup while the current Gateway keeps running. The release also adds plugin hot reload, read-only convers"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-19T20:44:40.000Z",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing e"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text",
+      "url": "https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-09-19T18:41:33.000Z",
+      "summary": "TypeSafe AI released Jev, a System One model that answers typed questions with probabilities instead of generating text. Input costs $0.042 per 1M tokens, and output tokens are free. We cover the API, the vendor benchmarks and their caveats, what developers are already building, "
+    },
+    {
+      "id": "aHR0cHM6Ly9lcmljaGdydW5ld2FsZC5z",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-19T16:35:24.000Z",
+      "summary": "272 points · 136 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-19T15:25:03.000Z",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was "
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-19T14:00:00.000Z",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of "
+    },
+    {
+      "id": "aHR0cHM6Ly9tZWRpdW0uY29tL0BNaXJB",
+      "title": "The Science of Machine Learning vs. the Push for AI Deployment",
+      "url": "https://medium.com/@MirArshadTalpur/the-science-of-machine-learning-vs-the-push-for-ai-deployment-854c659e4a6a",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-19T13:24:35.000Z",
+      "summary": "1 points · 1 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "The AI regulation smackdown isn’t over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "url": "https://www.qbitai.com/2026/09/492755.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-19T11:53:12.000Z",
+      "summary": "AI有可能终结我们所有人"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "url": "https://www.qbitai.com/2026/09/492661.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-19T11:48:06.000Z",
+      "summary": "老马想买倒闭公司数据为哪般"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "url": "https://www.qbitai.com/2026/09/492573.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-19T11:43:12.000Z",
+      "summary": "设计、前端一口气全干了，结果后端没来上班"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "url": "https://www.qbitai.com/2026/09/492550.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-19T11:36:11.000Z",
+      "summary": "AI能否提出相对论？"
+    },
+    {
+      "id": "aHR0cHM6Ly9qb2huLmhhcnRudXAudWsv",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-19T09:20:58.000Z",
+      "summary": "1490 points · 805 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+      "url": "https://www.qbitai.com/2026/09/492501.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-19T08:34:35.000Z",
+      "summary": "1000万，把才华送上真正的大舞台"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+      "url": "https://www.qbitai.com/2026/09/492476.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-19T08:28:51.000Z",
+      "summary": "CANN跨过拐点，华为补上软件生态"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
+      "url": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-09-19T07:48:38.000Z",
+      "summary": "Linkup Research has released SPARSEUP, an open-source sparse embedding model built on a 149M-parameter ModernBERT backbone. It scores 56.4 nDCG@10 on BEIR-13, which Linkup calls the best result it knows of for a public sparse encoder under 150M parameters. The model uses a logit "
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
+      "url": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-09-19T07:22:16.000Z",
+      "summary": "Meta has released Muse for Mac, the first version of Muse that can complete things on a user’s computer. The agent works with local files and native apps, where your data already lives. It adds a desktop layer to an agent that launched on phones, the web and WhatsApp earlier this"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "url": "https://www.qbitai.com/2026/09/492467.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-19T06:44:02.000Z",
+      "summary": "让开放模型与可负担的算力成为数学研究的共享基石"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+      "url": "https://www.qbitai.com/2026/09/492429.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-19T06:39:32.000Z",
+      "summary": "同一预测核心，跨七类系统验证"
+    },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
@@ -17,6 +177,14 @@
       "source": "MarkTechPost",
       "publishedAt": "2026-09-19T03:42:24.000Z",
       "summary": "SpaceXAI has released Grok Voice Transcribe 2.0, its newest speech-to-text model for batch and streaming audio. The company says it is twice as accurate as version 1.0 at the same price. Short-phrase word error rate across 19 languages fell from 20.6% to 6.8%. Pricing stays at $0"
+    },
+    {
+      "id": "aHR0cHM6Ly9zcGVjdHJ1bS5pZWVlLm9y",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-18T23:04:17.000Z",
+      "summary": "199 points · 135 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -56,7 +224,7 @@
       "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "source": "Hacker News",
       "publishedAt": "2026-09-18T17:28:01.000Z",
-      "summary": "433 points · 319 comments"
+      "summary": "500 points · 384 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -83,14 +251,6 @@
       "summary": "协同布局AI基础设施"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-      "url": "https://www.qbitai.com/2026/09/492421.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-18T15:50:20.000Z",
-      "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
       "title": "Security researchers used Claude to help them hack into OpenAI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
@@ -107,28 +267,12 @@
       "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-      "url": "https://www.qbitai.com/2026/09/492238.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-18T13:16:33.000Z",
-      "summary": "从一次成功到一万次稳定执行，具身智能还缺什么？"
-    },
-    {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
       "title": "Co-creating the future of fashion with Google",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "source": "Google AI Blog",
       "publishedAt": "2026-09-18T13:00:00.000Z",
       "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-      "url": "https://www.qbitai.com/2026/09/492175.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-18T12:22:47.000Z",
-      "summary": "LimiX让模型理解数据背后的因果机制"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -168,7 +312,7 @@
       "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
       "source": "Hacker News",
       "publishedAt": "2026-09-18T09:45:07.000Z",
-      "summary": "876 points · 772 comments"
+      "summary": "922 points · 816 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -179,14 +323,6 @@
       "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent Harnesses for Local LLMs in 2026 appeared first on MarkTechPost."
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-      "url": "https://www.qbitai.com/2026/09/492015.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-18T09:19:37.000Z",
-      "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
       "url": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
@@ -195,44 +331,12 @@
       "summary": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
-      "url": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-09-18T07:34:06.000Z",
-      "summary": "Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap from \"vibe coding\" to enterprise reliability by combining synthetic stress-testing, real-time optimization, dynamic agentic UIs, and"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "url": "https://www.qbitai.com/2026/09/491875.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-18T06:11:06.000Z",
-      "summary": "用通用AI去啃最硬的骨头，这条路走得通"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cuaGFja3Ryb24uYWkv",
       "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
       "url": "https://www.hacktron.ai/blog/hacking-openai",
       "source": "Hacker News",
       "publishedAt": "2026-09-18T02:47:24.000Z",
-      "summary": "475 points · 200 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Manus重生第17天，估值居然就翻倍了",
-      "url": "https://www.qbitai.com/2026/09/491764.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-18T00:37:13.000Z",
-      "summary": "作价40亿美元推进新融资"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "url": "https://www.qbitai.com/2026/09/491711.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-18T00:34:34.000Z",
-      "summary": "Git白学了？？？"
+      "summary": "484 points · 206 comments"
     },
     {
       "id": "aHR0cHM6Ly9zb2NrcHVwcGV0Lm9yZy9i",
@@ -240,23 +344,7 @@
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "source": "Hacker News",
       "publishedAt": "2026-09-17T21:48:38.000Z",
-      "summary": "450 points · 306 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
-      "url": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-09-17T21:21:08.000Z",
-      "summary": "Microsoft's AKS engineering team open-sourced TauGrid on August 28, 2026, packaging the tau CLI, Kueue queueing, KubeRay orchestration, GPU node health monitoring and observability into one Helm install. It is MIT licensed and deployable now on any Kubernetes 1.30+ cluster with G"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
-      "url": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-09-17T20:45:04.000Z",
-      "summary": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation where Claude acts as coordinator. You describe work, and Claude decides what becomes a thread. Each thread is a full Claude Code clou"
+      "summary": "652 points · 383 comments"
     },
     {
       "id": "aHR0cHM6Ly9iZW5kLWxhbmcuY29tLw",
@@ -264,7 +352,7 @@
       "url": "https://bend-lang.com/",
       "source": "Hacker News",
       "publishedAt": "2026-09-17T20:36:13.000Z",
-      "summary": "594 points · 304 comments"
+      "summary": "603 points · 308 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
@@ -275,44 +363,12 @@
       "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "The AI Superintelligence Slowdown",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-17T19:28:24.000Z",
-      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are pub"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-17T18:58:05.000Z",
-      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different"
-    },
-    {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
       "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
       "url": "https://arxiv.org/abs/2609.18842",
       "source": "Hacker News",
       "publishedAt": "2026-09-17T16:55:14.000Z",
-      "summary": "155 points · 41 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-17T14:00:00.000Z",
-      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and re"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "AI is feared globally as the destroyer of jobs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-17T14:00:00.000Z",
-      "summary": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income i"
+      "summary": "156 points · 41 comments"
     },
     {
       "id": "aHR0cHM6Ly9tYXJ0aW5mb3dsZXIuY29t",
@@ -320,15 +376,15 @@
       "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
       "source": "Hacker News",
       "publishedAt": "2026-09-17T13:57:07.000Z",
-      "summary": "232 points · 264 comments"
+      "summary": "237 points · 268 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-      "url": "https://www.qbitai.com/2026/09/491649.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-17T12:03:24.000Z",
-      "summary": "构建个体专属AI助理"
+      "id": "aHR0cHM6Ly9teXNldHVwLmFpLw",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-17T13:01:44.000Z",
+      "summary": "241 points · 138 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -339,28 +395,12 @@
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Claude Code团队讲究啊，这都往外说",
-      "url": "https://www.qbitai.com/2026/09/491596.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-17T11:56:13.000Z",
-      "summary": "工程师的核心永远是Problem Solving。"
-    },
-    {
       "id": "aHR0cHM6Ly9za3l3cml0ZXIuYmx1ZS9A",
       "title": "AI safety is mostly a sex cult",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "source": "Hacker News",
       "publishedAt": "2026-09-17T08:36:37.000Z",
-      "summary": "312 points · 263 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-      "url": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-09-17T07:35:37.000Z",
-      "summary": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. The post OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training appeared first on MarkTechPost."
+      "summary": "325 points · 278 comments"
     },
     {
       "id": "aHR0cHM6Ly9hbGlnbm1lbnQub3BlbmFp",
@@ -368,7 +408,7 @@
       "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
       "source": "Hacker News",
       "publishedAt": "2026-09-17T05:13:41.000Z",
-      "summary": "119 points · 34 comments"
+      "summary": "122 points · 36 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubnl0aW1lcy5jb20v",
@@ -376,7 +416,7 @@
       "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
       "source": "Hacker News",
       "publishedAt": "2026-09-17T01:02:13.000Z",
-      "summary": "102 points · 96 comments"
+      "summary": "103 points · 96 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -392,7 +432,7 @@
       "url": "https://arxiv.org/abs/2609.16338",
       "source": "Hacker News",
       "publishedAt": "2026-09-16T20:59:24.000Z",
-      "summary": "242 points · 40 comments"
+      "summary": "242 points · 41 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -416,7 +456,7 @@
       "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
       "source": "Hacker News",
       "publishedAt": "2026-09-16T14:30:36.000Z",
-      "summary": "328 points · 224 comments"
+      "summary": "328 points · 225 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -472,15 +512,7 @@
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "source": "Hacker News",
       "publishedAt": "2026-09-16T08:08:57.000Z",
-      "summary": "583 points · 204 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9tbm91a2hvdi5naXRodWIu",
-      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-      "url": "https://mnoukhov.github.io/posts/ngu/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-15T19:07:38.000Z",
-      "summary": "117 points · 9 comments"
+      "summary": "584 points · 205 comments"
     },
     {
       "id": "aHR0cHM6Ly90aGVuZXh0d2ViLmNvbS9u",
@@ -504,7 +536,15 @@
       "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
       "source": "Hacker News",
       "publishedAt": "2026-09-15T17:37:12.000Z",
-      "summary": "487 points · 644 comments"
+      "summary": "490 points · 647 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuNDA0bWVkaWEuY28v",
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-15T16:38:45.000Z",
+      "summary": "230 points · 170 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -592,7 +632,7 @@
       "url": "https://www.effort.news/irregular",
       "source": "Hacker News",
       "publishedAt": "2026-09-14T21:15:01.000Z",
-      "summary": "684 points · 254 comments"
+      "summary": "689 points · 254 comments"
     },
     {
       "id": "aHR0cHM6Ly90aGVwYWxpbmRyb21lLm9y",
@@ -688,7 +728,7 @@
       "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "source": "Hacker News",
       "publishedAt": "2026-09-13T16:52:33.000Z",
-      "summary": "331 points · 261 comments"
+      "summary": "331 points · 262 comments"
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8y",
@@ -697,54 +737,6 @@
       "source": "Hacker News",
       "publishedAt": "2026-09-13T15:44:38.000Z",
       "summary": "416 points · 239 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly95b3NodWFiZW5naW8ub3Jn",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-13T01:22:31.000Z",
-      "summary": "657 points · 694 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9tYWNoaW5lbGVhcm5pbmcu",
-      "title": "Apple wants to train AI on your private personal data",
-      "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-13T01:06:29.000Z",
-      "summary": "30 points · 19 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly94ZWlhc28ubmV0L25vdGVz",
-      "title": "Everyone should slow down AI development except for me",
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-13T00:30:44.000Z",
-      "summary": "811 points · 455 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8y",
-      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-12T20:28:29.000Z",
-      "summary": "104 points · 67 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93aXRoc3BlY2lmaWMuY29t",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-12T20:25:48.000Z",
-      "summary": "275 points · 157 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuZWNvbm9taXN0LmNv",
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "Hacker News",
-      "publishedAt": "2026-09-12T15:08:27.000Z",
-      "summary": "582 points · 401 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -960,6 +952,14 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "source": "Hugging Face",
       "publishedAt": "2026-08-25T11:39:24.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
       "summary": ""
     }
   ]
