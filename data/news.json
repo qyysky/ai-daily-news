@@ -1,86 +1,102 @@
 {
-  "updatedAt": "2026-10-12T07:02:40.615Z",
-  "count": 120,
+  "updatedAt": "2026-10-13T07:27:02.432Z",
+  "count": 118,
   "items": [
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-      "url": "https://arxiv.org/abs/2610.12493",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more human-understandable. However, evidence accumulated over th"
+      "id": "aHR0cHM6Ly93d3cuYXJnbWluLm5ldC9w",
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-13T02:46:43.000Z",
+      "summary": "101 points · 68 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-      "url": "https://arxiv.org/abs/2610.12536",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new proposals, edits of existing solutions, and remixes of several so"
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL3ByYWJh",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-12T22:05:43.000Z",
+      "summary": "108 points · 34 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-      "url": "https://arxiv.org/abs/2610.12542",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giving a much simpler method the same search effort. We run tha"
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
+      "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-10-12T21:41:50.000Z",
+      "summary": "Alibaba’s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning system from Alibaba that trains coding agents through unmodified, black-box harnesses. It targets roll"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-      "url": "https://arxiv.org/abs/2610.12593",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only executable and verifiable trajectories, but also interactions tha"
+      "id": "aHR0cHM6Ly95eWhoLm9yZy9ibG9nLzIw",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-12T21:40:18.000Z",
+      "summary": "366 points · 285 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-      "url": "https://arxiv.org/abs/2610.12596",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and performance on long tasks is hard to dissect into stored knowle"
+      "id": "aHR0cHM6Ly9taWNhaGZsZWUuY29tL2p1",
+      "title": "Just say no to OpenAI and Anthropic",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-12T18:17:29.000Z",
+      "summary": "158 points · 150 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
-      "url": "https://arxiv.org/abs/2610.12598",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12598v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) provides reliable supervision for software engineering agents through executable tests, but binary rewards fail to distinguish trajectories with substantially different debugging"
+      "id": "aHR0cHM6Ly9hcnN0ZWNobmljYS5jb20v",
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-12T17:14:01.000Z",
+      "summary": "331 points · 277 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
-      "url": "https://arxiv.org/abs/2610.12655",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12655v1 Announce Type: new Abstract: LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and constraints that users may leave unstated. We study this problem as interactive intent alignment through"
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source": "The Verge AI",
+      "publishedAt": "2026-10-12T17:00:00.000Z",
+      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Won"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
-      "url": "https://arxiv.org/abs/2610.12659",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12659v1 Announce Type: new Abstract: Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. However, corpus size alone does not determine whether the dataset provides a useful learning signal for a target policy. To guide the"
+      "id": "aHR0cHM6Ly9tb3J0b3JheS5jb20vd2h5",
+      "title": "Why aren't AI companies being charged for hacking?",
+      "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-12T14:52:37.000Z",
+      "summary": "320 points · 338 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2610.12762",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12762v1 Announce Type: new Abstract: Hardware datasheets contain engineering specifications essential for component selection, system integration, and hardware compatibility verification. However, manual inspection is tedious and error-prone because datasheets are leng"
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source": "The Verge AI",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "summary": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloa"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
-      "url": "https://arxiv.org/abs/2610.12781",
-      "source": "arXiv AI",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "summary": "arXiv:2610.12781v1 Announce Type: new Abstract: Aligning two independently pretrained unimodal encoders typically demands millions of paired examples. In this paper, we study the regime where only $N \\sim 100$--$500$ pairs are available, while unpaired data on either side is abun"
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL3FnaXMv",
+      "title": "QGIS enacts moratorium on AI contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-12T11:22:24.000Z",
+      "summary": "372 points · 402 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing",
+      "url": "https://www.marktechpost.com/2026/10/12/top-12-ai-live-translation-tools-2026/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-10-12T08:20:49.000Z",
+      "summary": "We checked 12 AI live translation tools, including Palabra.ai, Google Live Translate, DeepL Voice, Teams Interpreter and Wordly, against official pages for languages, latency, platforms and pricing. The post Top 12 AI Live Translation Tools in 2026: Latency, Languages, Pricing ap"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "url": "https://www.qbitai.com/2026/10/502654.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-12T05:48:36.000Z",
+      "summary": "游戏打到21:0，AI甚至不用再调用大模型了"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -91,12 +107,12 @@
       "summary": "TII has released Falcon-ASR, a 1.6B speech recognition model for Arabic with an Emirati focus. It reports 20.92% average WER on 6 Arabic test sets, but weights and an API are not yet available. The post TII Releases Falcon-ASR: 1.6B Arabic Speech Model Hits 20.92% WER appeared fi"
     },
     {
-      "id": "aHR0cHM6Ly9rZW1lbmRvLmNvbS95ZXMt",
-      "title": "Yes I Understand How LLMs Work",
-      "url": "https://kemendo.com/yes-i-understand-how-llms-work.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-12T00:16:28.000Z",
-      "summary": "12 points · 6 comments"
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "智谱新模型，490 tokens/s！",
+      "url": "https://www.qbitai.com/2026/10/502649.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-12T02:37:04.000Z",
+      "summary": "GLM「速度仙人」来了？"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -120,7 +136,7 @@
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "source": "Hacker News",
       "publishedAt": "2026-10-11T20:20:52.000Z",
-      "summary": "406 points · 569 comments"
+      "summary": "692 points · 1011 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -137,6 +153,30 @@
       "source": "The Verge AI",
       "publishedAt": "2026-10-11T11:00:00.000Z",
       "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possibl"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "url": "https://www.qbitai.com/2026/10/502644.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-11T09:04:31.000Z",
+      "summary": "一套生成论文初稿的多智能体工作流"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "何恺明团队发布多模态Harness框架",
+      "url": "https://www.qbitai.com/2026/10/502628.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-11T08:59:06.000Z",
+      "summary": "多模态模型的视觉原生Harness，来了！"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "陶哲轩：数学2.0时代已至！",
+      "url": "https://www.qbitai.com/2026/10/502594.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-11T07:52:16.000Z",
+      "summary": ""
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -177,14 +217,6 @@
       "source": "量子位",
       "publishedAt": "2026-10-11T03:27:08.000Z",
       "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？"
-    },
-    {
-      "id": "aHR0cHM6Ly9tb21vNTUwMi5jb20vcG9z",
-      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-11T02:02:38.000Z",
-      "summary": "191 points · 137 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -240,7 +272,7 @@
       "url": "https://github.com/rociiu/talorys",
       "source": "Hacker News",
       "publishedAt": "2026-10-10T10:52:09.000Z",
-      "summary": "323 points · 150 comments"
+      "summary": "327 points · 155 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -249,38 +281,6 @@
       "source": "量子位",
       "publishedAt": "2026-10-10T10:30:36.000Z",
       "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-      "url": "https://www.qbitai.com/2026/10/502496.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-10T09:07:43.000Z",
-      "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
-      "url": "https://www.qbitai.com/2026/10/502492.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-10T08:54:08.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
-      "url": "https://www.qbitai.com/2026/10/502484.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-10T08:52:16.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "特斯拉FSD，在欧洲被打回原形",
-      "url": "https://www.qbitai.com/2026/10/502467.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-10T06:59:02.000Z",
-      "summary": "马斯克反而发文道谢？"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -299,14 +299,6 @@
       "summary": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Index 0.3.1 and reads up to 128K tokens. The post Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text app"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubmJjcGhpbGFkZWxw",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-09T22:00:35.000Z",
-      "summary": "212 points · 156 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubmV3c2NpZW50aXN0",
       "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
       "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
@@ -321,22 +313,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-10-09T21:15:38.000Z",
       "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
-      "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-10-09T20:33:17.000Z",
-      "summary": "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model’s 40-step default. For developers, that means 5x fewer denoising steps on the sam"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
-      "url": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-10-09T20:05:07.000Z",
-      "summary": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges. The post OpenAI Decisions API Hits Public Beta With 10x Faster Typed A"
     },
     {
       "id": "aHR0cHM6Ly9jb2RlYmVyZy5vcmcvZXRo",
@@ -363,28 +339,12 @@
       "summary": "1 points · 0 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "source": "The Verge AI",
-      "publishedAt": "2026-10-09T18:06:57.000Z",
-      "summary": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place"
-    },
-    {
-      "id": "aHR0cHM6Ly90ZXJyeXRhby53b3JkcHJl",
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-09T17:42:12.000Z",
-      "summary": "205 points · 58 comments"
-    },
-    {
       "id": "aHR0cHM6Ly90eXBlc2FmZS5haS9ibG9n",
       "title": "Typesafe AI raises $870M at $7.5B",
       "url": "https://typesafe.ai/blog/series-ai",
       "source": "Hacker News",
       "publishedAt": "2026-10-09T17:02:31.000Z",
-      "summary": "443 points · 354 comments"
+      "summary": "444 points · 356 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -400,15 +360,7 @@
       "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
       "source": "Hacker News",
       "publishedAt": "2026-10-09T15:18:59.000Z",
-      "summary": "95 points · 85 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "source": "The Verge AI",
-      "publishedAt": "2026-10-09T14:25:43.000Z",
-      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press"
+      "summary": "95 points · 86 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL2ZyYW56",
@@ -416,7 +368,7 @@
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "source": "Hacker News",
       "publishedAt": "2026-10-09T11:03:48.000Z",
-      "summary": "415 points · 196 comments"
+      "summary": "417 points · 196 comments"
     },
     {
       "id": "aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8y",
@@ -424,15 +376,7 @@
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "source": "Hacker News",
       "publishedAt": "2026-10-09T10:00:26.000Z",
-      "summary": "365 points · 228 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "TRAE终于把Code和Work合并了",
-      "url": "https://www.qbitai.com/2026/10/502426.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-09T09:19:57.000Z",
-      "summary": "大写的方便"
+      "summary": "366 points · 229 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -459,6 +403,14 @@
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
+      "title": "Ask HN: Are you a subscribed LLM or a locally deployed open-source model?",
+      "url": "https://news.ycombinator.com/item?id=50016644",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-09T06:15:09.000Z",
+      "summary": "12 points · 19 comments"
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
@@ -472,7 +424,7 @@
       "url": "https://karagila.org/2026/openai-pp/",
       "source": "Hacker News",
       "publishedAt": "2026-10-08T23:29:43.000Z",
-      "summary": "210 points · 313 comments"
+      "summary": "211 points · 314 comments"
     },
     {
       "id": "aHR0cHM6Ly9jbG91ZC5nb29nbGUuY29t",
@@ -512,7 +464,7 @@
       "url": "https://github.com/SamsungLabs/LittleBit",
       "source": "Hacker News",
       "publishedAt": "2026-10-08T13:29:46.000Z",
-      "summary": "88 points · 26 comments"
+      "summary": "90 points · 26 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -537,14 +489,6 @@
       "source": "Hacker News",
       "publishedAt": "2026-10-08T10:39:46.000Z",
       "summary": "5 points · 2 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYWhtYXRoLm9yZy9z",
-      "title": "AHM Statement on OpenAI's October 6 Release of Mathematical Documents",
-      "url": "https://www.ahmath.org/statements",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-08T09:29:48.000Z",
-      "summary": "47 points · 47 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -576,7 +520,7 @@
       "url": "https://twitter.com/danintheory/status/2108065033070789090",
       "source": "Hacker News",
       "publishedAt": "2026-10-08T07:05:40.000Z",
-      "summary": "379 points · 609 comments"
+      "summary": "380 points · 611 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL3Bpbmdk",
@@ -584,7 +528,7 @@
       "url": "https://github.com/pingdotgg/ts-rust",
       "source": "Hacker News",
       "publishedAt": "2026-10-08T00:46:00.000Z",
-      "summary": "117 points · 222 comments"
+      "summary": "118 points · 222 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -608,7 +552,7 @@
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "source": "Hacker News",
       "publishedAt": "2026-10-07T18:49:40.000Z",
-      "summary": "376 points · 386 comments"
+      "summary": "377 points · 388 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cueGRhLWRldmVsb3Bl",
@@ -648,7 +592,7 @@
       "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
       "source": "Hacker News",
       "publishedAt": "2026-10-07T12:04:36.000Z",
-      "summary": "96 points · 58 comments"
+      "summary": "97 points · 58 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
@@ -691,14 +635,6 @@
       "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
     },
     {
-      "id": "aHR0cHM6Ly9wZW5ndWluLW1haWwuY29t",
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-06T21:59:43.000Z",
-      "summary": "242 points · 187 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cueW91dHViZS5jb20v",
       "title": "Machine Learning and the Destabilization of Buddhist Psychology (2020) [video]",
       "url": "https://www.youtube.com/watch?v=8veY3A3DgIQ",
@@ -712,7 +648,7 @@
       "url": "https://github.com/FeSens/openTPU",
       "source": "Hacker News",
       "publishedAt": "2026-10-06T16:23:25.000Z",
-      "summary": "347 points · 405 comments"
+      "summary": "348 points · 405 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -755,22 +691,6 @@
       "summary": "82 points · 94 comments"
     },
     {
-      "id": "aHR0cHM6Ly92YXVnaGFuaGlsdHMubWUv",
-      "title": "LLMs may have helped my RSI",
-      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-06T03:01:04.000Z",
-      "summary": "102 points · 59 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9kaWZmLndpa2ltZWRpYS5v",
-      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-05T17:53:35.000Z",
-      "summary": "306 points · 201 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "Connecting AI agents to enterprise knowledge",
       "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
@@ -787,28 +707,12 @@
       "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
     },
     {
-      "id": "aHR0cHM6Ly90ZWNoLmluc3RhY2FydC5j",
-      "title": "Agentic Machine Learning Modeling at Instacart",
-      "url": "https://tech.instacart.com/agentic-machine-learning-modeling-at-instacart-fb3ecd295ee7",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-05T14:13:27.000Z",
-      "summary": "1 points · 0 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "Bringing predictive analytics to the agentic AI era",
       "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
       "source": "MIT Tech Review",
       "publishedAt": "2026-10-05T13:29:32.000Z",
       "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The fronti"
-    },
-    {
-      "id": "aHR0cHM6Ly9tYWNoaW5lbGVhcm5pbmdt",
-      "title": "How (and Why) to Build an AI Agent from Scratch in Python",
-      "url": "https://machinelearningmastery.com/how-and-why-to-build-an-ai-agent-from-scratch-in-python/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-05T12:30:48.000Z",
-      "summary": "2 points · 0 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -961,6 +865,86 @@
       "source": "Google AI Blog",
       "publishedAt": "2026-09-18T14:00:00.000Z",
       "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-18T13:00:00.000Z",
+      "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-14T19:00:00.000Z",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season."
     }
   ]
 }
