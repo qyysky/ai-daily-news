@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-10-18T05:30:27.062Z",
+  "updatedAt": "2026-10-19T05:51:04.759Z",
   "count": 120,
   "items": [
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
+      "url": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-10-19T03:19:18.000Z",
+      "summary": "NVIDIA has released the full Run:ai GPU orchestration platform as open source under Apache 2.0. The release includes KAI Scheduler, CUDA 13.4 GPU fractioning, quota management, and a local Kind dev environment. The post NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes G"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
+      "url": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-10-19T01:18:17.000Z",
+      "summary": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU. The post Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google"
+    },
+    {
+      "id": "aHR0cHM6Ly9qcmRzZ2wuY29tL2lmLXlv",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-18T21:09:12.000Z",
+      "summary": "97 points · 72 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-18T20:48:14.000Z",
+      "summary": "306 points · 162 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge AI",
+      "publishedAt": "2026-10-18T18:28:10.000Z",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whe"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-10-18T18:20:28.000Z",
+      "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add "
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "url": "https://www.qbitai.com/2026/10/504136.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-18T11:49:49.000Z",
+      "summary": "让人人都能自由创造并体验可交互世界"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+      "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-10-18T08:15:04.000Z",
+      "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates. The post Google Open-Sources Harness2, a Recursive Agent Harnessing Framework appea"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+      "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-10-18T05:56:05.000Z",
+      "summary": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and Ku"
+    },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
@@ -9,6 +81,14 @@
       "source": "MarkTechPost",
       "publishedAt": "2026-10-18T04:06:33.000Z",
       "summary": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier. The post Meet Voxel51 3.0: A Unified Multimodal Data Platf"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLnBpY2hldGEubWUv",
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "source": "Hacker News",
+      "publishedAt": "2026-10-17T22:26:47.000Z",
+      "summary": "129 points · 101 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -24,7 +104,7 @@
       "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
       "source": "Hacker News",
       "publishedAt": "2026-10-17T19:22:52.000Z",
-      "summary": "28 points · 9 comments"
+      "summary": "53 points · 19 comments"
     },
     {
       "id": "aHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDI2",
@@ -32,7 +112,7 @@
       "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
       "source": "Hacker News",
       "publishedAt": "2026-10-17T16:31:12.000Z",
-      "summary": "123 points · 148 comments"
+      "summary": "130 points · 158 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -120,7 +200,7 @@
       "url": "https://raymyers.org/post/math-dumped-openai/",
       "source": "Hacker News",
       "publishedAt": "2026-10-17T06:19:44.000Z",
-      "summary": "29 points · 11 comments"
+      "summary": "88 points · 14 comments"
     },
     {
       "id": "aHR0cHM6Ly9sbG1zcGVlZC5kZXYv",
@@ -128,15 +208,7 @@
       "url": "https://llmspeed.dev/",
       "source": "Hacker News",
       "publishedAt": "2026-10-17T04:36:53.000Z",
-      "summary": "269 points · 78 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
-      "url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-10-17T00:09:12.000Z",
-      "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbound traffic are controlled from outside that VM. The code ships under Apache 2.0 "
+      "summary": "323 points · 86 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -168,7 +240,7 @@
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "source": "Hacker News",
       "publishedAt": "2026-10-16T17:08:38.000Z",
-      "summary": "600 points · 550 comments"
+      "summary": "619 points · 570 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -184,7 +256,7 @@
       "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
       "source": "Hacker News",
       "publishedAt": "2026-10-16T14:16:34.000Z",
-      "summary": "56 points · 26 comments"
+      "summary": "58 points · 26 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -193,6 +265,14 @@
       "source": "The Verge AI",
       "publishedAt": "2026-10-16T14:02:40.000Z",
       "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outs"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售",
+      "url": "https://www.qbitai.com/2026/10/504116.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-16T13:48:10.000Z",
+      "summary": "买AIPC就选联想YOGA。"
     },
     {
       "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
@@ -219,44 +299,12 @@
       "summary": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
-      "url": "https://www.qbitai.com/2026/10/503843.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-16T08:00:31.000Z",
-      "summary": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
-      "url": "https://www.qbitai.com/2026/10/503829.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-16T07:16:11.000Z",
-      "summary": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
-      "url": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-10-16T06:26:41.000Z",
-      "summary": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial Analysis Decision Index and costs $0.042 per million input tokens. The post Liquid AI Releases d1-ultra: A Multimodal Decision Mode"
-    },
-    {
       "id": "aHR0cHM6Ly9tYWNoaW5lbGVhcm5pbmcu",
       "title": "Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio",
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
       "source": "Hacker News",
       "publishedAt": "2026-10-16T03:34:45.000Z",
       "summary": "8 points · 1 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context",
-      "url": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-10-16T02:26:04.000Z",
-      "summary": "Meta released Muse Spark Open, an 816B-parameter open-weight MoE model with 42B active parameters and a 1M-token context. It leads open models on MCP-Atlas and runs on 2 M5 Ultra Mac Studios. The post Meta Releases Muse Spark Open: 816B Open-Weight MoE With 1M Context appeared fi"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -339,36 +387,12 @@
       "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
-      "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-10-15T19:53:50.000Z",
-      "summary": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models. The post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model a"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "source": "OpenAI",
       "publishedAt": "2026-10-15T19:00:00.000Z",
       "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "source": "The Verge AI",
-      "publishedAt": "2026-10-15T18:15:36.000Z",
-      "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
-      "url": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-10-15T14:19:27.000Z",
-      "summary": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the w"
     },
     {
       "id": "aHR0cHM6Ly9tYWNoaW5lbGVhcm5pbmdt",
@@ -424,7 +448,7 @@
       "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
       "source": "Hacker News",
       "publishedAt": "2026-10-14T18:32:52.000Z",
-      "summary": "384 points · 277 comments"
+      "summary": "385 points · 277 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cuY3Nvb25saW5lLmNv",
@@ -483,14 +507,6 @@
       "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
     },
     {
-      "id": "aHR0cHM6Ly9ib29rLmh1bWFuZXhwZXJp",
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "url": "https://book.humanexperiences.io/",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-14T10:29:56.000Z",
-      "summary": "33 points · 3 comments"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "url": "https://openai.com/index/third-moment-research",
@@ -515,14 +531,6 @@
       "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
     },
     {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL1JheWVu",
-      "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
-      "url": "https://github.com/RayenMlayeh/jevcrawl",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-13T23:35:20.000Z",
-      "summary": "21 points · 3 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9h",
       "title": "Use of machine learning to enhance transient astronomical phenomena",
       "url": "https://www.nature.com/articles/s41598-026-66148-2",
@@ -544,7 +552,7 @@
       "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
       "source": "Hacker News",
       "publishedAt": "2026-10-13T20:23:55.000Z",
-      "summary": "655 points · 543 comments"
+      "summary": "656 points · 544 comments"
     },
     {
       "id": "aHR0cHM6Ly90d2l0dGVyLmNvbS9PcGVu",
@@ -584,7 +592,7 @@
       "url": "https://news.ycombinator.com/item?id=50073471",
       "source": "Hacker News",
       "publishedAt": "2026-10-13T15:41:00.000Z",
-      "summary": "36 points · 20 comments"
+      "summary": "36 points · 21 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cuc2FtbXlzdHJhdXMu",
@@ -608,7 +616,7 @@
       "url": "https://pdftomp3.com/connect-ai/",
       "source": "Hacker News",
       "publishedAt": "2026-10-13T10:08:34.000Z",
-      "summary": "174 points · 90 comments"
+      "summary": "174 points · 91 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -664,7 +672,7 @@
       "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
       "source": "Hacker News",
       "publishedAt": "2026-10-12T21:40:18.000Z",
-      "summary": "802 points · 607 comments"
+      "summary": "805 points · 607 comments"
     },
     {
       "id": "aHR0cHM6Ly9taWNhaGZsZWUuY29tL2p1",
@@ -705,14 +713,6 @@
       "source": "Hacker News",
       "publishedAt": "2026-10-12T11:22:24.000Z",
       "summary": "392 points · 412 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly90d2l0dGVyLmNvbS9rYXJw",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "source": "Hacker News",
-      "publishedAt": "2026-10-11T20:20:52.000Z",
-      "summary": "727 points · 1072 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
