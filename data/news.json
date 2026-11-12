@@ -1,7 +1,15 @@
 {
-  "updatedAt": "2026-11-11T07:33:39.021Z",
-  "count": 120,
+  "updatedAt": "2026-11-12T08:01:24.634Z",
+  "count": 117,
   "items": [
+    {
+      "id": "aHR0cHM6Ly90aGVpbnRlcmNlcHQuY29t",
+      "title": "OpenAI Fooled by Russian Pranksters into Thinking They Were Talking to Ukrainian",
+      "url": "https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-12T00:35:40.000Z",
+      "summary": "6 points · 0 comments"
+    },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -9,6 +17,110 @@
       "source": "OpenAI",
       "publishedAt": "2026-11-12T00:00:00.000Z",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-11T22:44:36.000Z",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second al"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-11T21:54:21.000Z",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from ot"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuY2JzbmV3cy5jb20v",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T21:24:35.000Z",
+      "summary": "524 points · 515 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+      "url": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-11T21:21:42.000Z",
+      "summary": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. The post Google Launches Gemini Decisions API Wi"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects",
+      "url": "https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-11T20:51:56.000Z",
+      "summary": "Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. The post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specifi"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-11-11T18:00:00.000Z",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-11T16:00:00.000Z",
+      "summary": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friend"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-11-11T16:00:00.000Z",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
+      "url": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-11T15:51:14.000Z",
+      "summary": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "summary": "A graphic representing Google’s AlphaGenome Atlas. | Image: Google Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could h"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-11T14:00:00.000Z",
+      "summary": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are b"
+    },
+    {
+      "id": "aHR0cHM6Ly9waWV0cm9taW90dGkuY29t",
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T12:05:22.000Z",
+      "summary": "975 points · 355 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9jb21w",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-11-11T09:00:00.000Z",
+      "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -19,92 +131,52 @@
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     },
     {
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL05ldXJh",
+      "title": "Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM",
+      "url": "https://github.com/NeuraCryption/SPECTRA",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T07:39:12.000Z",
+      "summary": "24 points · 1 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+      "url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-11T07:38:57.000Z",
+      "summary": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. The post MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-11T06:41:26.000Z",
+      "summary": "价格、门槛全打穿"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+      "url": "https://www.qbitai.com/2026/11/509088.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-11T06:27:03.000Z",
+      "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "url": "https://www.qbitai.com/2026/11/509085.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-11T06:18:09.000Z",
+      "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。"
+    },
+    {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "source": "Hugging Face",
       "publishedAt": "2026-11-11T05:01:16.000Z",
       "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-      "url": "https://arxiv.org/abs/2611.12933",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although sustained operation on physical instruments remains largely"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-      "url": "https://arxiv.org/abs/2611.12934",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, remains unmeasured. Existing bench"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-      "url": "https://arxiv.org/abs/2611.12935",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far been trained to detect harmful content and are limited to t"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-      "url": "https://arxiv.org/abs/2611.12936",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and lack deep analytical and scene-understanding capabilities. "
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Tracing Psychometric Inference in Large Language Models",
-      "url": "https://arxiv.org/abs/2611.12937",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question using a cross-persona paradigm across 14 model variants from two"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
-      "url": "https://arxiv.org/abs/2611.12938",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12938v1 Announce Type: new Abstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP and CWQ questions and six VLMs within a fixed KGQA pipeline,"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "url": "https://arxiv.org/abs/2611.12940",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinforcement learning has caught researchers' attention on modell"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-      "url": "https://arxiv.org/abs/2611.12941",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12941v1 Announce Type: new Abstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathways"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-      "url": "https://arxiv.org/abs/2611.12942",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12942v1 Announce Type: new Abstract: Tabular foundation models (TFMs) predict from a labelled context in a single forward pass. A recent benchmark reported that they decisively outperform tree ensembles for customer churn, but it compared them with untuned gradient-boo"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-      "url": "https://arxiv.org/abs/2611.12950",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-11T05:00:00.000Z",
-      "summary": "arXiv:2611.12950v1 Announce Type: new Abstract: Black-box LLM fingerprinting aims to determine whether a target model was derived from a source model when only the output responses to input queries are observable. One way to reveal this relationship is to perturb each query and o"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -128,7 +200,7 @@
       "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb",
       "source": "Hacker News",
       "publishedAt": "2026-11-11T01:10:46.000Z",
-      "summary": "7 points · 3 comments"
+      "summary": "8 points · 3 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdyZWdicm9ja21h",
@@ -136,7 +208,7 @@
       "url": "https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner",
       "source": "Hacker News",
       "publishedAt": "2026-11-11T01:07:18.000Z",
-      "summary": "1 points · 0 comments"
+      "summary": "2 points · 0 comments"
     },
     {
       "id": "aHR0cHM6Ly90aXMtMTAwLndpbmNvbi5k",
@@ -144,7 +216,23 @@
       "url": "https://tis-100.wincon.dev/",
       "source": "Hacker News",
       "publishedAt": "2026-11-11T00:37:05.000Z",
-      "summary": "46 points · 7 comments"
+      "summary": "91 points · 22 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "summary": ""
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -160,7 +248,15 @@
       "url": "https://arxiv.org/abs/2611.10866",
       "source": "Hacker News",
       "publishedAt": "2026-11-10T22:44:49.000Z",
-      "summary": "19 points · 0 comments"
+      "summary": "30 points · 0 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly85dG81bWFjLmNvbS8yMDI2",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-10T21:25:03.000Z",
+      "summary": "529 points · 535 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -219,14 +315,6 @@
       "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms lik"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
       "url": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
@@ -243,30 +331,6 @@
       "summary": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window. The post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-10T14:06:54.000Z",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New Y"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Adobe is going all in on agentic AI",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include a"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "summary": "Photoshop’s Quick Compare feature lets you quickly review a before-and-after comparison of edits. | Image: Adobe Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some"
-    },
-    {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9jb21w",
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
@@ -281,14 +345,6 @@
       "source": "Hacker News",
       "publishedAt": "2026-11-10T13:51:51.000Z",
       "summary": "34 points · 31 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Hands-on with Ring’s new AI drone camera for your home",
-      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-10T13:30:00.000Z",
-      "summary": "Ring’s new Drone Cam is a flying indoor security camera. Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
@@ -320,7 +376,7 @@
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "source": "Hacker News",
       "publishedAt": "2026-11-10T10:25:58.000Z",
-      "summary": "496 points · 481 comments"
+      "summary": "633 points · 612 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -387,22 +443,6 @@
       "summary": "加速东部城市型智算中心向E-AIDC演进"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Token卷到触觉了！机器人终于有了通用手感",
-      "url": "https://www.qbitai.com/2026/11/508919.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-10T07:26:53.000Z",
-      "summary": "蚂蚁灵波开源LingBot-Touch"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
-      "url": "https://www.qbitai.com/2026/11/508912.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-10T07:03:43.000Z",
-      "summary": "作曲、拍片、3D建模一条龙全包圆"
-    },
-    {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
@@ -417,14 +457,6 @@
       "source": "MarkTechPost",
       "publishedAt": "2026-11-10T06:36:10.000Z",
       "summary": "Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task. The post Meta Releases Muse Ember, a 1M-Context Model for High-Vol"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
-      "url": "https://www.qbitai.com/2026/11/508828.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-10T02:48:22.000Z",
-      "summary": "速度提了，API价格降了"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -483,14 +515,6 @@
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy."
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records",
-      "url": "https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-09T16:31:59.000Z",
-      "summary": "Baidu’s ERNIE Evolve is an automated research system that edits code, runs experiments and keeps only verified gains. It beat public bests on NanoChat and NanoGPT Speedrun and sped up ERNIE-5.5-Flash inference. The post Baidu’s ERNIE Evolve Automated Research System Beats NanoCha"
-    },
-    {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
       "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -528,7 +552,7 @@
       "url": "https://www.foldableflight.com",
       "source": "Hacker News",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "summary": "1215 points · 167 comments"
+      "summary": "1252 points · 167 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL3NhbWly",
@@ -536,15 +560,7 @@
       "url": "https://github.com/samir-sarwar/samir-vllm",
       "source": "Hacker News",
       "publishedAt": "2026-11-09T11:36:55.000Z",
-      "summary": "79 points · 12 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
-      "url": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-09T08:20:20.000Z",
-      "summary": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test. The post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appea"
+      "summary": "80 points · 12 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -563,20 +579,12 @@
       "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
-      "url": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-09T07:55:18.000Z",
-      "summary": "0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider. The post 0sec Labs Open-Sources 0, an AI Security Harness Wi"
-    },
-    {
       "id": "aHR0cHM6Ly9tYXR0ZW9yYXNvLmdpdGh1",
       "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "source": "Hacker News",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "summary": "567 points · 962 comments"
+      "summary": "572 points · 971 comments"
     },
     {
       "id": "aHR0cHM6Ly8yNDd3YWxsc3QuY29tL2lu",
@@ -592,15 +600,7 @@
       "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
       "source": "Hacker News",
       "publishedAt": "2026-11-08T12:14:10.000Z",
-      "summary": "119 points · 242 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
-      "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-08T10:46:18.000Z",
-      "summary": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost."
+      "summary": "119 points · 243 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL0RyLUxv",
@@ -611,20 +611,12 @@
       "summary": "6 points · 0 comments"
     },
     {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL01peWFt",
-      "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-08T02:37:10.000Z",
-      "summary": "14 points · 2 comments"
-    },
-    {
       "id": "aHR0cHM6Ly9odW5jaC5uZXQvP3A9MTM3",
       "title": "The end of Microsoft Research's AI Frontiers group",
       "url": "https://hunch.net/?p=13764006",
       "source": "Hacker News",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "summary": "510 points · 309 comments"
+      "summary": "512 points · 309 comments"
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
@@ -640,7 +632,7 @@
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "source": "Hacker News",
       "publishedAt": "2026-11-06T20:27:23.000Z",
-      "summary": "378 points · 360 comments"
+      "summary": "380 points · 360 comments"
     },
     {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
@@ -648,7 +640,7 @@
       "url": "https://arxiv.org/abs/2610.21375",
       "source": "Hacker News",
       "publishedAt": "2026-11-06T18:03:33.000Z",
-      "summary": "124 points · 13 comments"
+      "summary": "125 points · 13 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -704,7 +696,7 @@
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
       "source": "Hacker News",
       "publishedAt": "2026-11-06T04:00:28.000Z",
-      "summary": "411 points · 336 comments"
+      "summary": "412 points · 336 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -728,7 +720,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "source": "Hacker News",
       "publishedAt": "2026-11-05T23:09:57.000Z",
-      "summary": "523 points · 233 comments"
+      "summary": "523 points · 234 comments"
     },
     {
       "id": "aHR0cHM6Ly9jbG91ZC5nb29nbGUuY29t",
@@ -739,20 +731,20 @@
       "summary": "1 points · 0 comments"
     },
     {
+      "id": "aHR0cHM6Ly8xMC00MTEuY29tLw",
+      "title": "Compilers for Machine Learning at CMU by George Hotz",
+      "url": "https://10-411.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-05T17:38:14.000Z",
+      "summary": "2 points · 0 comments"
+    },
+    {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "source": "Google AI Blog",
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
-    },
-    {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL3NkYWxi",
@@ -779,14 +771,6 @@
       "summary": "3 points · 0 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNp",
-      "title": "Cat Wu joins OpenAI from Anthropic in product-lead coup",
-      "url": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-05T01:04:05.000Z",
-      "summary": "7 points · 0 comments"
-    },
-    {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
@@ -811,60 +795,12 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-04T15:21:21.000Z",
-      "summary": "265 points · 94 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-04T14:37:22.000Z",
-      "summary": "571 points · 709 comments"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "Securing the agentic enterprise with data lineage",
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "source": "MIT Tech Review",
       "publishedAt": "2026-11-04T13:00:00.000Z",
       "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal fo"
-    },
-    {
-      "id": "aHR0cHM6Ly9zcGVjdHJ1bS5pZWVlLm9y",
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-04T11:52:17.000Z",
-      "summary": "1309 points · 750 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4u",
-      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-04T10:23:34.000Z",
-      "summary": "322 points · 327 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-04T10:10:27.000Z",
-      "summary": "737 points · 201 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly8xMC00MTEuY29tLw",
-      "title": "Compilers for Machine Learning (Spring 2027)",
-      "url": "https://10-411.com/",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-04T07:41:40.000Z",
-      "summary": "4 points · 0 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -947,20 +883,60 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "summary": ""
-    },
-    {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
       "title": "Our newest AI Quest: Mapping the human brain",
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "source": "Google AI Blog",
       "publishedAt": "2026-10-26T16:00:00.000Z",
       "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9jb21w",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-10-21T04:00:00.000Z",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "summary": "Here are Google’s latest AI updates from September 2026"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-23T18:00:00.000Z",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
     }
   ]
 }
