@@ -1,86 +1,254 @@
 {
-  "updatedAt": "2026-11-13T07:39:56.553Z",
-  "count": 120,
+  "updatedAt": "2026-11-14T07:26:42.376Z",
+  "count": 116,
   "items": [
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "url": "https://arxiv.org/abs/2611.14544",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses the errors that matter most. A misread that yields an illegal "
+      "id": "aHR0cHM6Ly90d2l0dGVyLmNvbS93aWxs",
+      "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
+      "url": "https://twitter.com/willdepue/status/2120992457630326841",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-14T06:50:21.000Z",
+      "summary": "6 points · 1 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "url": "https://arxiv.org/abs/2611.14654",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about those mistakes while their effects stay in the world. Prior work"
+      "id": "aHR0cHM6Ly93d3cudGVjaHBvd2VydXAu",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-14T02:52:59.000Z",
+      "summary": "391 points · 196 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "url": "https://arxiv.org/abs/2611.14681",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization"
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-13T23:49:11.000Z",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less like"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-      "url": "https://arxiv.org/abs/2611.14736",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14736v1 Announce Type: new Abstract: Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these directions, but incorrect proposals can exclude the true causal"
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-13T20:45:10.000Z",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Ch"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "url": "https://arxiv.org/abs/2611.14765",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14765v1 Announce Type: new Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce"
+      "id": "aHR0cHM6Ly93d3cucmV1dGVycy5jb20v",
+      "title": "OpenAI launches ChatGPT Wallet, AI agents pay for purchase",
+      "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T18:17:27.000Z",
+      "summary": "8 points · 1 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Rational Use of Time for Social Coordination in Humans and AI",
-      "url": "https://arxiv.org/abs/2611.14766",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14766v1 Announce Type: new Abstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer others' mental states. But how do humans use temporal cues for d"
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-13T18:00:39.000Z",
+      "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-      "url": "https://arxiv.org/abs/2611.14769",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14769v1 Announce Type: new Abstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings aim to realistically assess model performance using pairwise "
+      "id": "aHR0cHM6Ly9mb3J0dW5lLmNvbS8yMDI2",
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T17:55:23.000Z",
+      "summary": "161 points · 66 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
-      "url": "https://arxiv.org/abs/2611.14781",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14781v1 Announce Type: new Abstract: Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundamental challenge that predictions are uncertain. Still, most approaches determinize these predictions into a"
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
+      "url": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-13T17:23:51.000Z",
+      "summary": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Anal"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
-      "url": "https://arxiv.org/abs/2611.14794",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14794v1 Announce Type: new Abstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answe"
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "Yang-Mills, OpenAI proof, and the mass gap problem",
+      "url": "https://huggingface.co/blog/dlouapre/yang-mills-openai",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T17:21:32.000Z",
+      "summary": "13 points · 0 comments"
     },
     {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
-      "url": "https://arxiv.org/abs/2611.14804",
-      "source": "arXiv AI",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "arXiv:2611.14804v1 Announce Type: new Abstract: Costly simulations and experiments limit the data available for engineering design. This paper proposes GenPFN, a training-free candidate generator guided by a pretrained tabular Prior-Data Fitted Network (TabPFN) classifier with fi"
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-13T17:02:35.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+      "url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-13T16:10:02.000Z",
+      "summary": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. The post Perplexity Releases Decider v1.3: Open-Weight Decisio"
+    },
+    {
+      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-13T14:47:16.000Z",
+      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, a"
+    },
+    {
+      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "publishedAt": "2026-11-13T14:05:22.000Z",
+      "summary": ""
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-13T14:00:00.000Z",
+      "summary": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agen"
+    },
+    {
+      "id": "aHR0cHM6Ly9tYWNoaW5lbGVhcm5pbmdt",
+      "title": "The Complete Guide to LLM Evaluation",
+      "url": "https://machinelearningmastery.com/the-complete-guide-to-llm-evaluation/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T12:02:40.000Z",
+      "summary": "1 points · 0 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approachi"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
+      "url": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-13T10:32:26.000Z",
+      "summary": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports over 90% lower KV transfer latency on 235B to 480B MoE models. The post Google Releases TPU Sync: Open-Source KV Cache Transfer for"
+    },
+    {
+      "id": "aHR0cHM6Ly9zdGF0dXMuY2xhdWRlLmNv",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T10:18:13.000Z",
+      "summary": "488 points · 384 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+      "url": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-13T09:45:48.000Z",
+      "summary": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artificial Analysis score and 57% on Terminal-Bench 4.1. The post Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash ap"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+      "url": "https://www.qbitai.com/2026/11/509995.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T09:02:39.000Z",
+      "summary": "一个时代结束了"
+    },
+    {
+      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2J1c2lu",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+      "url": "https://www.qbitai.com/2026/11/509827.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T07:51:08.000Z",
+      "summary": "12.9 北京，来MEET2027现场"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T07:43:03.000Z",
+      "summary": "250名国内顶尖三甲医院医生联合评测"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+      "url": "https://www.qbitai.com/2026/11/509730.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T07:17:54.000Z",
+      "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+      "url": "https://www.qbitai.com/2026/11/509716.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T07:12:42.000Z",
+      "summary": "比亚迪正在把规模优势转化为技术与品牌价值"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+      "url": "https://www.qbitai.com/2026/11/509710.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T07:09:05.000Z",
+      "summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+      "url": "https://www.qbitai.com/2026/11/509663.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T07:06:32.000Z",
+      "summary": "数据不出域、本地可部署"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+      "url": "https://www.qbitai.com/2026/11/509653.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T06:54:44.000Z",
+      "summary": "想要什么功能，让Agent自己开发"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "特斯拉和SpaceX最快下月合并",
+      "url": "https://www.qbitai.com/2026/11/509613.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T06:43:06.000Z",
+      "summary": "马斯克帝国终极形态。"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
+      "url": "https://www.qbitai.com/2026/11/509614.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-13T06:29:23.000Z",
+      "summary": "信息少传80%，准确率反而提高"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -91,12 +259,12 @@
       "summary": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread. The post Liquid AI Releases LiquidCodec, a 74M-Parameter St"
     },
     {
-      "id": "aHR0cHM6Ly91bmVtcGxveW1lbnRsYWJz",
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "id": "aHR0cHM6Ly9zY290dGpnLmNvbS9wb3N0",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "source": "Hacker News",
-      "publishedAt": "2026-11-12T21:56:11.000Z",
-      "summary": "274 points · 79 comments"
+      "publishedAt": "2026-11-12T22:03:09.000Z",
+      "summary": "734 points · 211 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -195,28 +363,12 @@
       "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity w"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "summary": "A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-12T16:30:00.000Z",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with "
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-12T15:48:12.000Z",
-      "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair o"
+      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
+      "title": "Inception's Diffusion LLM API Is Shutting Down",
+      "url": "https://news.ycombinator.com/item?id=50470335",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-12T16:51:58.000Z",
+      "summary": "14 points · 9 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL2h5cGVy",
@@ -224,23 +376,7 @@
       "url": "https://github.com/hyperionaidev/smolmaxxing/",
       "source": "Hacker News",
       "publishedAt": "2026-11-12T15:23:10.000Z",
-      "summary": "340 points · 123 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-12T15:01:31.000Z",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "I reviewed the Apple HomeView, ask me anything",
-      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-12T14:10:00.000Z",
-      "summary": "Getting up close and personal with the Apple HomeView. | Photo: Hunter McRae for The Verge Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 "
+      "summary": "471 points · 180 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2J1c2lu",
@@ -249,46 +385,6 @@
       "source": "OpenAI",
       "publishedAt": "2026-11-12T12:00:00.000Z",
       "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "url": "https://www.qbitai.com/2026/11/509440.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-12T11:36:20.000Z",
-      "summary": "「CAD拆解」"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-      "url": "https://www.qbitai.com/2026/11/509404.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-12T10:45:33.000Z",
-      "summary": "银河智学首席科学家邓澍军博士发表主题演讲"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "url": "https://www.qbitai.com/2026/11/509381.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-12T10:11:29.000Z",
-      "summary": "全世界都在踩刹车，达里奥一个人踩油门"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-      "url": "https://www.qbitai.com/2026/11/509355.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-12T10:08:24.000Z",
-      "summary": "Grok在让人破绷这件事上，从来不会让人失望。"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-      "url": "https://www.qbitai.com/2026/11/509349.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-12T09:34:06.000Z",
-      "summary": "企业 AI 的难题，不只是模型够不够强"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2J1c2lu",
@@ -305,38 +401,6 @@
       "source": "MarkTechPost",
       "publishedAt": "2026-11-12T08:42:21.000Z",
       "summary": "IBM announced Quantum Nighthawk r3, a 520-qubit processor designed for 10,000 quantum operations. 2 r3 chips will link into a 1,040-qubit system in 2027, while Nighthawk r2 already posts up to 19x speedups over Heron. The post IBM Announces IBM Quantum Nighthawk r3: A New Process"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "马斯克已准备好聘请黄仁勋",
-      "url": "https://www.qbitai.com/2026/11/509334.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-12T08:16:11.000Z",
-      "summary": "老黄出轨认错、再曝婚外恋"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
-      "url": "https://www.qbitai.com/2026/11/509291.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-12T07:55:11.000Z",
-      "summary": "只管挖不管埋。"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "百曜科技入选全球 The Information 50！",
-      "url": "https://www.qbitai.com/2026/11/509285.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-12T06:13:22.000Z",
-      "summary": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
-      "url": "https://www.qbitai.com/2026/11/509281.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-12T01:45:04.000Z",
-      "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布"
     },
     {
       "id": "aHR0cHM6Ly90aGVpbnRlcmNlcHQuY29t",
@@ -376,7 +440,7 @@
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "Hacker News",
       "publishedAt": "2026-11-11T21:24:35.000Z",
-      "summary": "669 points · 695 comments"
+      "summary": "677 points · 704 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -411,36 +475,12 @@
       "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
-      "url": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-11T15:51:14.000Z",
-      "summary": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension The post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
-      "url": "https://www.qbitai.com/2026/11/509224.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-11T12:43:54.000Z",
-      "summary": "模型即将开源"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYmJjLmNvLnVrL25l",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-11T12:35:05.000Z",
-      "summary": "5 points · 2 comments"
-    },
-    {
       "id": "aHR0cHM6Ly9waWV0cm9taW90dGkuY29t",
       "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
       "source": "Hacker News",
       "publishedAt": "2026-11-11T12:05:22.000Z",
-      "summary": "1030 points · 391 comments"
+      "summary": "1035 points · 392 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cud3NqLmNvbS9idXNp",
@@ -475,28 +515,12 @@
       "summary": "24 points · 2 comments"
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
-      "url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-11T07:38:57.000Z",
-      "summary": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video. The post MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical"
-    },
-    {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "source": "Hugging Face",
       "publishedAt": "2026-11-11T05:01:16.000Z",
       "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms",
-      "url": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-11T04:43:53.000Z",
-      "summary": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch The post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts "
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdyZWdicm9ja21h",
@@ -512,7 +536,7 @@
       "url": "https://tis-100.wincon.dev/",
       "source": "Hacker News",
       "publishedAt": "2026-11-11T00:37:05.000Z",
-      "summary": "94 points · 22 comments"
+      "summary": "94 points · 23 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -531,14 +555,6 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
-      "url": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-10T23:20:19.000Z",
-      "summary": "Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyperparameters. The post Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs app"
-    },
-    {
       "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
       "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
       "url": "https://arxiv.org/abs/2611.10866",
@@ -552,7 +568,7 @@
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "source": "Hacker News",
       "publishedAt": "2026-11-10T21:25:03.000Z",
-      "summary": "555 points · 552 comments"
+      "summary": "566 points · 557 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
@@ -569,6 +585,14 @@
       "source": "Hacker News",
       "publishedAt": "2026-11-10T17:28:16.000Z",
       "summary": "3 points · 0 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9sd24ubmV0L1N1YnNjcmli",
+      "title": "Git considers voting to determine its LLM policy",
+      "url": "https://lwn.net/SubscriberLink/1104195/1193ea577aaef643/",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-10T16:53:31.000Z",
+      "summary": "11 points · 0 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9jb21w",
@@ -608,7 +632,7 @@
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "source": "Hacker News",
       "publishedAt": "2026-11-10T10:25:58.000Z",
-      "summary": "639 points · 624 comments"
+      "summary": "641 points · 626 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -675,14 +699,6 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest"
     },
     {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
@@ -691,28 +707,12 @@
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy."
     },
     {
-      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-09T15:05:57.000Z",
-      "summary": ""
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
       "title": "Innovating with AI in the special chemicals industry",
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
       "source": "MIT Tech Review",
       "publishedAt": "2026-11-09T13:00:00.000Z",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty "
-    },
-    {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -728,7 +728,7 @@
       "url": "https://www.foldableflight.com",
       "source": "Hacker News",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "summary": "1264 points · 167 comments"
+      "summary": "1278 points · 168 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL3NhbWly",
@@ -744,15 +744,7 @@
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "source": "Hacker News",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "summary": "573 points · 972 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9zZXJnZXlrdWhuZS5jb20v",
-      "title": "How I'm fighting the AI brain fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-08T19:37:42.000Z",
-      "summary": "314 points · 216 comments"
+      "summary": "577 points · 974 comments"
     },
     {
       "id": "aHR0cHM6Ly8yNDd3YWxsc3QuY29tL2lu",
@@ -771,14 +763,6 @@
       "summary": "119 points · 243 comments"
     },
     {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL0RyLUxv",
-      "title": "6th-grade Peano arithmetic broke OpenAI's $100B Yang-Mills mass gap proof",
-      "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-08T08:23:27.000Z",
-      "summary": "6 points · 0 comments"
-    },
-    {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL01peWFt",
       "title": "Show HN: LLM weight editing tool made by a 15-year-old",
       "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
@@ -792,55 +776,7 @@
       "url": "https://hunch.net/?p=13764006",
       "source": "Hacker News",
       "publishedAt": "2026-11-07T18:02:17.000Z",
-      "summary": "513 points · 309 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
-      "title": "Ask HN: Are AI-written reviews a safety risk? Evidence from ICLR2027 scores",
-      "url": "https://news.ycombinator.com/item?id=50398781",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-06T21:29:50.000Z",
-      "summary": "1 points · 0 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucGxhbm5lZC1vYnNv",
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-06T20:27:23.000Z",
-      "summary": "382 points · 360 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
-      "url": "https://openai.com/index/partnering-with-hacktron/",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-06T19:41:59.000Z",
-      "summary": "10 points · 2 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9hcnhpdi5vcmcvYWJzLzI2",
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-06T18:03:33.000Z",
-      "summary": "125 points · 13 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-06T14:00:48.000Z",
-      "summary": ""
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucGhvcm9uaXguY29t",
-      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
-      "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-06T12:59:43.000Z",
-      "summary": "34 points · 20 comments"
+      "summary": "514 points · 309 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
@@ -849,14 +785,6 @@
       "source": "MIT Tech Review",
       "publishedAt": "2026-11-06T10:00:00.000Z",
       "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGlueWZpc2guYWkv",
-      "title": "Stop running everything through LLMs: How I fixed my research agent",
-      "url": "https://www.tinyfish.ai/blog/inside-tinyresearch",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-06T08:04:58.000Z",
-      "summary": "22 points · 1 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -939,14 +867,6 @@
       "summary": ""
     },
     {
-      "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
-      "title": "Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face",
-      "publishedAt": "2026-11-03T00:00:00.000Z",
-      "summary": ""
-    },
-    {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
       "title": "The latest AI news we announced in October 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
@@ -961,6 +881,54 @@
       "source": "MIT Tech Review",
       "publishedAt": "2026-11-02T17:00:00.000Z",
       "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9jb21w",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-10-21T04:00:00.000Z",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-10-07T12:00:00.000Z",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-10-02T15:00:00.000Z",
+      "summary": "Here are Google’s latest AI updates from September 2026"
+    },
+    {
+      "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-28T19:00:00.000Z",
+      "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
     }
   ]
 }
