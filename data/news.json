@@ -1,22 +1,118 @@
 {
-  "updatedAt": "2026-11-14T07:26:42.376Z",
-  "count": 116,
+  "updatedAt": "2026-11-15T07:38:20.185Z",
+  "count": 117,
   "items": [
+    {
+      "id": "aHR0cHM6Ly9kYXRhcm9vdGxhYnMuY29t",
+      "title": "Data Science and Machine Learning Projects for Your Portfolio, by Role",
+      "url": "https://datarootlabs.com/blog/data-science-projects-for-portfolio",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-15T01:06:12.000Z",
+      "summary": "2 points · 0 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+      "url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-14T16:45:48.000Z",
+      "summary": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programmin"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is pe"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge AI",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and c"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+      "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-14T10:21:21.000Z",
+      "summary": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memoril"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "url": "https://www.qbitai.com/2026/11/510297.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-14T10:08:08.000Z",
+      "summary": "马斯克也签名了"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "url": "https://www.qbitai.com/2026/11/510232.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-14T09:58:22.000Z",
+      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+      "url": "https://www.qbitai.com/2026/11/510150.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-14T09:48:34.000Z",
+      "summary": "童年的纸飞机，现在终于飞回我手里～"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "绿电进Token出！联想重新定义词元工厂",
+      "url": "https://www.qbitai.com/2026/11/510094.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-14T09:41:02.000Z",
+      "summary": "年产2000万亿Token，成本狂降70%"
+    },
     {
       "id": "aHR0cHM6Ly90d2l0dGVyLmNvbS93aWxs",
       "title": "Ex-OpenAI researcher finds Blackwell signatures in open-weight models",
       "url": "https://twitter.com/willdepue/status/2120992457630326841",
       "source": "Hacker News",
       "publishedAt": "2026-11-14T06:50:21.000Z",
-      "summary": "6 points · 1 comments"
+      "summary": "18 points · 1 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
+      "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+      "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+      "source": "MarkTechPost",
+      "publishedAt": "2026-11-14T06:38:14.000Z",
+      "summary": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for A"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+      "url": "https://www.qbitai.com/2026/11/510013.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-14T02:59:35.000Z",
+      "summary": "狂揽3000万播放量"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaHBvd2VydXAu",
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News",
       "publishedAt": "2026-11-14T02:52:59.000Z",
-      "summary": "391 points · 196 comments"
+      "summary": "1065 points · 633 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
+      "title": "突发！DeepSeek开放全家桶API",
+      "url": "https://www.qbitai.com/2026/11/510003.html",
+      "source": "量子位",
+      "publishedAt": "2026-11-14T02:39:56.000Z",
+      "summary": "官方App功能均可自由组合调用"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -40,7 +136,7 @@
       "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/",
       "source": "Hacker News",
       "publishedAt": "2026-11-13T18:17:27.000Z",
-      "summary": "8 points · 1 comments"
+      "summary": "10 points · 1 comments"
     },
     {
       "id": "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9i",
@@ -56,7 +152,7 @@
       "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
       "source": "Hacker News",
       "publishedAt": "2026-11-13T17:55:23.000Z",
-      "summary": "161 points · 66 comments"
+      "summary": "176 points · 73 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -89,6 +185,14 @@
       "source": "MarkTechPost",
       "publishedAt": "2026-11-13T16:10:02.000Z",
       "summary": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. The post Perplexity Releases Decider v1.3: Open-Weight Decisio"
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cueW91dHViZS5jb20v",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-13T15:08:44.000Z",
+      "summary": "468 points · 692 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -152,7 +256,7 @@
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "source": "Hacker News",
       "publishedAt": "2026-11-13T10:18:13.000Z",
-      "summary": "488 points · 384 comments"
+      "summary": "493 points · 389 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
@@ -203,54 +307,6 @@
       "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线"
     },
     {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-      "url": "https://www.qbitai.com/2026/11/509716.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-13T07:12:42.000Z",
-      "summary": "比亚迪正在把规模优势转化为技术与品牌价值"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
-      "url": "https://www.qbitai.com/2026/11/509710.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-13T07:09:05.000Z",
-      "summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
-      "url": "https://www.qbitai.com/2026/11/509663.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-13T07:06:32.000Z",
-      "summary": "数据不出域、本地可部署"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
-      "url": "https://www.qbitai.com/2026/11/509653.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-13T06:54:44.000Z",
-      "summary": "想要什么功能，让Agent自己开发"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "特斯拉和SpaceX最快下月合并",
-      "url": "https://www.qbitai.com/2026/11/509613.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-13T06:43:06.000Z",
-      "summary": "马斯克帝国终极形态。"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cucWJpdGFpLmNvbS8y",
-      "title": "中国机器人学会隔墙“递眼色”！成功率从0飙到100%，组队干活不烧心",
-      "url": "https://www.qbitai.com/2026/11/509614.html",
-      "source": "量子位",
-      "publishedAt": "2026-11-13T06:29:23.000Z",
-      "summary": "信息少传80%，准确率反而提高"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
       "url": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
@@ -264,7 +320,7 @@
       "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "source": "Hacker News",
       "publishedAt": "2026-11-12T22:03:09.000Z",
-      "summary": "734 points · 211 comments"
+      "summary": "787 points · 222 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
@@ -339,14 +395,6 @@
       "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "The Jensen Huang scandal is hardly over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-12T17:44:33.000Z",
-      "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has e"
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
       "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
       "url": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
@@ -355,20 +403,12 @@
       "summary": "AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch. The post AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built"
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGhldmVyZ2UuY29t",
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "source": "The Verge AI",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity w"
-    },
-    {
       "id": "aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9y",
       "title": "Inception's Diffusion LLM API Is Shutting Down",
       "url": "https://news.ycombinator.com/item?id=50470335",
       "source": "Hacker News",
       "publishedAt": "2026-11-12T16:51:58.000Z",
-      "summary": "14 points · 9 comments"
+      "summary": "15 points · 9 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL2h5cGVy",
@@ -376,7 +416,7 @@
       "url": "https://github.com/hyperionaidev/smolmaxxing/",
       "source": "Hacker News",
       "publishedAt": "2026-11-12T15:23:10.000Z",
-      "summary": "471 points · 180 comments"
+      "summary": "478 points · 180 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2J1c2lu",
@@ -393,14 +433,6 @@
       "source": "OpenAI",
       "publishedAt": "2026-11-12T09:30:00.000Z",
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits",
-      "url": "https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-12T08:42:21.000Z",
-      "summary": "IBM announced Quantum Nighthawk r3, a 520-qubit processor designed for 10,000 quantum operations. 2 r3 chips will link into a 1,040-qubit system in 2027, while Nighthawk r2 already posts up to 19x speedups over Heron. The post IBM Announces IBM Quantum Nighthawk r3: A New Process"
     },
     {
       "id": "aHR0cHM6Ly90aGVpbnRlcmNlcHQuY29t",
@@ -440,23 +472,7 @@
       "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "Hacker News",
       "publishedAt": "2026-11-11T21:24:35.000Z",
-      "summary": "677 points · 704 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
-      "url": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-11T21:21:42.000Z",
-      "summary": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. The post Google Launches Gemini Decisions API Wi"
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubWFya3RlY2hwb3N0",
-      "title": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects",
-      "url": "https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/",
-      "source": "MarkTechPost",
-      "publishedAt": "2026-11-11T20:51:56.000Z",
-      "summary": "Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. The post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specifi"
+      "summary": "680 points · 707 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9pbm5v",
@@ -481,6 +497,14 @@
       "source": "Hacker News",
       "publishedAt": "2026-11-11T12:05:22.000Z",
       "summary": "1035 points · 392 comments"
+    },
+    {
+      "id": "aHR0cHM6Ly9naXRodWIuY29tL2dhcnJp",
+      "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
+      "url": "https://github.com/garritfra/llmtee",
+      "source": "Hacker News",
+      "publishedAt": "2026-11-11T10:55:46.000Z",
+      "summary": "10 points · 2 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cud3NqLmNvbS9idXNp",
@@ -536,7 +560,7 @@
       "url": "https://tis-100.wincon.dev/",
       "source": "Hacker News",
       "publishedAt": "2026-11-11T00:37:05.000Z",
-      "summary": "94 points · 23 comments"
+      "summary": "95 points · 23 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -568,7 +592,7 @@
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "source": "Hacker News",
       "publishedAt": "2026-11-10T21:25:03.000Z",
-      "summary": "566 points · 557 comments"
+      "summary": "570 points · 560 comments"
     },
     {
       "id": "aHR0cHM6Ly9ibG9nLmdvb2dsZS9wcm9k",
@@ -632,7 +656,7 @@
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "source": "Hacker News",
       "publishedAt": "2026-11-10T10:25:58.000Z",
-      "summary": "641 points · 626 comments"
+      "summary": "643 points · 626 comments"
     },
     {
       "id": "aHR0cHM6Ly9vcGVuYWkuY29tL2luZGV4",
@@ -728,7 +752,7 @@
       "url": "https://www.foldableflight.com",
       "source": "Hacker News",
       "publishedAt": "2026-11-09T12:19:22.000Z",
-      "summary": "1278 points · 168 comments"
+      "summary": "1284 points · 168 comments"
     },
     {
       "id": "aHR0cHM6Ly9naXRodWIuY29tL3NhbWly",
@@ -744,7 +768,7 @@
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
       "source": "Hacker News",
       "publishedAt": "2026-11-08T23:44:36.000Z",
-      "summary": "577 points · 974 comments"
+      "summary": "578 points · 974 comments"
     },
     {
       "id": "aHR0cHM6Ly8yNDd3YWxsc3QuY29tL2lu",
@@ -752,7 +776,7 @@
       "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
       "source": "Hacker News",
       "publishedAt": "2026-11-08T14:49:23.000Z",
-      "summary": "190 points · 216 comments"
+      "summary": "190 points · 218 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cucG9sc28uaW5mby93",
@@ -760,23 +784,7 @@
       "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
       "source": "Hacker News",
       "publishedAt": "2026-11-08T12:14:10.000Z",
-      "summary": "119 points · 243 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9naXRodWIuY29tL01peWFt",
-      "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-08T02:37:10.000Z",
-      "summary": "14 points · 2 comments"
-    },
-    {
-      "id": "aHR0cHM6Ly9odW5jaC5uZXQvP3A9MTM3",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "source": "Hacker News",
-      "publishedAt": "2026-11-07T18:02:17.000Z",
-      "summary": "514 points · 309 comments"
+      "summary": "119 points · 244 comments"
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJl",
